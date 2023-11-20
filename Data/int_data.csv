@@ -1,0 +1,1915 @@
+,Gender2,Gender3,CountC,CountV,Start,End,start_letter,end_letter,plu_pattern,aug_vowel,source,derived_cat,semantic_cat,human,animate,semantic,sexgen
+0,Feminine,Feminine,4,1,1,1,g,r,Internal,A,Native,Underived,,N,N,Physical Acts & Materials,
+1,Feminine,Feminine,4,1,1,1,χ,r,External,A,Native,Underived,,N,N,Body Parts & Functions,
+2,Masculine,Masculine,5,2,1,1,s,j,External,A,Native,Instrumental Nouns,5-DIM,N,N,Emotion,
+3,Feminine,Feminine,2,2,1,0,g,i,Mixed,A,Native,Action Nouns,,N,N,Spatial Relations,
+4,Masculine,Masculine,4,0,1,1,s,l,Internal,A,Native,Underived,,N,N,Dwellings & Furniture,
+5,Masculine,Masculine,4,0,1,1,s,l,Internal,A,Native,Underived,,N,N,Food & Drink,
+6,Masculine,Masculine,5,0,1,1,m,r,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Social Relations,NonSpec
+7,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Result of Verbal Action - WIP,,N,N,Language & Music,
+8,Masculine,Masculine,4,1,1,0,s,u,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Food & Drink,
+9,Masculine,Masculine,4,1,1,1,f,z,External,A,Native,Underived,5-UNIT,N,N,Food & Drink,
+10,Masculine,Masculine,4,1,1,1,k,r,Internal,A,Native,Underived,5-DIM,N,Y,Animals,NonSpec
+11,Masculine,Masculine,4,1,1,1,s,b,External,A,Arabic-Assimilated,Occupational Nouns,5-POLY,Y,Y,Body Parts & Functions,NonSpec
+12,Masculine,Masculine,3,1,1,1,ʃ,r,External,A,Native,Underived,,N,N,Physical World,
+13,Masculine,Masculine,5,1,1,1,m,s,External,A,Native,Agentives,5-POLY,Y,Y,Physical Acts & Materials,NonSpec
+14,Masculine,Masculine,3,2,1,0,ʃ,u,Internal,A,Native,Underived,5-UNIT,N,N,Agriculture & Vegetation,
+15,Masculine,Neutral,3,2,1,0,ħ,i,External,A,Native,Underived,,N,Y,Animals,NonSpec
+16,Masculine,Neutral,3,2,1,0,n,u,Internal,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+17,Masculine,Masculine,3,1,1,1,s,m,Internal,A,Native,Underived,5-DIM,N,N,Physical World,
+18,Masculine,Neutral,3,2,1,1,m,z,External,A,Native,Underived,,N,Y,Agriculture & Vegetation,NonSpec
+19,Masculine,Neutral,3,2,1,1,g,l,External,A,Native,Underived,,N,Y,Animals,NonSpec
+20,Feminine,Feminine,6,1,1,1,k,s,Internal,A,Native,Underived,1-AUG,N,N,Food & Drink,
+21,Masculine,Masculine,3,2,1,0,s,a,External,A,Native,Underived,,N,N,Language & Music,
+22,Feminine,Feminine,3,1,1,1,m,ʁ,No Plural,A,Native,Action Nouns,,N,N,Possession & Trade,
+23,Masculine,Neutral,3,1,1,1,m,ʁ,External,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+24,Masculine,Masculine,3,1,1,1,s,m,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+25,Masculine,Masculine,3,1,1,1,s,j,No Plural,A,Native,Action Nouns,,N,N,Food & Drink,
+26,Masculine,Masculine,4,1,1,1,s,r,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+27,Masculine,Neutral,4,1,1,1,m,r,External,A,Arabic-Assimilated,Agentives,,Y,Y,Language & Music,NonSpec
+28,Masculine,Masculine,4,1,1,0,s,u,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+29,Masculine,Masculine,3,1,1,0,ħ,u,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+30,Feminine,Feminine,2,2,1,0,g,i,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+31,Masculine,Masculine,5,1,1,1,s,r,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+32,Feminine,Feminine,5,2,1,1,s,j,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+33,Masculine,Masculine,4,1,1,1,s,ʁ,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+34,Masculine,Masculine,3,1,1,0,k,u,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+35,Masculine,Masculine,3,2,1,0,ʃ,u,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+36,Masculine,Masculine,3,1,1,1,m,j,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+37,Feminine,Feminine,3,2,1,0,m,i,No Plural,A,Native,Result of Verbal Action - WIP,,N,N,Spatial Relations,
+38,Masculine,Masculine,3,1,1,1,d,w,External,A,Native,Action Nouns,,N,N,Food & Drink,
+39,Feminine,Feminine,3,1,1,1,z,j,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+40,Masculine,Masculine,3,1,1,1,s,l,External,A,Native,Action Nouns,,N,N,Spatial Relations,
+41,Masculine,Masculine,5,1,1,1,ʃ,ʃ,Mixed,A,Native,Action Nouns,,N,N,Motion & Transportation,
+42,Masculine,Masculine,2,2,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+43,Masculine,Masculine,3,1,1,1,s,s,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+44,Masculine,Masculine,3,1,1,1,s,l,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+45,Masculine,Masculine,4,2,1,0,m,u,Mixed,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+46,Masculine,Masculine,5,1,1,1,s,r,External,A,Native,Action Nouns,5-UNIT,N,N,Spatial Relations,
+47,Masculine,Masculine,4,1,1,1,k,j,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+48,Masculine,Masculine,4,1,1,1,ʒ,l,Internal,A,Native,Action Nouns,,N,N,Spatial Relations,
+49,Masculine,Masculine,2,1,1,1,s,d,Mixed,A,Native,Action Nouns,5-DIM,N,N,Body Parts & Functions,
+50,Masculine,Masculine,3,1,1,1,s,m,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+51,Feminine,Feminine,2,2,1,0,d,i,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+52,Feminine,Feminine,5,1,1,1,m,r,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+53,Masculine,Masculine,4,1,1,1,n,s,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+54,Masculine,Masculine,3,1,1,1,z,m,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+55,Masculine,Masculine,6,1,1,1,s,m,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+56,Masculine,Masculine,5,1,1,1,s,s,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+57,Masculine,Masculine,4,1,1,1,s,l,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+58,Masculine,Masculine,4,1,1,0,m,i,Internal,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Warfare & Hunting,NonSpec
+59,Masculine,Masculine,4,1,1,1,l,ʕ,External,A,Native,Underived,,N,Y,Animals,NonSpec
+60,Masculine,Neutral,3,1,1,1,ʕ,n,External,A,Arabic-Assimilated,Action Nouns,,Y,Y,Possession & Trade,NonSpec
+61,Masculine,Masculine,4,1,1,1,s,m,No Plural,A,Native,Agentives,,N,N,Sense Perception,
+62,Masculine,Masculine,3,0,1,1,n,l,No Plural,A,Native,Instrumental Nouns,,N,N,Physical Acts & Materials,
+63,Masculine,Masculine,4,1,1,1,m,z,No Plural,A,Native,Underived,,N,N,Physical Acts & Materials,
+64,Masculine,Masculine,3,1,1,1,n,z,No Plural,A,Native,Instrumental Nouns,,N,N,Physical Acts & Materials,
+65,Masculine,Masculine,4,1,1,1,s,s,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+66,Masculine,Masculine,3,1,1,1,f,s,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+67,Masculine,Masculine,3,1,1,1,n,r,External,A,Native,Underived,,N,N,Physical World,
+68,Masculine,Masculine,4,2,1,1,l,d,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+69,Masculine,Neutral,4,1,1,1,l,d,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+70,Masculine,Neutral,3,1,1,1,ħ,b,External,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+71,Masculine,Masculine,3,2,1,0,h,i,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Language & Music,NonSpec
+72,Masculine,Neutral,6,1,1,1,m,l,Internal,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+73,Feminine,Feminine,4,1,1,1,l,ʁ,External,A,Arabic-Assimilated,Underived,1-AUG,N,N,Body Parts & Functions,
+74,Feminine,Feminine,4,1,1,1,r,m,External,A,Native,Underived,,N,N,Language & Music,
+75,Masculine,Neutral,3,1,1,1,q,m,External,A,Arabic-Assimilated,Underived,,Y,Y,Time,NonSpec
+76,Masculine,Neutral,4,1,1,1,ʁ,l,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+77,Masculine,Masculine,4,1,1,1,χ,l,External,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+78,Masculine,Masculine,4,1,1,1,s,s,External,A,Native,Underived,,N,N,Time,
+79,Masculine,Masculine,4,1,1,1,s,r,No Plural,A,Native,Action Nouns,,N,N,Language & Music,
+80,Masculine,Neutral,4,1,1,1,m,d,Internal,A,Native,Agentives,,N,Y,Animals,NonSpec
+81,Feminine,Feminine,3,1,1,0,d,a,No Plural,A,Native,Underived,,N,N,Time,
+82,Masculine,Masculine,3,2,1,1,q,d,External,A,Native,Underived,,N,N,Possession & Trade,
+83,Masculine,Masculine,4,1,1,1,l,m,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+84,Masculine,Masculine,4,1,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+85,Masculine,Masculine,3,1,1,1,z,g,No Plural,A,Native,Action Nouns,,N,N,Social Relations,
+86,Masculine,Neutral,3,1,1,1,s,s,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+87,Masculine,Neutral,5,0,1,1,m,k,External,A,Arabic-Assimilated,Agentives,,Y,Y,Social Relations,NonSpec
+88,Masculine,Neutral,3,1,1,1,ʃ,k,External,A,Arabic-Assimilated,Agentives,,Y,Y,Social Relations,NonSpec
+89,Masculine,Neutral,4,1,1,1,n,f,Internal,A,Native,Agentives,,N,Y,Physical Acts & Materials,NonSpec
+90,Masculine,Neutral,5,2,1,0,n,u,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+91,Masculine,Neutral,3,2,1,1,z,l,External,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+92,Masculine,Masculine,3,0,1,1,s,s,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+93,Feminine,Feminine,5,0,1,1,l,r,External,A,Arabic-Assimilated,Underived,,N,N,Religion & Beliefs,
+94,Masculine,Masculine,4,2,1,1,ʃ,r,Internal,A,Native,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+95,Masculine,Neutral,3,2,1,1,b,d,External,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+96,Masculine,Masculine,3,1,1,1,d,j,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+97,Masculine,Masculine,2,2,1,0,d,u,Internal,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+98,Masculine,Masculine,4,1,1,1,ʒ,l,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Dwellings & Furniture,
+99,Feminine,Feminine,2,1,1,1,k,r,External,A,Arabic-Assimilated,Underived,1-AUG,N,N,Physical Acts & Materials,
+100,Masculine,Masculine,4,1,1,1,ʃ,d,No Plural,A,Arabic-Assimilated,Underived,,N,N,Clothing & Adornment,
+101,Masculine,Masculine,2,1,1,0,g,a,Mixed,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+102,Masculine,Neutral,3,1,1,1,ʃ,d,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+103,Masculine,Neutral,4,1,1,1,b,ʃ,External,A,Native,Agentives,,N,Y,Social Relations,NonSpec
+104,Masculine,Neutral,4,1,1,1,k,d,External,A,Native,Agentives,,N,Y,Social Relations,NonSpec
+105,Masculine,Masculine,4,2,1,0,ʁ,u,Internal,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+106,Masculine,Masculine,3,2,1,0,b,u,Internal,A,French,Underived,5-DIM,N,N,Motion & Transportation,
+107,Masculine,Masculine,4,1,1,1,z,r,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+108,Masculine,Masculine,3,2,1,0,b,a,Mixed,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+109,Masculine,Masculine,3,2,1,0,b,a,Mixed,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+110,Masculine,Masculine,4,1,1,1,f,l,External,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+111,Masculine,Masculine,4,1,1,1,ħ,s,Internal,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+112,Masculine,Neutral,4,1,1,1,ħ,m,External,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+113,Masculine,Masculine,3,2,1,1,k,j,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+114,Feminine,Feminine,4,1,1,1,χ,t,External,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+115,Masculine,Masculine,3,1,1,1,s,f,External,A,Native,Instrumental Nouns,,N,N,Body Parts & Functions,
+116,Masculine,Neutral,4,1,1,1,b,q,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+117,Masculine,Masculine,4,1,1,1,l,j,External,A,Native,Underived,,N,N,Physical World,
+118,Masculine,Masculine,4,1,1,1,m,r,External,A,Native,Underived,,N,N,Physical World,
+119,Masculine,Neutral,4,2,1,1,f,j,External,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+120,Masculine,Neutral,3,1,1,1,r,b,External,A,Native,Underived,,Y,Y,Mankind,NonSpec
+121,Masculine,Masculine,3,2,1,0,f,i,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+122,Masculine,Masculine,4,1,1,1,ʁ,r,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+123,Masculine,Neutral,4,1,1,1,f,d,External,A,Native,Underived,,N,Y,Body Parts & Functions,NonSpec
+124,Masculine,Masculine,4,2,1,1,q,m,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+125,Masculine,Neutral,4,1,1,1,g,z,External,A,Native,Underived,,Y,Y,Language & Music,NonSpec
+126,Masculine,Neutral,4,1,1,1,t,m,External,A,Native,Underived,,Y,Y,Language & Music,NonSpec
+127,Masculine,Neutral,4,1,1,1,t,f,External,A,Native,Underived,,Y,Y,Mind & Thought,NonSpec
+128,Masculine,Masculine,2,2,1,0,ħ,i,External,A,Arabic-Assimilated,Underived,,N,Y,Animals,Male
+129,Masculine,Neutral,3,1,1,0,m,i,Mixed,A,Arabic-Assimilated,Agentives,,Y,Y,Religion & Beliefs,NonSpec
+130,Masculine,Neutral,4,2,1,0,m,i,Mixed,A,Arabic-Assimilated,Agentives,,Y,Y,Religion & Beliefs,NonSpec
+131,Masculine,Masculine,4,2,1,0,n,u,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+132,Masculine,Masculine,3,2,1,0,d,u,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+133,Masculine,Neutral,3,1,1,0,m,a,Mixed,A,Native,Agentives,,Y,Y,Animals,NonSpec
+134,Masculine,Masculine,3,2,1,1,b,n,Internal,A,French,Underived,5-DIM,N,N,Food & Drink,
+135,Masculine,Masculine,3,0,1,1,b,g,Mixed,A,Native,Underived,,N,N,Clothing & Adornment,
+136,Masculine,Masculine,4,0,1,1,s,l,Internal,A,Native,Underived,5-DIM,N,N,Food & Drink,
+137,Masculine,Masculine,3,1,1,0,z,u,No Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+138,Masculine,Neutral,3,2,1,1,m,s,Internal,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+139,Masculine,Masculine,3,1,1,1,m,z,External,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+140,Masculine,Neutral,4,1,1,1,ʃ,n,External,A,Arabic-Assimilated,Agentives,,Y,Y,Sense Perception,NonSpec
+141,Masculine,Masculine,3,0,1,1,z,r,Mixed,A,Native,Underived,,N,N,Food & Drink,
+142,Feminine,Feminine,3,2,1,1,f,s,External,A,Native,Underived,1-AUG,N,N,Food & Drink,
+143,Masculine,Masculine,4,1,1,0,s,u,Mixed,A,Native,Action Nouns,,N,N,Dwellings & Furniture,
+144,Masculine,Neutral,3,2,1,1,b,r,External,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+145,Masculine,Neutral,4,2,1,0,m,u,Internal,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+146,Masculine,Neutral,4,1,1,1,n,r,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+147,Masculine,Neutral,3,2,1,1,b,r,External,A,Native,Underived,,N,Y,Animals,NonSpec
+148,Masculine,Masculine,4,1,1,1,g,r,External,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+149,Feminine,Feminine,4,2,1,1,s,n,Internal,A,Native,Instrumental Nouns,1-AUG,N,N,Physical Acts & Materials,
+150,Masculine,Masculine,4,2,1,0,χ,i,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+151,Masculine,Masculine,3,1,1,1,b,z,Mixed,A,Native,Underived,,N,N,Physical World,
+152,Masculine,Masculine,3,2,1,0,f,u,Mixed,A,Native,Action Nouns,,N,N,Physical World,
+153,Feminine,Feminine,4,1,1,1,ʕ,d,Internal,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+154,Masculine,Neutral,4,1,1,1,b,r,External,A,Native,Underived,,Y,Y,Animals,NonSpec
+155,Masculine,Neutral,3,2,1,1,m,j,External,A,Native,Underived,,N,Y,Animals,NonSpec
+156,Masculine,Masculine,4,2,1,0,s,u,Mixed,A,Native,Action Nouns,,N,N,Emotion,
+157,Masculine,Masculine,5,1,1,1,s,d,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+158,Masculine,Masculine,4,2,1,0,l,u,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+159,Masculine,Masculine,4,1,1,1,q,ʕ,External,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+160,Masculine,Neutral,4,1,1,1,m,g,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+161,Masculine,Masculine,4,1,1,1,ħ,g,External,A,Arabic-Assimilated,Result of Verbal Action - WIP,,N,N,Body Parts & Functions,
+162,Masculine,Masculine,4,1,1,1,ʃ,r,External,A,Native,Underived,,N,N,Agriculture & Vegetation,
+163,Masculine,Masculine,4,1,1,1,s,m,External,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+164,Masculine,Masculine,3,1,1,1,χ,f,Mixed,A,Native,Underived,,N,N,Clothing & Adornment,
+165,Masculine,Masculine,3,2,1,1,χ,s,Internal,A,Native,Underived,,N,N,Clothing & Adornment,
+166,Masculine,Masculine,2,1,1,0,ħ,u,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+167,Masculine,Masculine,6,1,1,1,g,r,Internal,A,Native,Underived,,N,N,Agriculture & Vegetation,
+168,Masculine,Masculine,5,1,1,1,l,ʃ,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Language & Music,
+169,Masculine,Masculine,4,1,1,1,ħ,d,External,A,Native,Underived,,N,N,Body Parts & Functions,
+170,Masculine,Masculine,4,1,1,1,ħ,r,External,A,Native,Agentives,5-POLY,N,N,Language & Music,
+171,Masculine,Masculine,4,2,1,0,ħ,i,External,A,Arabic-Assimilated,Abnakliy,5-POLY,Y,Y,Mind & Thought,NonSpec
+172,Masculine,Masculine,4,1,1,1,ʕ,z,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Motion & Transportation,
+173,Masculine,Masculine,4,1,1,1,q,n,Mixed,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+174,Masculine,Masculine,4,1,1,1,q,l,External,A,Native,Underived,5-DIM,N,N,Food & Drink,
+175,Masculine,Masculine,4,1,1,1,q,l,External,A,Native,Underived,5-DIM,N,N,Language & Music,
+176,Masculine,Masculine,5,1,1,1,ʒ,ʒ,External,A,Arabic-Assimilated,Underived,5-UNIT,N,N,Physical Acts & Materials,
+177,Masculine,Masculine,4,1,1,1,m,r,Internal,A,Native,Underived,,N,N,Physical World,
+178,Masculine,Masculine,4,1,1,1,m,g,External,A,Native,Agentives,,Y,Y,Physical Acts & Materials,NonSpec
+179,Masculine,Masculine,4,1,1,1,m,j,External,A,Native,Action Nouns,5-POLY,Y,Y,Motion & Transportation,NonSpec
+180,Masculine,Masculine,3,1,1,1,m,j,External,A,Native,Agentives,5-POLY,Y,Y,Motion & Transportation,NonSpec
+181,Masculine,Neutral,4,1,1,1,m,d,Internal,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+182,Masculine,Masculine,3,1,1,1,b,d,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+183,Masculine,Neutral,3,1,1,0,ʕ,i,Internal,A,Native,Underived,,Y,Y,Mankind,NonSpec
+184,Masculine,Neutral,4,1,1,1,b,r,External,A,Arabic-Assimilated,Agentives,,Y,Y,Language & Music,NonSpec
+185,Masculine,Neutral,4,1,1,1,m,l,Internal,A,Native,Agentives,,Y,Y,Physical Acts & Materials,NonSpec
+186,Masculine,Masculine,4,1,1,1,m,f,External,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+187,Masculine,Masculine,2,2,1,0,ħ,u,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+188,Masculine,Neutral,3,0,1,1,r,m,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+189,Masculine,Neutral,4,1,1,1,r,k,External,A,Native,Underived,,Y,Y,Animals,NonSpec
+190,Masculine,Masculine,4,0,1,1,g,l,Internal,A,Native,Underived,,N,N,Agriculture & Vegetation,
+191,Masculine,Masculine,3,1,1,1,m,g,Internal,A,Native,Underived,,N,N,Language & Music,
+192,Masculine,Neutral,3,2,1,1,m,r,External,A,Native,Agentives,,Y,Y,Language & Music,NonSpec
+193,Masculine,Masculine,4,0,1,1,s,z,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Agriculture & Vegetation,
+194,Masculine,Masculine,4,2,1,0,w,u,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+195,Feminine,Feminine,3,0,1,1,g,r,No Plural,A,Native,Action Nouns,,N,N,Warfare & Hunting,
+196,Feminine,Feminine,4,0,1,1,n,r,No Plural,A,Native,Action Nouns,,N,N,Warfare & Hunting,
+197,Masculine,Masculine,4,1,1,1,n,r,External,A,Native,Agentives,5-POLY,Y,Y,Warfare & Hunting,NonSpec
+198,Masculine,Masculine,4,1,1,1,s,d,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Warfare & Hunting,NonSpec
+199,Masculine,Neutral,3,1,1,1,m,ʃ,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+200,Masculine,Neutral,4,1,1,1,m,j,Internal,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+201,Masculine,Masculine,3,2,1,1,ʁ,s,External,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+202,Masculine,Neutral,3,1,1,1,g,r,External,A,Native,Underived,,N,Y,Animals,NonSpec
+203,Masculine,Masculine,3,2,1,1,k,r,External,A,Native,Underived,,N,Y,Animals,NonSpec
+204,Masculine,Masculine,4,1,1,1,ʃ,d,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+205,Masculine,Neutral,5,1,1,1,b,z,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+206,Masculine,Neutral,3,1,1,0,ʃ,i,Mixed,A,Native,Underived,,Y,Y,Language & Music,NonSpec
+207,Feminine,Feminine,3,2,1,0,ʁ,a,Mixed,A,Native,Underived,,N,N,Quantity & Number,
+208,Masculine,Neutral,2,2,1,0,r,i,Mixed,A,Native,Underived,,Y,Y,Religion & Beliefs,NonSpec
+209,Masculine,Masculine,3,1,1,1,s,j,No Plural,A,Native,Result of Verbal Action - WIP,,N,N,Body Parts & Functions,
+210,Feminine,Feminine,4,1,1,1,g,j,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+211,Masculine,Masculine,4,0,1,1,s,l,Internal,A,Native,Instrumental Nouns,,N,N,Religion & Beliefs,
+212,Masculine,Neutral,3,2,1,0,χ,i,Mixed,A,Arabic-Assimilated,Underived,,N,Y,Quantity & Number,NonSpec
+213,Masculine,Masculine,4,1,1,1,ħ,m,External,A,Native,Underived,5-POLY,Y,Y,Body Parts & Functions,NonSpec
+214,Masculine,Masculine,4,1,1,1,m,r,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+215,Masculine,Masculine,4,1,1,1,ʁ,r,Mixed,A,Native,Underived,5-DIM,N,N,Spatial Relations,
+216,Masculine,Neutral,5,0,1,1,m,q,External,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+217,Masculine,Masculine,4,1,1,1,r,d,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+218,Masculine,Masculine,3,1,1,1,z,g,External,A,Native,Action Nouns,5-DIM,N,N,Clothing & Adornment,
+219,Feminine,Feminine,3,2,1,0,m,a,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+220,Masculine,Masculine,3,2,1,1,ʃ,ʃ,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+221,Masculine,Masculine,3,0,1,1,d,s,External,A,Native,Underived,,N,N,Body Parts & Functions,
+222,Masculine,Masculine,3,1,1,0,b,u,No Plural,A,Arabic-Assimilated,Action Nouns,,N,N,Time,
+223,Masculine,Masculine,3,2,1,1,m,l,External,A,Native,Underived,,N,N,Language & Music,
+224,Masculine,Neutral,4,1,1,1,s,n,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+225,Masculine,Neutral,3,1,1,1,s,n,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+226,Masculine,Neutral,4,1,1,1,m,j,External,A,Native,Agentives,,Y,Y,Animals,NonSpec
+227,Masculine,Masculine,3,1,1,1,g,j,No Plural,A,Native,Action Nouns,,N,N,Social Relations,
+228,Masculine,Masculine,3,2,1,1,b,z,External,A,Arabic-Assimilated,Underived,,N,N,Social Relations,
+229,Masculine,Masculine,3,2,1,1,s,ʁ,External,A,Native,Underived,5-DIM,N,Y,Animals,NonSpec
+230,Masculine,Masculine,4,1,1,1,m,r,Mixed,A,Arabic-Assimilated,Action Nouns,5-UNIT,N,N,Social Relations,
+231,Masculine,Neutral,4,2,1,0,s,i,External,A,Arabic-Assimilated,Agentives,,Y,Y,Religion & Beliefs,NonSpec
+232,Masculine,Neutral,4,1,1,1,m,w,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+233,Masculine,Masculine,3,1,1,1,s,m,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+234,Masculine,Neutral,4,2,1,1,f,s,External,A,Native,Underived,,N,Y,Animals,NonSpec
+235,Masculine,Masculine,4,2,1,1,g,r,External,A,Native,Underived,,N,Y,Animals,NonSpec
+236,Masculine,Masculine,3,2,1,1,d,n,External,A,Native,Underived,,N,N,Language & Music,
+237,Masculine,Masculine,4,1,1,1,g,s,Internal,A,Native,Underived,,N,N,Physical Acts & Materials,
+238,Masculine,Masculine,4,1,1,1,ʁ,s,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+239,Masculine,Masculine,3,1,1,1,s,n,Internal,A,Native,Underived,5-DIM,N,N,Physical World,
+240,Masculine,Masculine,5,0,1,1,m,d,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+241,Masculine,Masculine,4,1,1,0,ʁ,i,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+242,Masculine,Masculine,3,2,1,1,d,l,External,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+243,Masculine,Masculine,3,2,1,1,s,g,External,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+244,Masculine,Neutral,5,2,1,0,g,u,Internal,A,Native,Azddayru,,Y,Y,Spatial Relations,NonSpec
+245,Masculine,Masculine,4,1,1,1,d,l,External,A,Native,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+246,Masculine,Masculine,4,1,1,1,s,r,External,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+247,Feminine,Feminine,3,1,1,0,s,u,Mixed,A,Native,Underived,,N,N,Food & Drink,
+248,Masculine,Masculine,3,0,1,1,s,l,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+249,Masculine,Masculine,4,1,1,1,s,l,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+250,Masculine,Masculine,4,1,1,1,f,d,External,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+251,Masculine,Masculine,3,1,1,1,ʕ,n,External,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+252,Masculine,Masculine,3,2,1,0,f,u,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+253,Feminine,Feminine,3,2,1,0,q,a,Mixed,A,Native,Underived,1-AUG,N,N,Body Parts & Functions,
+254,Feminine,Feminine,2,2,1,0,ʁ,i,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+255,Feminine,Feminine,3,1,1,0,ʁ,i,No Plural,A,Native,Underived,,N,N,Emotion,
+256,Masculine,Masculine,4,1,1,1,b,ħ,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Language & Music,NonSpec
+257,Masculine,Masculine,3,1,1,1,n,d,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+258,Masculine,Masculine,3,1,1,1,f,s,External,A,Native,Underived,,N,N,Physical World,
+259,Masculine,Masculine,3,1,1,1,k,b,Mixed,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+260,Feminine,Feminine,2,2,1,0,f,i,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+261,Masculine,Neutral,3,1,1,1,m,n,External,A,Arabic-Assimilated,Agentives,,Y,Y,Religion & Beliefs,NonSpec
+262,Masculine,Masculine,4,2,1,1,b,l,External,A,Native,Underived,5-DIM,N,N,Food & Drink,
+263,Masculine,Masculine,4,1,1,1,q,m,Internal,A,Native,Underived,5-DIM,N,N,Food & Drink,
+264,Masculine,Masculine,3,1,1,1,n,l,External,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+265,Masculine,Masculine,5,1,1,1,g,m,No Plural,A,Native,Action Nouns,,N,N,Food & Drink,
+266,Masculine,Masculine,2,1,1,0,χ,a,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+267,Masculine,Masculine,2,1,1,1,s,d,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+268,Feminine,Feminine,4,2,1,0,g,i,Internal,A,Native,Action Nouns,,N,N,Motion & Transportation,
+269,Masculine,Masculine,4,1,1,1,f,ħ,External,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Agriculture & Vegetation,NonSpec
+270,Masculine,Masculine,4,1,1,1,ħ,ʃ,No Plural,A,Native,Underived,,N,N,Language & Music,
+271,Masculine,Masculine,4,1,1,1,ʒ,d,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+272,Masculine,Masculine,4,1,1,1,ʒ,d,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+273,Masculine,Masculine,6,1,1,1,s,s,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+274,Masculine,Neutral,3,1,1,0,n,u,Internal,A,Native,Underived,,Y,Y,Mankind,NonSpec
+275,Masculine,Neutral,4,1,1,1,n,d,External,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+276,Masculine,Masculine,4,1,1,1,ʃ,g,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+277,Masculine,Masculine,3,1,1,1,f,k,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+278,Masculine,Masculine,4,1,1,1,n,ʃ,External,A,Native,Underived,5-POLY,Y,Y,Social Relations,NonSpec
+279,Masculine,Masculine,4,1,1,1,r,j,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+280,Masculine,Masculine,4,1,1,1,b,j,External,A,Native,Underived,,N,N,Mind & Thought,
+281,Masculine,Masculine,3,2,1,0,f,u,No Plural,A,Native,Action Nouns,,N,N,Social Relations,
+282,Masculine,Masculine,3,0,1,1,z,n,No Plural,A,Native,Underived,,N,N,Quantity & Number,
+283,Masculine,Masculine,3,1,1,0,χ,u,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+284,Masculine,Masculine,4,1,1,1,z,r,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+285,Feminine,Feminine,2,2,1,0,ʁ,i,No Plural,A,Native,Underived,,N,N,Emotion,
+286,Masculine,Masculine,3,2,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+287,Masculine,Masculine,3,1,1,1,b,n,External,A,Native,Underived,,N,N,Body Parts & Functions,
+288,Masculine,Masculine,4,1,1,1,g,d,External,A,Native,Underived,5-DIM,N,Y,Body Parts & Functions,NonSpec
+289,Masculine,Neutral,3,2,1,1,n,f,Internal,A,Native,Agentives,,N,Y,Agriculture & Vegetation,NonSpec
+290,Masculine,Neutral,4,2,1,0,m,u,Internal,A,Native,Agentives,,N,Y,Quantity & Number,NonSpec
+291,Masculine,Masculine,3,1,1,1,m,d,External,A,Native,Underived,,N,N,Sense Perception,
+292,Masculine,Masculine,4,2,1,1,m,l,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+293,Masculine,Masculine,3,1,1,1,d,g,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+294,Masculine,Masculine,3,2,1,0,n,u,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+295,Masculine,Masculine,3,2,1,0,ʕ,i,No Plural,A,Arabic-Assimilated,Underived,,N,N,Time,
+296,Feminine,Feminine,4,2,1,0,ʒ,i,Internal,A,Native,Underived,1-AUG,N,N,Clothing & Adornment,
+297,Masculine,Masculine,2,1,1,1,d,d,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+298,Masculine,Masculine,3,1,1,1,ʁ,d,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+299,Masculine,Masculine,4,1,1,1,m,d,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+300,Masculine,Masculine,3,1,1,1,n,z,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+301,Masculine,Masculine,3,1,1,0,b,i,No Plural,A,Arabic-Assimilated,Underived,,N,N,Social Relations,
+302,Masculine,Masculine,3,2,1,0,k,u,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+303,Masculine,Masculine,4,0,1,1,m,d,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+304,Masculine,Masculine,3,2,1,1,ʁ,r,No Plural,A,Native,Underived,,N,N,Motion & Transportation,
+305,Masculine,Neutral,4,1,1,1,m,χ,Internal,A,Native,Agentives,,N,Y,Physical Acts & Materials,NonSpec
+306,Masculine,Masculine,3,1,1,1,s,j,External,A,Native,Result of Verbal Action - WIP,,N,N,Physical Acts & Materials,
+307,Masculine,Masculine,2,1,1,0,n,i,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+308,Masculine,Masculine,5,0,1,1,s,d,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+309,Masculine,Masculine,4,1,1,0,s,u,External,A,Native,Action Nouns,,N,N,Sense Perception,
+310,Masculine,Masculine,3,1,1,1,b,ʒ,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+311,Masculine,Masculine,3,1,1,1,l,ʒ,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+312,Masculine,Masculine,4,1,1,1,b,r,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+313,Masculine,Masculine,3,2,1,0,l,i,Mixed,A,Native,Underived,,N,N,Physical Acts & Materials,
+314,Masculine,Neutral,4,1,1,1,f,ʃ,External,A,Native,Underived,,Y,Y,Body Parts & Functions,NonSpec
+315,Masculine,Masculine,3,1,1,1,s,d,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+316,Masculine,Masculine,4,1,1,1,b,j,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+317,Masculine,Neutral,4,1,1,1,m,r,External,A,Native,Underived,,Y,Y,Mind & Thought,NonSpec
+318,Masculine,Masculine,4,1,1,1,k,b,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Agriculture & Vegetation,NonSpec
+319,Feminine,Feminine,3,1,1,1,m,j,No Plural,A,Native,Action Nouns,,N,N,Warfare & Hunting,
+320,Masculine,Masculine,3,2,1,0,f,i,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+321,Masculine,Masculine,3,1,1,1,z,r,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+322,Masculine,Masculine,4,1,1,1,z,r,External,A,Native,Agentives,5-POLY,Y,Y,Agriculture & Vegetation,NonSpec
+323,Masculine,Masculine,5,2,1,0,l,u,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+324,Masculine,Masculine,5,1,1,0,g,u,No Plural,A,Native,Stative Noun - WIP,,N,N,Physical Acts & Materials,
+325,Masculine,Masculine,4,1,1,1,r,s,External,A,Native,Underived,5-POLY,Y,Y,Social Relations,NonSpec
+326,Masculine,Neutral,3,2,1,1,n,m,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Spatial Relations,NonSpec
+327,Masculine,Masculine,3,1,1,1,g,r,Internal,A,Native,Underived,5-DIM,N,N,Spatial Relations,
+328,Masculine,Masculine,3,1,1,1,f,g,Mixed,A,Native,Underived,,N,N,Spatial Relations,
+329,Masculine,Masculine,4,1,1,1,g,d,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+330,Masculine,Neutral,2,1,1,0,r,i,Mixed,A,Native,Underived,,Y,Y,Mankind,NonSpec
+331,Masculine,Masculine,3,1,1,1,g,s,Internal,A,Native,Underived,,N,N,Religion & Beliefs,
+332,Masculine,Masculine,4,1,1,1,r,s,No Plural,A,Native,Underived,,N,N,Religion & Beliefs,
+333,Masculine,Masculine,3,1,1,1,s,j,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+334,Masculine,Masculine,4,1,1,1,b,g,No Plural,A,Native,Stative Noun - WIP,,N,N,Body Parts & Functions,
+335,Masculine,Masculine,2,1,1,0,f,a,No Plural,A,Native,Underived,,N,N,Social Relations,
+336,Masculine,Masculine,5,1,1,1,n,f,No Plural,A,Native,Stative Noun - WIP,,N,N,Mind & Thought,
+337,Masculine,Neutral,5,2,1,1,n,f,External,A,Native,Agentives,,Y,Y,Mind & Thought,NonSpec
+338,Masculine,Neutral,4,1,1,1,m,f,External,A,Arabic-Assimilated,Underived,,Y,Y,Possession & Trade,NonSpec
+339,Masculine,Masculine,4,1,1,1,m,z,No Plural,A,Native,Stative Noun - WIP,,N,N,Body Parts & Functions,
+340,Masculine,Masculine,4,1,1,1,n,m,No Plural,A,Native,Action Nouns,,N,N,Dwellings & Furniture,
+341,Masculine,Masculine,4,1,1,1,k,m,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+342,Masculine,Masculine,4,1,1,1,t,ʕ,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Emotion,NonSpec
+343,Masculine,Masculine,3,1,1,1,s,d,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+344,Masculine,Neutral,3,2,1,1,z,j,External,A,Native,Agentives,,Y,Y,Quantity & Number,NonSpec
+345,Feminine,Feminine,2,2,1,0,z,i,No Plural,A,Native,Stative Noun - WIP,,N,N,Quantity & Number,
+346,Feminine,Feminine,3,0,1,1,z,f,External,A,Native,Underived,,N,N,Body Parts & Functions,
+347,Feminine,Feminine,3,1,1,1,z,f,External,A,Native,Underived,,N,N,Body Parts & Functions,
+348,Masculine,Masculine,4,1,1,1,ʕ,r,External,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+349,Masculine,Masculine,4,1,1,1,s,n,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+350,Masculine,Masculine,4,1,1,1,z,m,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+351,Masculine,Masculine,4,1,1,1,k,d,External,A,Native,Action Nouns,5-UNIT,N,N,Physical Acts & Materials,
+352,Masculine,Masculine,3,0,1,1,z,z,Internal,A,Native,Underived,,N,N,Time,
+353,Masculine,Masculine,3,1,1,1,z,w,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+354,Masculine,Masculine,3,1,1,1,ʁ,l,External,A,Native,Underived,,Y,Y,Religion & Beliefs,NonSpec
+355,Masculine,Neutral,4,1,1,1,ʁ,f,External,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+356,Masculine,Masculine,4,1,1,1,s,ʁ,No Plural,A,Native,Action Nouns,,N,Y,Animals,NonSpec
+357,Masculine,Neutral,4,1,1,1,n,b,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+358,Masculine,Masculine,3,1,1,1,f,r,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+359,Feminine,Feminine,2,1,1,0,m,a,Mixed,A,Native,Underived,1-AUG,N,N,Physical World,
+360,Masculine,Masculine,3,1,1,1,m,d,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+361,Masculine,Masculine,4,2,1,0,l,u,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+362,Masculine,Masculine,3,1,1,1,s,w,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+363,Masculine,Masculine,3,2,1,0,g,u,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+364,Masculine,Masculine,4,1,1,1,m,j,External,A,Native,Underived,,N,N,Physical Acts & Materials,
+365,Masculine,Masculine,4,1,1,1,b,ʃ,External,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+366,Feminine,Feminine,2,2,1,0,ʁ,i,External,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+367,Masculine,Masculine,3,1,1,1,s,ʁ,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+368,Masculine,Neutral,4,1,1,1,m,g,Mixed,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+369,Masculine,Masculine,3,1,1,1,χ,j,No Plural,A,Native,Underived,,N,N,Time,
+370,Masculine,Neutral,4,1,1,1,m,z,External,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+371,Masculine,Masculine,5,1,1,1,s,f,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+372,Masculine,Masculine,4,1,1,1,n,d,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+373,Masculine,Neutral,4,1,1,1,m,w,External,A,Native,Agentives,,N,Y,Spatial Relations,NonSpec
+374,Masculine,Neutral,4,2,1,0,z,i,Mixed,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+375,Feminine,Feminine,2,1,1,0,ʁ,u,No Plural,A,Native,Unknown,,N,N,Mind & Thought,
+376,Masculine,Masculine,5,2,1,1,ʒ,r,No Plural,A,Native,Underived,,N,N,Emotion,
+377,Masculine,Masculine,4,0,1,1,g,n,No Plural,A,Native,Underived,,N,N,Food & Drink,
+378,Masculine,Masculine,4,1,1,1,s,r,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+379,Masculine,Neutral,4,1,1,1,n,r,External,A,Native,Agentives,,Y,Y,Agriculture & Vegetation,NonSpec
+380,Masculine,Masculine,5,1,1,1,s,d,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+381,Masculine,Masculine,4,1,1,1,n,k,Internal,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+382,Feminine,Feminine,3,1,1,1,m,r,External,A,Native,Underived,,Y,Y,Mankind,Female
+383,Feminine,Feminine,3,2,1,1,m,ʁ,External,A,Native,Underived,,Y,Y,Mankind,Female
+384,Masculine,Masculine,4,1,1,1,s,ʁ,Mixed,A,Native,Underived,5-DIM,N,N,Physical World,
+385,Masculine,Masculine,4,1,1,1,q,ħ,No Plural,A,Native,Underived,,N,N,Quantity & Number,
+386,Masculine,Masculine,4,1,1,1,ħ,w,No Plural,A,Native,Underived,,N,N,Quantity & Number,
+387,Masculine,Masculine,3,1,1,1,f,d,No Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+388,Masculine,Masculine,3,1,1,1,f,w,External,A,Native,Underived,,N,N,Language & Music,
+389,Masculine,Masculine,4,1,1,1,b,g,No Plural,A,Native,Underived,,N,N,Food & Drink,
+390,Masculine,Masculine,2,1,1,1,b,w,External,A,Native,Underived,5-DIM,N,N,Food & Drink,
+391,Feminine,Feminine,3,1,1,0,z,i,Internal,A,Native,Underived,,N,N,Body Parts & Functions,
+392,Masculine,Masculine,3,2,1,0,q,i,Mixed,A,Native,Underived,5-DIM,N,N,Food & Drink,
+393,Masculine,Masculine,5,1,1,1,k,s,External,A,Native,Underived,5-DIM,N,N,Food & Drink,
+394,Masculine,Masculine,4,2,1,1,b,g,External,A,Native,Underived,,N,N,Food & Drink,
+395,Masculine,Masculine,3,2,1,0,k,i,Mixed,A,Native,Underived,5-UNIT,N,N,Agriculture & Vegetation,
+396,Feminine,Feminine,3,1,1,1,s,j,External,A,Native,Instrumental Nouns,,N,N,Physical Acts & Materials,
+397,Masculine,Masculine,3,1,1,1,ʒ,g,External,A,Native,Underived,5-UNIT,N,N,Agriculture & Vegetation,
+398,Masculine,Neutral,3,2,1,0,s,i,External,A,Arabic-Assimilated,Underived,,N,Y,Language & Music,NonSpec
+399,Masculine,Masculine,3,1,1,0,χ,u,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+400,Masculine,Masculine,3,1,1,1,n,l,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+401,Masculine,Masculine,4,1,1,1,f,j,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+402,Masculine,Neutral,3,1,1,1,m,l,External,A,Native,Underived,,Y,Y,Physical Acts & Materials,NonSpec
+403,Masculine,Masculine,2,1,1,0,g,i,Mixed,A,Native,Underived,5-DIM,N,N,Physical World,
+404,Masculine,Neutral,4,1,1,1,m,w,External,A,Native,Agentives,,N,Y,Mind & Thought,NonSpec
+405,Masculine,Neutral,3,2,1,1,n,l,External,A,Native,Agentives,,N,Y,Mind & Thought,NonSpec
+406,Masculine,Masculine,3,0,1,1,z,l,Mixed,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+407,Masculine,Masculine,4,1,1,1,f,n,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+408,Masculine,Masculine,3,2,1,0,f,u,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+409,Feminine,Feminine,3,1,1,1,ʁ,ʃ,Internal,A,Native,Underived,,N,N,Food & Drink,
+410,Feminine,Feminine,3,1,1,1,ʃ,ʃ,Internal,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+411,Masculine,Masculine,3,1,1,1,b,ʃ,Internal,A,Native,Underived,5-DIM,N,N,Food & Drink,
+412,Masculine,Masculine,3,1,1,1,ʒ,j,No Plural,A,Native,Agentives,,N,N,Warfare & Hunting,
+413,Masculine,Neutral,3,1,1,0,m,u,Mixed,A,Native,Agentives,,N,Y,Physical Acts & Materials,NonSpec
+414,Masculine,Masculine,3,2,1,0,z,u,No Plural,A,Native,Action Nouns,,N,N,Time,
+415,Feminine,Feminine,3,1,1,0,w,a,Mixed,A,Native,Underived,,N,N,Spatial Relations,
+416,Masculine,Masculine,2,1,1,1,z,g,Mixed,A,Native,Underived,,N,N,Spatial Relations,
+417,Masculine,Masculine,4,2,1,0,g,u,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+418,Masculine,Masculine,4,1,1,1,k,m,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+419,Masculine,Masculine,4,1,1,1,s,d,Mixed,A,Native,Underived,,N,N,Sense Perception,
+420,Masculine,Masculine,3,2,1,0,ħ,u,Mixed,A,Native,Action Nouns,5-UNIT,N,N,Physical Acts & Materials,
+421,Masculine,Masculine,4,1,1,1,b,ʃ,Internal,A,Native,Underived,5-DIM,N,N,Food & Drink,
+422,Feminine,Feminine,2,2,1,0,r,a,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+423,Masculine,Masculine,4,1,1,1,k,j,External,A,Native,Agentives,5-POLY,Y,Y,Food & Drink,NonSpec
+424,Masculine,Neutral,4,2,1,0,m,i,Mixed,A,Native,Agentives,,Y,Y,Food & Drink,NonSpec
+425,Masculine,Neutral,4,2,1,0,s,i,Internal,A,Native,Abnakliy,,Y,Y,Food & Drink,NonSpec
+426,Masculine,Masculine,3,2,1,1,m,r,Mixed,A,Native,Underived,,N,N,Agriculture & Vegetation,
+427,Masculine,Neutral,5,0,1,1,m,r,External,A,Arabic-Assimilated,Agentives,,Y,Y,Mind & Thought,NonSpec
+428,Masculine,Neutral,4,0,1,1,m,l,Internal,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+429,Masculine,Masculine,5,2,1,1,s,z,External,A,Native,Instrumental Nouns,5-DIM,N,N,Language & Music,
+430,Masculine,Masculine,6,1,1,1,m,r,External,A,Native,Underived,,N,N,Social Relations,
+431,Feminine,Feminine,3,1,1,1,g,s,External,A,Native,Underived,,N,N,Food & Drink,
+432,Masculine,Masculine,3,1,1,1,w,l,External,A,Native,Underived,,N,N,Body Parts & Functions,
+433,Masculine,Neutral,3,1,1,1,f,χ,Mixed,A,Native,Underived,,Y,Y,Mankind,NonSpec
+434,Masculine,Neutral,4,1,1,1,ʕ,l,External,A,Native,Underived,,Y,Y,Mankind,NonSpec
+435,Masculine,Neutral,4,1,1,1,ʕ,s,External,A,Native,Occupational Nouns,5-POLY,Y,Y,Warfare & Hunting,NonSpec
+436,Masculine,Neutral,3,1,1,1,n,f,External,A,Native,Agentives,,Y,Y,Warfare & Hunting,NonSpec
+437,Masculine,Neutral,4,2,1,1,m,l,External,A,Native,Underived,,Y,Y,Possession & Trade,NonSpec
+438,Masculine,Masculine,3,1,1,1,z,j,External,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+439,Masculine,Neutral,4,1,1,1,m,j,External,A,Native,Agentives,,Y,Y,Agriculture & Vegetation,NonSpec
+440,Masculine,Neutral,4,0,1,1,z,d,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+441,Masculine,Neutral,4,1,1,1,d,l,Mixed,A,Native,Underived,,Y,Y,Mankind,NonSpec
+442,Feminine,Feminine,4,2,1,0,n,u,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+443,Masculine,Masculine,2,1,1,1,f,d,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+444,Masculine,Masculine,3,2,1,1,m,ʁ,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+445,Masculine,Masculine,5,1,1,1,f,l,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+446,Masculine,Masculine,3,2,1,1,h,r,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+447,Masculine,Masculine,4,1,1,1,d,l,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+448,Masculine,Masculine,4,1,1,1,m,q,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+449,Masculine,Masculine,4,1,1,1,t,l,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+450,Masculine,Masculine,2,1,1,0,k,a,Mixed,A,Native,Underived,,N,N,Body Parts & Functions,
+451,Masculine,Neutral,3,1,1,0,m,u,Internal,A,Native,Agentives,,Y,Y,Agriculture & Vegetation,NonSpec
+452,Masculine,Masculine,5,1,1,1,l,f,Mixed,A,Native,Underived,5-DIM,N,N,Food & Drink,
+453,Feminine,Feminine,3,1,1,1,g,m,External,A,Native,Underived,1-AUG,N,N,Quantity & Number,
+454,Masculine,Masculine,4,1,1,1,g,s,Internal,A,Native,Underived,5-DIM,N,N,Warfare & Hunting,
+455,Feminine,Feminine,4,2,1,1,s,m,External,A,Native,Instrumental Nouns,,N,N,Dwellings & Furniture,
+456,Feminine,Feminine,2,1,1,0,z,i,Internal,A,Native,Underived,,N,N,Food & Drink,
+457,Masculine,Masculine,4,1,1,1,s,l,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Agriculture & Vegetation,
+458,Masculine,Masculine,3,2,1,1,d,n,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+459,Feminine,Feminine,3,1,1,1,ʁ,ʃ,Internal,A,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+460,Masculine,Masculine,4,1,1,1,k,z,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+461,Masculine,Masculine,3,2,1,1,g,r,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+462,Masculine,Masculine,2,1,1,0,g,u,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+463,Masculine,Neutral,3,2,1,0,k,a,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+464,Masculine,Neutral,3,1,1,1,d,j,External,A,Native,Agentives,,N,Y,Quantity & Number,NonSpec
+465,Masculine,Masculine,3,1,1,0,ʃ,i,Internal,A,Native,Underived,,N,N,Agriculture & Vegetation,
+466,Masculine,Masculine,5,2,1,1,b,k,External,A,Native,Underived,,N,N,Physical World,
+467,Masculine,Masculine,3,2,1,1,k,r,External,A,Native,Underived,,N,N,Motion & Transportation,
+468,Masculine,Masculine,2,2,1,0,s,a,Mixed,A,Native,Underived,,N,N,Physical World,
+469,Masculine,Masculine,3,1,1,1,m,j,External,A,Native,Action Nouns,,N,N,Warfare & Hunting,
+470,Masculine,Masculine,3,1,1,1,χ,m,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+471,Masculine,Masculine,3,2,1,1,g,m,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+472,Masculine,Masculine,4,1,1,1,q,b,Mixed,A,Native,Underived,5-DIM,N,N,Mind & Thought,
+473,Masculine,Neutral,4,1,1,1,m,ʁ,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+474,Masculine,Neutral,4,1,1,1,n,r,External,A,Native,Agentives,,N,Y,Mind & Thought,NonSpec
+475,Masculine,Masculine,4,2,1,1,ʃ,r,Internal,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+476,Masculine,Masculine,3,1,1,1,ħ,k,Internal,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+477,Masculine,Masculine,4,1,1,1,d,r,External,A,Native,Underived,5-DIM,N,N,Social Relations,
+478,Masculine,Neutral,3,2,1,0,ħ,i,Mixed,A,Arabic-Assimilated,Underived,,N,Y,Emotion,NonSpec
+479,Masculine,Masculine,3,2,1,1,s,r,No Plural,A,Native,Instrumental Nouns,,N,N,Agriculture & Vegetation,
+480,Masculine,Neutral,4,2,1,0,m,u,Internal,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+481,Masculine,Masculine,3,1,1,1,r,z,External,A,Native,Underived,,Y,Y,Mankind,Male
+482,Masculine,Neutral,6,2,1,1,s,r,External,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+483,Masculine,Neutral,3,2,1,1,m,ʁ,External,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+484,Feminine,Feminine,3,2,1,0,ħ,u,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+485,Feminine,Feminine,3,2,1,1,m,r,External,A,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+486,Masculine,Masculine,3,1,1,1,ħ,ʃ,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+487,Masculine,Neutral,4,1,1,1,m,ʃ,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+488,Masculine,Masculine,3,1,1,1,ʃ,d,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+489,Masculine,Neutral,3,2,1,1,k,m,Mixed,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+490,Masculine,Masculine,3,1,1,1,k,m,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+491,Masculine,Neutral,4,1,1,1,n,r,External,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+492,Feminine,Feminine,5,0,1,1,s,d,Internal,A,Native,Instrumental Nouns,1-AUG,N,N,Physical Acts & Materials,
+493,Masculine,Masculine,3,0,1,1,g,s,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+494,Feminine,Feminine,4,1,1,1,r,f,No Plural,A,Native,Underived,,N,N,Motion & Transportation,
+495,Masculine,Masculine,3,1,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+496,Masculine,Neutral,4,2,1,0,s,i,Mixed,A,Arabic-Assimilated,Abnakliy,,Y,Y,Social Relations,NonSpec
+497,Masculine,Masculine,3,1,1,0,ħ,u,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+498,Masculine,Masculine,3,2,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+499,Masculine,Masculine,4,1,1,1,ħ,d,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Emotion,NonSpec
+500,Masculine,Neutral,4,1,1,1,m,d,External,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+501,Masculine,Neutral,3,1,1,1,w,ʁ,External,A,Native,Agentives,,N,Y,Sense Perception,NonSpec
+502,Masculine,Masculine,4,1,1,1,q,r,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Language & Music,NonSpec
+503,Masculine,Masculine,3,1,1,1,g,z,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+504,Feminine,Feminine,5,2,1,1,m,j,External,A,Native,Instrumental Nouns,,N,N,Language & Music,
+505,Masculine,Masculine,4,2,1,0,z,u,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+506,Masculine,Neutral,4,1,1,1,n,ħ,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+507,Masculine,Neutral,4,1,1,1,m,z,External,A,Native,Agentives,,Y,Y,Agriculture & Vegetation,NonSpec
+508,Masculine,Neutral,4,1,1,1,m,n,Internal,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+509,Masculine,Masculine,3,1,1,1,k,j,No Plural,A,Native,Underived,,N,N,Food & Drink,
+510,Masculine,Masculine,4,2,1,1,m,j,External,A,Native,Underived,,N,N,Emotion,
+511,Masculine,Masculine,3,1,1,1,s,l,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Clothing & Adornment,
+512,Masculine,Neutral,3,1,1,1,q,l,External,A,Native,Underived,,N,Y,Animals,NonSpec
+513,Masculine,Masculine,3,1,1,0,m,a,Mixed,A,Native,Underived,,N,N,Body Parts & Functions,
+514,Masculine,Masculine,4,2,1,0,h,u,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+515,Masculine,Masculine,2,2,1,0,l,i,No Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+516,Feminine,Feminine,3,1,1,0,m,a,Mixed,A,Native,Agentives,,Y,Y,Clothing & Adornment,Female
+517,Masculine,Masculine,5,0,1,1,s,d,Internal,A,Native,Agentives,,N,N,Clothing & Adornment,
+518,Feminine,Feminine,2,1,1,0,b,a,Mixed,A,Native,Underived,,N,N,Language & Music,
+519,Masculine,Masculine,3,0,1,1,n,r,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+520,Masculine,Masculine,4,0,1,1,s,f,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+521,Masculine,Masculine,3,1,1,1,s,r,External,A,Native,Underived,5-DIM,N,N,Social Relations,
+522,Masculine,Masculine,3,1,1,1,s,s,Internal,A,Native,Underived,5-DIM,N,N,Social Relations,
+523,Masculine,Masculine,4,1,1,1,g,m,External,A,Native,Underived,,N,Y,Animals,NonSpec
+524,Masculine,Neutral,5,2,1,1,ħ,j,External,A,Native,Underived,,N,Y,Sense Perception,NonSpec
+525,Masculine,Neutral,5,2,1,0,ʁ,u,Internal,A,Native,Azddayru,,Y,Y,Spatial Relations,NonSpec
+526,Masculine,Masculine,4,1,1,1,ʃ,q,External,A,Native,Underived,,N,N,Physical Acts & Materials,
+527,Masculine,Masculine,4,1,1,1,h,z,External,A,Native,Underived,,N,N,Physical Acts & Materials,
+528,Masculine,Masculine,3,1,1,0,ʁ,a,Mixed,A,Native,Underived,5-DIM,N,N,Food & Drink,
+529,Masculine,Masculine,3,1,1,1,s,m,Internal,A,Native,Instrumental Nouns,,N,N,Food & Drink,
+530,Masculine,Masculine,4,0,1,1,s,s,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Food & Drink,
+531,Masculine,Neutral,3,1,1,1,z,l,No Plural,A,Native,Action Nouns,,N,Y,Body Parts & Functions,NonSpec
+532,Masculine,Neutral,4,1,1,1,k,j,External,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+533,Masculine,Masculine,2,1,1,1,z,l,No Plural,A,Native,Underived,,N,N,Sense Perception,
+534,Masculine,Neutral,5,0,1,1,m,r,External,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+535,Masculine,Neutral,4,1,1,1,b,j,External,A,Arabic-Assimilated,Agentives,,Y,Y,Physical Acts & Materials,NonSpec
+536,Masculine,Masculine,4,1,1,1,n,f,Internal,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Spatial Relations,NonSpec
+537,Masculine,Neutral,4,2,1,0,m,u,Internal,A,Native,Agentives,,Y,Y,Spatial Relations,NonSpec
+538,Masculine,Masculine,2,1,1,1,f,s,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+539,Masculine,Masculine,5,1,1,1,k,d,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+540,Masculine,Neutral,5,0,1,1,m,r,External,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+541,Masculine,Masculine,3,2,1,1,m,n,Internal,A,Native,Agentives,5-POLY,Y,Y,Body Parts & Functions,NonSpec
+542,Masculine,Masculine,4,2,1,0,d,u,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+543,Masculine,Masculine,3,1,1,1,k,r,No Plural,A,Native,Underived,,N,N,Clothing & Adornment,
+544,Feminine,Feminine,3,2,1,0,s,u,No Plural,A,Native,Action Nouns,,N,N,Animals,
+545,Masculine,Masculine,3,1,1,0,s,i,Internal,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+546,Feminine,Feminine,3,2,1,0,d,i,No Plural,A,Arabic-Assimilated,Action Nouns,,N,N,Emotion,
+547,Masculine,Masculine,4,2,1,1,g,l,External,A,Native,Underived,,N,N,Physical World,
+548,Feminine,Feminine,2,2,1,0,w,a,No Plural,A,Native,Underived,,N,N,Motion & Transportation,
+549,Masculine,Masculine,4,0,1,1,s,l,Internal,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+550,Masculine,Neutral,4,1,1,1,m,z,External,A,Native,Agentives,,Y,Y,Motion & Transportation,NonSpec
+551,Feminine,Feminine,3,1,1,0,m,a,Mixed,A,Native,Underived,,N,N,Mankind,
+552,Masculine,Neutral,3,1,1,0,b,i,Mixed,A,Arabic-Assimilated,Agentives,,Y,Y,Motion & Transportation,NonSpec
+553,Masculine,Masculine,3,1,1,1,g,r,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+554,Masculine,Masculine,4,1,1,1,k,l,External,A,Native,Agentives,5-POLY,Y,Y,Body Parts & Functions,NonSpec
+555,Masculine,Masculine,3,1,1,1,g,z,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+556,Masculine,Neutral,4,1,1,1,m,ʃ,Internal,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+557,Masculine,Masculine,4,1,1,1,g,z,External,A,Native,Underived,,N,N,Body Parts & Functions,
+558,Masculine,Neutral,3,1,1,1,d,b,External,A,Arabic-Assimilated,Underived,,Y,Y,Body Parts & Functions,NonSpec
+559,Masculine,Masculine,3,2,1,1,s,r,External,A,Native,Underived,,N,N,Body Parts & Functions,
+560,Masculine,Neutral,3,1,1,1,b,w,External,A,Native,Underived,,N,Y,Animals,NonSpec
+561,Masculine,Masculine,4,1,1,1,m,j,External,A,Native,Action Nouns,5-UNIT,N,N,Physical Acts & Materials,
+562,Masculine,Masculine,4,1,1,1,r,s,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+563,Masculine,Masculine,3,2,1,0,r,u,No Plural,A,Native,Underived,,N,N,Food & Drink,
+564,Masculine,Masculine,4,1,1,1,r,j,External,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+565,Masculine,Masculine,3,1,1,0,ħ,u,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+566,Masculine,Neutral,5,0,1,1,m,r,Internal,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+567,Masculine,Masculine,4,1,1,1,n,r,External,A,Arabic-Assimilated,Occupational Nouns,5-POLY,Y,Y,Possession & Trade,NonSpec
+568,Masculine,Neutral,4,1,1,1,m,j,External,A,Native,Agentives,,Y,Y,Warfare & Hunting,NonSpec
+569,Masculine,Masculine,4,1,1,1,s,l,Internal,A,Native,Underived,,N,N,Quantity & Number,
+570,Masculine,Masculine,3,1,1,0,f,i,External,A,Arabic-Assimilated,Underived,,N,N,Quantity & Number,
+571,Masculine,Neutral,4,1,1,1,ʕ,r,External,A,Arabic-Assimilated,Occupational Nouns,,Y,Y,Quantity & Number,NonSpec
+572,Masculine,Masculine,3,1,1,0,s,a,Mixed,A,Native,Instrumental Nouns,,N,N,Clothing & Adornment,
+573,Masculine,Neutral,4,1,1,1,ħ,n,External,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+574,Feminine,Feminine,4,1,1,1,s,n,External,A,Native,Underived,,N,N,Language & Music,
+575,Masculine,Masculine,4,1,1,1,d,b,External,A,Native,Occupational Nouns,5-POLY,Y,Y,Social Relations,NonSpec
+576,Masculine,Neutral,4,2,1,1,z,j,External,A,Native,Agentives,,N,Y,Spatial Relations,NonSpec
+577,Feminine,Feminine,3,2,1,0,m,a,No Plural,A,Native,Underived,,N,N,Emotion,
+578,Masculine,Neutral,4,1,1,1,n,l,External,A,Native,Agentives,,N,Y,Physical World,NonSpec
+579,Feminine,Feminine,3,1,1,0,m,a,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+580,Masculine,Neutral,2,2,0,1,u,ʁ,No Plural,A,Native,Underived,,N,N,Sense Perception,
+581,Masculine,Neutral,3,1,1,0,ħ,i,Mixed,A,Native,Underived,,Y,Y,Mankind,NonSpec
+582,Masculine,Neutral,4,2,1,1,b,r,External,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+583,Masculine,Masculine,3,1,1,1,d,r,External,A,Native,Underived,5-DIM,N,N,Physical World,
+584,Masculine,Masculine,3,1,1,1,ʁ,j,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+585,Masculine,Masculine,3,2,1,1,b,z,Internal,A,Native,Underived,5-DIM,N,N,Physical World,
+586,Masculine,Masculine,4,1,1,1,t,z,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Emotion,NonSpec
+587,Masculine,Masculine,5,1,1,1,f,j,Internal,A,Native,Underived,5-DIM,N,N,Quantity & Number,
+588,Masculine,Masculine,3,1,1,1,q,ʕ,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Quantity & Number,
+589,Masculine,Masculine,4,1,1,1,k,d,Internal,A,Native,Underived,5-DIM,N,N,Quantity & Number,
+590,Masculine,Masculine,4,1,1,1,g,m,Mixed,A,Native,Unknown,5-DIM,N,N,Physical Acts & Materials,
+591,Masculine,Masculine,5,1,1,1,b,j,Internal,A,Native,Underived,5-DIM,N,N,Quantity & Number,
+592,Feminine,Feminine,3,1,1,0,f,u,Internal,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+593,Masculine,Masculine,3,1,1,1,χ,l,External,A,Native,Underived,,N,N,Body Parts & Functions,
+594,Masculine,Masculine,4,1,1,1,q,s,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+595,Masculine,Neutral,4,1,1,1,l,ʁ,External,A,Native,Agentives,,N,Y,Sense Perception,NonSpec
+596,Masculine,Masculine,3,0,1,1,z,g,Mixed,A,Native,Underived,,N,N,Agriculture & Vegetation,
+597,Feminine,Feminine,3,1,1,1,h,j,Internal,A,Native,Underived,,N,Y,Animals,Female
+598,Masculine,Neutral,3,1,1,1,g,w,External,A,Native,Underived,,Y,Y,Body Parts & Functions,NonSpec
+599,Masculine,Neutral,4,1,1,1,s,n,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+600,Masculine,Masculine,2,2,1,0,b,i,External,A,Native,Underived,,N,Y,Animals,NonSpec
+601,Masculine,Masculine,3,1,1,1,ʁ,b,Mixed,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+602,Masculine,Masculine,3,1,1,0,q,u,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+603,Masculine,Masculine,4,1,1,1,g,r,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+604,Masculine,Masculine,4,0,1,1,s,s,Internal,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+605,Masculine,Neutral,4,1,1,1,m,m,External,A,Arabic-Assimilated,Underived,,Y,Y,Religion & Beliefs,NonSpec
+606,Masculine,Neutral,4,1,1,1,ʕ,m,External,A,Arabic-Assimilated,Agentives,,Y,Y,Motion & Transportation,NonSpec
+607,Masculine,Neutral,4,1,1,1,χ,m,External,A,Native,Underived,,Y,Y,Body Parts & Functions,NonSpec
+608,Masculine,Masculine,4,1,1,1,g,l,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+609,Masculine,Masculine,4,2,1,0,m,u,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+610,Feminine,Feminine,4,1,1,1,r,m,Mixed,A,Native,Underived,1-AUG,N,N,Food & Drink,
+611,Masculine,Neutral,3,2,1,0,s,i,External,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+612,Feminine,Feminine,3,2,1,0,w,a,Mixed,A,Native,Underived,,Y,Y,Social Relations,Female
+613,Masculine,Masculine,3,0,1,1,d,l,No Plural,A,Native,Underived,,N,N,Physical World,
+614,Masculine,Masculine,3,1,1,0,s,i,Mixed,A,Native,Underived,,N,N,Animals,
+615,Feminine,Feminine,4,2,1,1,m,s,External,A,Native,Action Nouns,,N,N,Emotion,
+616,Masculine,Neutral,4,1,1,1,s,n,External,A,Native,Underived,,N,Y,Sense Perception,NonSpec
+617,Feminine,Feminine,3,2,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+618,Feminine,Feminine,2,1,1,0,d,u,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+619,Masculine,Neutral,4,1,1,1,m,g,External,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+620,Masculine,Neutral,4,1,1,1,r,l,External,A,Arabic-Assimilated,Agentives,,Y,Y,Social Relations,NonSpec
+621,Masculine,Neutral,4,2,1,1,b,l,External,A,Native,Underived,,N,Y,Emotion,NonSpec
+622,Masculine,Neutral,4,1,1,1,n,r,External,A,Native,Agentives,,N,Y,Sense Perception,NonSpec
+623,Masculine,Neutral,3,1,1,1,m,r,External,A,Native,Action Nouns,,Y,Y,Sense Perception,NonSpec
+624,Masculine,Masculine,3,1,1,1,m,r,External,A,Native,Agentives,,Y,Y,Social Relations,Male
+625,Feminine,Feminine,4,1,1,1,w,s,External,A,Native,Underived,,N,N,Food & Drink,
+626,Masculine,Masculine,3,1,1,0,m,u,Mixed,A,Native,Action Nouns,,N,N,Food & Drink,
+627,Masculine,Masculine,3,1,1,0,ʁ,i,Mixed,A,Native,Underived,,N,N,Spatial Relations,
+628,Masculine,Masculine,3,1,1,0,m,u,Internal,A,Native,Action Nouns,,N,N,Physical World,
+629,Masculine,Neutral,4,1,1,1,ħ,z,Internal,A,Native,Underived,,Y,Y,Body Parts & Functions,NonSpec
+630,Masculine,Neutral,4,1,1,1,t,z,Internal,A,Native,Underived,,Y,Y,Body Parts & Functions,NonSpec
+631,Masculine,Neutral,5,2,1,1,ħ,z,External,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+632,Feminine,Feminine,3,2,1,0,w,i,Mixed,A,Native,Underived,,N,N,Possession & Trade,
+633,Masculine,Masculine,4,1,1,1,m,l,External,A,Native,Underived,,N,N,Sense Perception,
+634,Feminine,Feminine,3,1,1,1,g,j,External,A,Native,Underived,,N,N,Food & Drink,
+635,Masculine,Neutral,3,0,1,1,ʁ,n,Mixed,A,Native,Underived,,Y,Y,Religion & Beliefs,NonSpec
+636,Masculine,Masculine,3,1,1,1,m,z,External,A,Native,Underived,,N,Y,Animals,NonSpec
+637,Masculine,Masculine,4,2,1,1,f,j,External,A,Native,Underived,,N,Y,Animals,NonSpec
+638,Masculine,Masculine,4,2,1,1,s,l,External,A,Native,Agentives,,N,Y,Animals,NonSpec
+639,Masculine,Masculine,3,1,1,0,s,u,Internal,A,Native,Underived,,N,N,Sense Perception,
+640,Masculine,Masculine,2,2,1,0,m,u,Internal,A,Native,Underived,,N,N,Sense Perception,
+641,Masculine,Masculine,4,0,1,1,z,r,No Plural,A,Native,Action Nouns,,N,N,Religion & Beliefs,
+642,Masculine,Masculine,4,1,1,1,m,ʁ,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+643,Feminine,Feminine,3,1,1,1,w,d,External,A,Arabic-Assimilated,Underived,1-AUG,N,N,Dwellings & Furniture,
+644,Masculine,Masculine,4,1,1,1,s,ʁ,External,A,Native,Underived,5-POLY,Y,Y,Physical Acts & Materials,NonSpec
+645,Masculine,Neutral,5,2,1,0,n,u,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+646,Masculine,Masculine,4,1,1,1,z,j,External,A,Native,Underived,,N,N,Agriculture & Vegetation,
+647,Masculine,Masculine,4,1,1,1,g,m,External,A,Native,Underived,,N,Y,Animals,NonSpec
+648,Feminine,Feminine,4,2,1,0,m,u,Mixed,A,Arabic-Assimilated,Instrumental Nouns,,N,N,Body Parts & Functions,
+649,Feminine,Feminine,4,1,1,1,g,l,Internal,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+650,Masculine,Masculine,4,1,1,1,r,m,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+651,Masculine,Neutral,4,1,1,1,m,l,Internal,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+652,Masculine,Masculine,3,1,1,1,ʁ,m,No Plural,A,Native,Underived,,N,N,Food & Drink,
+653,Masculine,Masculine,4,1,1,1,g,f,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+654,Masculine,Masculine,4,0,1,1,s,s,Internal,A,Native,Underived,5-DIM,N,N,Possession & Trade,
+655,Masculine,Masculine,4,1,1,1,b,z,External,A,Native,Underived,,N,N,Body Parts & Functions,
+656,Masculine,Masculine,2,1,1,1,w,l,Mixed,A,Native,Underived,,N,N,Language & Music,
+657,Masculine,Masculine,4,1,1,1,χ,ʃ,External,A,Native,Underived,,N,N,Religion & Beliefs,
+658,Masculine,Masculine,4,1,1,1,ʃ,ħ,External,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+659,Masculine,Masculine,3,1,1,1,z,j,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+660,Feminine,Feminine,3,2,1,1,m,r,Internal,A,Native,Underived,,N,N,Social Relations,
+661,Masculine,Masculine,4,1,1,1,f,ʃ,No Plural,A,Native,Underived,,N,N,Food & Drink,
+662,Masculine,Masculine,3,2,1,1,h,r,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+663,Masculine,Masculine,4,1,1,1,s,d,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Animals,NonSpec
+664,Masculine,Masculine,4,1,1,1,s,ʁ,External,A,Arabic-Assimilated,Occupational Nouns,5-POLY,Y,Y,Possession & Trade,NonSpec
+665,Feminine,Feminine,2,2,1,0,f,a,No Plural,A,Native,Underived,,N,N,Food & Drink,
+666,Masculine,Masculine,4,1,1,1,b,d,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+667,Masculine,Masculine,3,2,1,0,b,a,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+668,Masculine,Masculine,3,2,1,0,b,u,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+669,Masculine,Masculine,5,2,1,1,s,m,External,A,Native,Action Nouns,,N,N,Mind & Thought,
+670,Masculine,Neutral,4,1,1,1,g,d,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+671,Masculine,Neutral,4,1,1,1,s,r,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+672,Masculine,Neutral,4,2,1,0,m,u,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+673,Feminine,Feminine,4,0,1,1,s,l,Internal,A,Native,Underived,,N,N,Physical Acts & Materials,
+674,Masculine,Masculine,4,1,1,1,ʁ,r,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+675,Feminine,Feminine,5,2,1,0,d,i,Mixed,A,Native,Underived,,N,N,Dwellings & Furniture,
+676,Masculine,Masculine,2,1,1,1,d,r,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+677,Masculine,Masculine,2,1,1,0,z,u,Mixed,A,Native,Underived,5-DIM,N,N,Physical World,
+678,Masculine,Masculine,4,0,1,1,s,d,Internal,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+679,Masculine,Neutral,3,1,1,1,t,r,External,A,Native,Underived,,N,Y,Animals,NonSpec
+680,Masculine,Masculine,4,1,1,1,s,m,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+681,Masculine,Masculine,4,2,1,1,s,k,Internal,A,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+682,Masculine,Masculine,5,1,1,1,s,z,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+683,Feminine,Feminine,4,2,1,1,b,z,Internal,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+684,Masculine,Masculine,4,1,1,1,g,m,Internal,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+685,Masculine,Masculine,3,2,1,1,z,r,External,A,Native,Underived,,N,N,Physical World,
+686,Masculine,Masculine,4,2,1,0,s,i,Mixed,A,Native,Action Nouns,,N,N,Law & Judgement,
+687,Masculine,Masculine,5,2,1,1,s,j,External,A,Native,Action Nouns,,N,N,Law & Judgement,
+688,Feminine,Feminine,6,1,1,1,b,m,No Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+689,Masculine,Masculine,3,2,1,1,b,l,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+690,Feminine,Feminine,4,1,1,1,f,n,Internal,A,Native,Underived,1-AUG,N,N,Food & Drink,
+691,Feminine,Feminine,3,1,1,0,r,i,Internal,A,Native,Underived,1-AUG,N,N,Food & Drink,
+692,Masculine,Masculine,3,1,1,1,n,r,External,A,Native,Underived,,N,N,Physical World,
+693,Masculine,Masculine,4,1,1,1,r,ʃ,External,A,Native,Underived,,N,N,Physical World,
+694,Masculine,Neutral,3,2,1,1,n,f,Internal,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+695,Feminine,Feminine,4,1,1,0,l,a,Mixed,A,Arabic-Assimilated,Instrumental Nouns,,N,N,Dwellings & Furniture,
+696,Masculine,Masculine,4,1,1,1,n,m,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Language & Music,NonSpec
+697,Masculine,Masculine,3,0,1,1,s,m,Mixed,A,Native,Underived,5-DIM,N,Y,Animals,NonSpec
+698,Masculine,Masculine,3,0,1,1,d,r,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+699,Masculine,Neutral,5,2,1,1,g,j,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+700,Masculine,Masculine,4,2,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Animals,
+701,Masculine,Masculine,4,2,1,1,m,j,External,A,Native,Agentives,5-POLY,Y,Y,Motion & Transportation,NonSpec
+702,Masculine,Neutral,4,1,1,1,g,b,External,A,Arabic-Assimilated,Underived,,Y,Y,Motion & Transportation,NonSpec
+703,Masculine,Masculine,4,1,1,1,n,j,External,A,Native,Agentives,5-POLY,Y,Y,Warfare & Hunting,NonSpec
+704,Masculine,Masculine,4,1,1,1,g,r,External,A,Native,Underived,5-DIM,N,N,Spatial Relations,
+705,Masculine,Masculine,4,1,1,1,ʒ,l,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+706,Feminine,Feminine,3,1,1,0,n,a,No Plural,A,Native,Action Nouns,,N,N,Physical World,
+707,Masculine,Masculine,3,0,1,1,n,r,Mixed,A,Native,Underived,,N,N,Animals,
+708,Masculine,Masculine,3,1,1,1,ʒ,ʕ,External,A,Native,Underived,,N,Y,Animals,NonSpec
+709,Masculine,Masculine,3,1,1,1,z,z,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+710,Masculine,Masculine,3,2,1,0,χ,u,No Plural,A,Native,Action Nouns,,N,N,Time,
+711,Masculine,Masculine,4,1,1,1,n,w,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+712,Masculine,Masculine,4,1,1,1,ʁ,r,External,A,Arabic-Assimilated,Underived,,N,N,Physical World,
+713,Masculine,Masculine,4,1,1,1,g,r,Internal,A,Native,Underived,,N,N,Physical World,
+714,Masculine,Neutral,4,1,1,1,k,w,External,A,Native,Underived,,N,Y,Animals,NonSpec
+715,Masculine,Neutral,4,2,1,0,m,u,Internal,A,Native,Agentives,,N,Y,Quantity & Number,NonSpec
+716,Masculine,Neutral,4,1,1,1,m,r,Internal,A,Native,Agentives,,Y,Y,Mankind,NonSpec
+717,Masculine,Masculine,4,1,1,1,r,l,No Plural,A,Native,Action Nouns,,N,N,Possession & Trade,
+718,Feminine,Feminine,3,2,1,1,m,r,Internal,A,Native,Underived,,N,N,Law & Judgement,
+719,Masculine,Masculine,3,1,1,1,m,j,No Plural,A,Native,Action Nouns,,N,N,Possession & Trade,
+720,Masculine,Masculine,3,1,1,1,m,z,No Plural,A,Native,Action Nouns,,N,N,Possession & Trade,
+721,Masculine,Masculine,4,2,1,0,s,i,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+722,Masculine,Masculine,3,2,1,0,m,i,External,A,Native,Action Nouns,,N,N,Motion & Transportation,
+723,Feminine,Feminine,4,2,1,1,m,j,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+724,Masculine,Masculine,3,1,1,1,ʒ,ʕ,External,A,Arabic-Assimilated,Action Nouns,,N,N,Language & Music,
+725,Feminine,Feminine,4,1,1,1,m,n,External,A,Native,Underived,1-AUG,Y,Y,Social Relations,Female
+726,Masculine,Neutral,3,1,1,0,ʒ,i,Internal,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+727,Masculine,Neutral,4,1,1,1,q,d,External,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+728,Masculine,Neutral,5,2,1,0,n,u,Internal,A,Native,Agentives,,N,Y,Sense Perception,NonSpec
+729,Feminine,Feminine,3,2,1,0,z,a,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+730,Masculine,Masculine,4,1,1,0,g,i,Mixed,A,Native,Underived,,N,N,Physical Acts & Materials,
+731,Masculine,Neutral,3,2,1,1,n,m,External,A,Native,Action Nouns,,N,Y,Animals,NonSpec
+732,Masculine,Masculine,3,1,1,0,s,i,Mixed,A,Native,Action Nouns,,N,N,Language & Music,
+733,Masculine,Neutral,4,1,1,1,m,d,External,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+734,Masculine,Neutral,4,1,1,1,m,s,External,A,Arabic-Assimilated,Agentives,,Y,Y,Language & Music,NonSpec
+735,Masculine,Neutral,6,0,1,1,m,d,External,A,Native,Agentives,,Y,Y,Sense Perception,NonSpec
+736,Masculine,Masculine,3,0,1,1,m,l,Mixed,A,Native,Underived,,N,N,Animals,
+737,Masculine,Masculine,2,1,1,1,z,r,Mixed,A,Native,Underived,,N,N,Body Parts & Functions,
+738,Masculine,Masculine,3,1,1,1,k,d,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+739,Masculine,Masculine,3,1,1,1,z,m,No Plural,A,Native,Action Nouns,,N,N,Possession & Trade,
+740,Masculine,Neutral,4,1,1,1,n,m,External,A,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+741,Masculine,Masculine,2,1,1,0,g,u,Internal,A,Native,Underived,5-DIM,N,N,Motion & Transportation,
+742,Masculine,Masculine,4,1,1,1,n,d,External,A,Native,Agentives,,N,N,Dwellings & Furniture,
+743,Feminine,Feminine,3,1,1,0,s,i,Internal,A,Native,Instrumental Nouns,,N,N,Food & Drink,
+744,Masculine,Neutral,4,1,1,1,b,ʁ,External,A,Arabic-Assimilated,Agentives,,Y,Y,Law & Judgement,NonSpec
+745,Masculine,Masculine,3,1,1,1,n,l,Internal,A,Native,Underived,,N,N,Agriculture & Vegetation,
+746,Masculine,Masculine,4,1,1,1,z,r,External,A,Native,Underived,,N,N,Physical World,
+747,Masculine,Masculine,4,1,1,1,k,ʒ,External,A,Native,Action Nouns,5-UNIT,N,N,Body Parts & Functions,
+748,Masculine,Masculine,4,1,1,1,s,l,No Plural,A,Native,Action Nouns,,N,N,Mind & Thought,
+749,Masculine,Masculine,3,2,1,1,l,f,External,A,Native,Underived,,N,N,Physical Acts & Materials,
+750,Masculine,Masculine,5,1,1,1,s,l,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+751,Masculine,Masculine,4,1,1,1,q,z,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+752,Feminine,Feminine,5,0,1,1,m,r,External,A,Arabic-Assimilated,Instrumental Nouns,,N,N,Language & Music,
+753,Feminine,Feminine,4,1,1,1,g,z,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+754,Masculine,Neutral,3,2,1,1,b,ʁ,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+755,Masculine,Masculine,5,2,1,1,l,r,External,A,Native,Action Nouns,,N,N,Social Relations,
+756,Masculine,Masculine,3,2,1,0,s,u,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+757,Masculine,Neutral,3,2,1,1,m,r,External,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+758,Masculine,Neutral,3,2,1,1,m,l,Internal,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+759,Feminine,Feminine,3,2,1,0,w,i,Mixed,A,Native,Action Nouns,,N,N,Emotion,
+760,Masculine,Masculine,4,1,1,1,k,ʃ,External,A,Native,Action Nouns,,N,N,Spatial Relations,
+761,Masculine,Masculine,2,2,1,0,s,u,Internal,A,Native,Underived,,N,N,Physical World,
+762,Masculine,Masculine,3,1,1,0,s,u,No Plural,A,Native,Action Nouns,,Y,Y,Social Relations,NonSpec
+763,Masculine,Masculine,3,2,1,1,ʒ,f,External,A,Native,Underived,5-DIM,N,N,Physical World,
+764,Masculine,Neutral,4,1,1,1,g,d,Mixed,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+765,Masculine,Masculine,4,2,1,0,s,u,Mixed,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+766,Masculine,Masculine,5,2,1,1,s,j,External,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+767,Masculine,Masculine,3,2,1,1,ʁ,m,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+768,Masculine,Neutral,4,1,1,1,ʃ,j,External,A,Arabic-Assimilated,Agentives,,N,Y,Food & Drink,NonSpec
+769,Masculine,Neutral,4,1,1,1,z,ʁ,External,A,Native,Agentives,,N,Y,Sense Perception,NonSpec
+770,Feminine,Feminine,2,2,1,0,z,i,No Plural,A,Native,Action Nouns,,N,N,Sense Perception,
+771,Feminine,Feminine,5,1,1,0,q,i,Internal,A,Native,Action Nouns,,N,N,Language & Music,
+772,Masculine,Masculine,4,2,1,0,ħ,u,Mixed,A,Native,Action Nouns,,N,N,Motion & Transportation,
+773,Masculine,Masculine,5,1,1,1,s,r,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+774,Feminine,Feminine,2,1,1,1,s,k,Internal,A,Native,Underived,1-AUG,N,N,Motion & Transportation,
+775,Masculine,Masculine,4,2,1,0,χ,u,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical World,
+776,Masculine,Masculine,3,1,1,1,m,l,External,A,Native,Underived,,N,N,Physical World,
+777,Masculine,Masculine,3,0,1,1,w,k,Mixed,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+778,Masculine,Masculine,3,1,1,1,q,b,External,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+779,Masculine,Masculine,4,0,1,1,w,r,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+780,Masculine,Neutral,4,1,1,1,g,m,External,A,Native,Underived,,Y,Y,Religion & Beliefs,NonSpec
+781,Masculine,Neutral,5,2,1,0,z,u,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+782,Masculine,Neutral,3,1,1,0,m,u,Mixed,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+783,Feminine,Feminine,3,1,1,0,m,i,Internal,A,Arabic-Assimilated,Underived,1-AUG,N,N,Dwellings & Furniture,
+784,Masculine,Masculine,4,1,1,1,ʒ,n,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+785,Masculine,Neutral,4,1,1,1,b,n,External,A,Native,Underived,,N,Y,Animals,NonSpec
+786,Masculine,Neutral,3,1,1,1,f,m,External,A,Arabic-Assimilated,Agentives,,Y,Y,Mind & Thought,NonSpec
+787,Feminine,Feminine,4,1,1,1,f,ħ,External,A,Arabic-Assimilated,Action Nouns,,N,N,Social Relations,
+788,Masculine,Masculine,3,1,1,1,g,j,No Plural,A,Native,Action Nouns,,N,N,Language & Music,
+789,Masculine,Masculine,4,1,1,1,q,f,Internal,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+790,Masculine,Masculine,3,2,1,0,n,i,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+791,Masculine,Masculine,4,2,1,1,b,z,No Plural,A,Native,Underived,,N,N,Food & Drink,
+792,Masculine,Neutral,3,2,1,0,s,i,Mixed,A,Arabic-Assimilated,Abnakliy,,N,Y,Quantity & Number,NonSpec
+793,Feminine,Feminine,3,2,1,0,g,i,Mixed,A,Native,Action Nouns,,N,N,Language & Music,
+794,Masculine,Masculine,4,1,1,1,b,l,External,A,Native,Underived,,N,Y,Animals,NonSpec
+795,Masculine,Neutral,4,1,1,1,l,d,External,A,Native,Underived,,N,Y,Animals,NonSpec
+796,Masculine,Masculine,5,2,1,1,b,r,External,A,Native,Underived,,N,N,Body Parts & Functions,
+797,Masculine,Masculine,4,1,1,1,s,r,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Social Relations,NonSpec
+798,Masculine,Masculine,4,0,1,1,s,g,No Plural,A,Native,Action Nouns,,N,N,Language & Music,
+799,Masculine,Masculine,4,1,1,1,s,f,No Plural,A,Native,Action Nouns,,N,N,Language & Music,
+800,Masculine,Masculine,3,0,1,1,d,f,Mixed,A,Native,Underived,,N,N,Agriculture & Vegetation,
+801,Feminine,Feminine,3,1,1,1,s,f,Mixed,A,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+802,Feminine,Feminine,3,1,1,0,g,a,Mixed,A,Native,Underived,,N,N,Agriculture & Vegetation,
+803,Masculine,Neutral,2,2,1,0,r,i,Mixed,A,Native,Action Nouns,,N,Y,Sense Perception,NonSpec
+804,Masculine,Neutral,4,1,1,0,ʕ,i,Internal,A,Arabic-Assimilated,Occupational Nouns,,Y,Y,Warfare & Hunting,NonSpec
+805,Masculine,Neutral,5,0,1,1,m,s,Internal,A,Native,Agentives,,N,Y,Spatial Relations,NonSpec
+806,Masculine,Masculine,3,1,1,1,d,s,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+807,Masculine,Neutral,4,1,1,1,m,l,Internal,A,Arabic-Assimilated,Agentives,,Y,Y,Spatial Relations,NonSpec
+808,Masculine,Masculine,4,1,1,1,n,m,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+809,Masculine,Masculine,4,1,1,1,s,r,External,A,Arabic-Assimilated,Agentives,5-POLY,Y,Y,Religion & Beliefs,NonSpec
+810,Masculine,Masculine,3,2,1,0,ʃ,i,Mixed,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+811,Masculine,Masculine,4,1,1,1,k,d,Internal,A,Native,Underived,,N,N,Agriculture & Vegetation,
+812,Masculine,Masculine,4,1,1,1,h,d,No Plural,A,Native,Underived,,N,N,Language & Music,
+813,Masculine,Masculine,3,1,1,1,w,j,External,A,Native,Underived,,N,N,Food & Drink,
+814,Masculine,Masculine,4,1,1,1,b,g,External,A,Native,Underived,,N,Y,Animals,NonSpec
+815,Masculine,Masculine,3,1,1,1,b,ʁ,External,A,Native,Underived,5-DIM,N,Y,Animals,NonSpec
+816,Feminine,Feminine,4,2,1,1,s,l,External,A,Native,Underived,1-AUG,N,Y,Animals,NonSpec
+817,Masculine,Masculine,3,1,1,1,z,d,Internal,A,Native,Underived,5-DIM,N,Y,Animals,NonSpec
+818,Masculine,Masculine,3,1,1,1,b,ħ,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+819,Masculine,Neutral,4,1,1,1,m,s,External,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+820,Masculine,Masculine,3,1,1,0,g,a,Mixed,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+821,Masculine,Masculine,6,0,1,1,s,s,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+822,Masculine,Masculine,3,2,1,0,ʁ,u,Internal,A,Native,Underived,5-DIM,N,N,Physical World,
+823,Masculine,Neutral,4,1,1,1,d,r,Internal,A,Native,Underived,,Y,Y,Sense Perception,NonSpec
+824,Masculine,Neutral,3,1,1,0,ʁ,a,Mixed,A,Native,Underived,,N,Y,Animals,NonSpec
+825,Masculine,Neutral,4,1,1,1,n,r,External,A,Native,Agentives,,N,Y,Quantity & Number,NonSpec
+826,Masculine,Neutral,4,1,1,1,n,d,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+827,Masculine,Neutral,4,1,1,1,n,s,Internal,A,Native,Underived,,Y,Y,Social Relations,NonSpec
+828,Feminine,Feminine,3,1,1,1,l,ħ,Internal,A,Arabic-Assimilated,Underived,,N,N,Dwellings & Furniture,
+829,Masculine,Masculine,4,0,1,1,b,ʃ,No Plural,A,Native,Action Nouns,,N,N,Possession & Trade,
+830,Masculine,Neutral,4,1,1,1,b,ʃ,External,A,Native,Agentives,,N,Y,Sense Perception,NonSpec
+831,Masculine,Neutral,3,1,1,1,b,r,External,A,Native,Underived,,N,Y,Sense Perception,NonSpec
+832,Feminine,Feminine,3,2,1,0,g,a,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+833,Masculine,Masculine,3,0,1,1,w,z,Mixed,A,Native,Underived,,N,N,Body Parts & Functions,
+834,Feminine,Feminine,3,1,1,1,l,n,Internal,A,Native,Underived,1-AUG,N,N,Language & Music,
+835,Masculine,Masculine,4,1,1,1,g,l,External,A,Native,Underived,5-DIM,N,N,Language & Music,
+836,Masculine,Masculine,2,2,1,0,z,u,No Plural,A,Native,Underived,,N,N,Emotion,
+837,Masculine,Masculine,6,0,1,1,s,l,No Plural,A,Native,Action Nouns,,N,N,Emotion,
+838,Feminine,Feminine,3,1,1,0,z,i,Internal,A,Arabic-Assimilated,Underived,1-AUG,N,N,Dwellings & Furniture,
+839,Masculine,Masculine,4,1,1,1,m,z,Internal,A,Native,Agentives,5-DIM,N,N,Physical World,
+840,Masculine,Masculine,2,2,1,0,g,i,Mixed,A,Native,Underived,5-DIM,N,N,Physical World,
+841,Masculine,Masculine,4,1,1,1,m,z,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+842,Masculine,Masculine,4,1,1,1,k,r,Internal,A,Native,Underived,5-DIM,N,N,Physical World,
+843,Masculine,Neutral,4,1,1,1,r,m,External,A,Arabic-Assimilated,Agentives,,Y,Y,Clothing & Adornment,NonSpec
+844,Masculine,Neutral,4,1,1,1,w,t,External,A,Native,Underived,,N,Y,Animals,Male
+845,Masculine,Neutral,4,1,1,1,m,d,Internal,A,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+846,Masculine,Masculine,3,2,1,1,g,n,Internal,A,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+847,Feminine,Feminine,2,1,1,0,z,i,Mixed,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+848,Masculine,Masculine,3,1,1,1,g,j,External,A,Native,Underived,,N,N,Body Parts & Functions,
+849,Masculine,Masculine,3,2,1,0,g,u,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+850,Masculine,Masculine,5,1,1,1,l,d,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+851,Masculine,Masculine,4,2,1,0,l,a,No Plural,A,Native,Underived,,N,N,Clothing & Adornment,
+852,Masculine,Masculine,3,2,1,1,ʃ,k,Internal,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+853,Masculine,Neutral,4,1,1,1,n,m,External,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+854,Masculine,Masculine,4,1,1,1,s,f,External,A,Native,Underived,5-DIM,N,N,Animals,
+855,Masculine,Masculine,4,1,1,1,ʒ,d,No Plural,A,Native,Action Nouns,,N,N,Language & Music,
+856,Masculine,Masculine,2,2,1,0,s,u,Internal,A,Native,Underived,5-DIM,N,N,Physical World,
+857,Masculine,Neutral,3,1,1,1,m,s,External,A,Native,Agentives,,Y,Y,Animals,NonSpec
+858,Masculine,Masculine,3,1,1,1,s,w,No Plural,A,Native,Instrumental Nouns,,N,N,Physical World,
+859,Masculine,Masculine,4,1,1,1,s,j,No Plural,A,Native,Action Nouns,,N,N,Food & Drink,
+860,Masculine,Masculine,4,1,1,1,g,l,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+861,Feminine,Feminine,3,1,1,1,n,f,No Plural,A,Native,Action Nouns,,N,N,Warfare & Hunting,
+862,Masculine,Masculine,3,1,1,1,s,l,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+863,Masculine,Masculine,4,1,1,1,s,r,External,A,Arabic-Assimilated,Action Nouns,5-DIM,N,N,Language & Music,
+864,Masculine,Masculine,3,1,1,0,s,i,No Plural,A,Native,Instrumental Nouns,,N,N,Animals,
+865,Masculine,Neutral,4,1,1,1,ʁ,r,External,A,Arabic-Assimilated,Agentives,,Y,Y,Social Relations,NonSpec
+866,Masculine,Neutral,4,1,1,1,m,r,External,A,Arabic-Assimilated,Agentives,,Y,Y,Social Relations,NonSpec
+867,Masculine,Neutral,4,1,1,1,m,l,External,A,Arabic-Assimilated,Agentives,,Y,Y,Possession & Trade,NonSpec
+868,Masculine,Neutral,4,1,1,1,χ,m,External,A,Arabic-Assimilated,Agentives,,Y,Y,Possession & Trade,NonSpec
+869,Masculine,Masculine,4,0,1,1,z,r,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+870,Masculine,Masculine,3,1,1,1,z,g,External,A,Native,Action Nouns,5-UNIT,N,N,Body Parts & Functions,
+871,Masculine,Masculine,4,1,1,1,k,d,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+872,Masculine,Masculine,3,1,1,1,s,j,No Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+873,Masculine,Neutral,4,1,1,1,m,ʃ,Internal,A,Native,Underived,,Y,Y,Emotion,NonSpec
+874,Masculine,Masculine,3,1,1,1,s,l,Internal,A,Native,Underived,,N,N,Body Parts & Functions,
+875,Masculine,Neutral,4,1,1,1,k,d,External,A,Native,Agentives,,Y,Y,Emotion,NonSpec
+876,Masculine,Neutral,4,1,1,1,q,l,External,A,Arabic-Assimilated,Underived,,Y,Y,Body Parts & Functions,NonSpec
+877,Masculine,Neutral,4,1,1,1,f,k,External,A,Arabic-Assimilated,Underived,,Y,Y,Body Parts & Functions,NonSpec
+878,Feminine,Feminine,3,2,1,0,b,i,No Plural,A,Arabic-Assimilated,Action Nouns,,N,N,Emotion,
+879,Masculine,Masculine,4,1,1,1,ʒ,b,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+880,Masculine,Masculine,3,2,1,1,q,s,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+881,Masculine,Masculine,3,1,1,0,f,u,Mixed,A,Native,Underived,,N,N,Food & Drink,
+882,Masculine,Masculine,3,1,1,0,s,i,Mixed,A,Native,Instrumental Nouns,,N,N,Food & Drink,
+883,Masculine,Masculine,2,2,1,0,r,u,Mixed,A,Native,Underived,,N,N,Food & Drink,
+884,Feminine,Feminine,3,2,1,0,m,a,No Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+885,Masculine,Masculine,3,2,1,0,l,i,Mixed,A,Native,Action Nouns,,N,N,Motion & Transportation,
+886,Masculine,Masculine,3,2,1,0,l,u,Mixed,A,Native,Action Nouns,,N,N,Motion & Transportation,
+887,Masculine,Masculine,4,1,1,1,ʃ,r,External,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+888,Feminine,Feminine,3,1,1,0,s,i,Mixed,A,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+889,Masculine,Masculine,3,1,1,1,z,j,No Plural,A,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+890,Masculine,Masculine,3,2,1,1,g,n,External,A,Native,Underived,,N,N,Physical Acts & Materials,
+891,Masculine,Neutral,4,1,1,1,m,j,External,A,Native,Agentives,,Y,Y,Agriculture & Vegetation,NonSpec
+892,Masculine,Masculine,5,1,1,1,l,f,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+893,Masculine,Masculine,4,1,1,1,ʁ,f,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+894,Masculine,Masculine,4,2,1,0,l,u,No Plural,A,Native,Action Nouns,,N,N,Spatial Relations,
+895,Masculine,Neutral,4,1,1,1,ʕ,ʃ,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+896,Masculine,Masculine,4,1,1,1,ħ,d,Internal,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+897,Masculine,Masculine,3,1,1,1,ħ,g,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+898,Masculine,Masculine,3,2,1,0,b,u,Mixed,A,Native,Underived,5-DIM,N,N,Animals,
+899,Feminine,Feminine,3,1,1,0,z,u,No Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+900,Masculine,Masculine,4,1,1,1,s,b,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+901,Masculine,Masculine,3,1,1,1,m,l,Internal,A,Native,Underived,,N,N,Physical World,
+902,Masculine,Neutral,4,1,1,1,z,w,External,A,Native,Underived,,N,Y,Sense Perception,NonSpec
+903,Masculine,Masculine,3,2,1,0,k,i,Mixed,A,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+904,Masculine,Neutral,4,1,1,1,f,r,External,A,Native,Underived,,Y,Y,Time,NonSpec
+905,Masculine,Neutral,3,2,1,1,ʃ,n,External,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+906,Masculine,Neutral,3,1,1,1,n,r,Internal,A,Native,Agentives,,Y,Y,Mankind,NonSpec
+907,Feminine,Feminine,4,2,1,0,b,a,Mixed,A,Native,Underived,1-AUG,N,N,Animals,
+908,Masculine,Neutral,4,1,1,1,n,f,Internal,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+909,Masculine,Masculine,4,1,1,1,ʁ,r,Internal,A,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+910,Feminine,Feminine,4,1,1,1,m,r,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+911,Masculine,Masculine,4,1,1,1,m,r,External,A,Native,Agentives,5-POLY,Y,Y,Social Relations,NonSpec
+912,Masculine,Neutral,3,2,1,1,m,r,External,A,Native,Agentives,,Y,Y,Social Relations,NonSpec
+913,Masculine,Masculine,4,1,1,1,ʃ,r,External,A,Native,Action Nouns,5-POLY,Y,Y,Social Relations,NonSpec
+914,Masculine,Masculine,3,2,1,0,m,u,No Plural,A,Native,Action Nouns,,N,N,Motion & Transportation,
+915,Masculine,Neutral,4,2,1,0,n,u,External,A,Native,Agentives,,Y,Y,Motion & Transportation,NonSpec
+916,Feminine,Feminine,2,1,1,0,ʁ,i,Mixed,A,Native,Underived,,N,N,Motion & Transportation,
+917,Feminine,Feminine,3,1,1,0,f,a,Mixed,A,Native,Underived,,N,N,Dwellings & Furniture,
+918,Masculine,Masculine,3,1,1,1,ħ,k,Internal,A,Native,Underived,5-DIM,N,N,Food & Drink,
+919,Feminine,Feminine,3,1,1,0,l,a,No Plural,A,Native,Underived,,N,N,Food & Drink,
+920,Feminine,Feminine,3,2,1,0,n,i,Mixed,A,Native,Underived,,N,N,Dwellings & Furniture,
+921,Masculine,Masculine,3,0,1,1,d,f,Mixed,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+922,Masculine,Masculine,4,1,1,1,d,r,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Social Relations,
+923,Masculine,Masculine,3,0,1,1,g,d,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+924,Masculine,Neutral,4,1,1,1,z,d,External,A,Native,Underived,,N,Y,Spatial Relations,NonSpec
+925,Masculine,Neutral,4,2,1,1,n,b,External,A,Arabic-Assimilated,Agentives,,Y,Y,Social Relations,NonSpec
+926,Masculine,Masculine,4,2,1,1,l,ʒ,Mixed,A,French,Underived,5-DIM,N,N,Dwellings & Furniture,
+927,Masculine,Masculine,5,0,1,1,l,l,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+928,Masculine,Neutral,5,1,1,1,l,t,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Mankind,NonSpec
+929,Masculine,Neutral,5,1,1,1,l,b,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Emotion,NonSpec
+930,Masculine,Neutral,3,2,1,0,l,i,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Law & Judgement,NonSpec
+931,Masculine,Masculine,3,2,1,1,l,r,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Language & Music,
+932,Masculine,Masculine,5,1,1,1,l,t,Mixed,A,French,Underived,5-DIM,N,N,Clothing & Adornment,
+933,Masculine,Masculine,5,1,1,1,r,n,External,A,Arabic-Assimilated,Underived,5-UNIT,N,N,Food & Drink,
+934,Masculine,Neutral,4,2,1,1,ʃ,r,Mixed,A,French,Underived,,Y,Y,Motion & Transportation,NonSpec
+935,Masculine,Masculine,5,1,1,1,s,t,Mixed,A,French,Underived,5-DIM,N,N,Clothing & Adornment,
+936,Masculine,Neutral,4,2,1,1,ʃ,n,Mixed,A,Arabic-Assimilated,Underived,,N,Y,Religion & Beliefs,Male
+937,Masculine,Neutral,5,1,1,1,s,n,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+938,Masculine,Masculine,5,1,1,1,s,q,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+939,Feminine,Feminine,3,2,1,1,m,l,External,A,French,Underived,,N,N,Motion & Transportation,
+940,Feminine,Feminine,4,1,1,1,r,ʕ,External,A,Arabic-Assimilated,Underived,,N,N,Clothing & Adornment,
+941,Feminine,Feminine,4,1,1,1,r,j,External,A,Arabic-Assimilated,Underived,,N,N,Quantity & Number,
+942,Masculine,Masculine,4,2,1,1,t,n,Mixed,A,Native,Underived,5-DIM,N,N,Food & Drink,
+943,Masculine,Masculine,5,2,1,1,z,r,Mixed,A,French,Underived,5-DIM,N,N,Body Parts & Functions,
+944,Masculine,Neutral,4,1,1,1,z,d,Internal,A,Native,Underived,,N,Y,Animals,NonSpec
+945,Masculine,Masculine,5,1,1,1,q,r,External,A,Arabic-Assimilated,Underived,,N,N,Quantity & Number,
+946,Masculine,Masculine,4,1,1,1,t,l,Mixed,A,Unknown,Underived,5-DIM,N,N,Food & Drink,
+947,Masculine,Masculine,3,2,1,1,z,m,External,A,Native,Underived,5-UNIT,N,N,Food & Drink,
+948,Masculine,Neutral,4,2,1,0,b,i,Mixed,A,Native,Adjective Of Origin,,Y,Y,Social Relations,NonSpec
+949,Masculine,Neutral,5,2,1,0,b,i,Mixed,A,French,Underived,,Y,Y,Social Relations,NonSpec
+950,Masculine,Neutral,2,2,1,0,f,i,Mixed,A,Arabic-Assimilated,Adjective Of Origin,,Y,Y,Social Relations,NonSpec
+951,Masculine,Masculine,2,2,1,0,f,i,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+952,Masculine,Masculine,3,0,1,1,g,s,No Plural,A,Native,Underived,,N,N,Spatial Relations,
+953,Masculine,Masculine,2,1,1,0,g,i,No Plural,A,Native,Underived,,N,N,Emotion,
+954,Masculine,Neutral,4,1,1,1,ħ,b,External,A,Arabic-Assimilated,Underived,,Y,Y,Possession & Trade,NonSpec
+955,Masculine,Masculine,3,1,1,1,ħ,ʃ,External,A,Native,Underived,,N,N,Language & Music,
+956,Masculine,Neutral,5,2,1,0,m,i,Mixed,A,Native,Adjective Of Origin,,Y,Y,Social Relations,NonSpec
+957,Masculine,Masculine,4,1,1,0,m,u,Mixed,A,Native,Action Nouns,,N,N,Food & Drink,
+958,Masculine,Neutral,4,2,1,0,n,i,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Food & Drink,NonSpec
+959,Masculine,Masculine,3,2,1,1,ʁ,m,External,A,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+960,Masculine,Neutral,4,1,1,1,ʃ,ʒ,External,A,Arabic-Assimilated,Underived,,Y,Y,Possession & Trade,NonSpec
+961,Masculine,Neutral,4,2,1,0,ʃ,i,Mixed,A,Arabic-Assimilated,Occupational Nouns,,Y,Y,Possession & Trade,NonSpec
+962,Masculine,Neutral,2,1,1,0,s,a,No Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+963,Masculine,Neutral,3,1,1,0,s,i,Mixed,A,Arabic-Assimilated,Agentives,,Y,Y,Emotion,NonSpec
+964,Masculine,Masculine,3,1,1,0,w,u,Mixed,A,Native,Underived,,N,N,Physical World,
+965,Masculine,Masculine,4,1,1,1,χ,s,External,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Agriculture & Vegetation,NonSpec
+966,Masculine,Masculine,4,1,1,1,χ,z,External,A,Native,Underived,5-POLY,Y,Y,Possession & Trade,NonSpec
+967,Masculine,Neutral,5,1,1,1,d,ʃ,Mixed,A,Native,Underived,,Y,Y,Emotion,NonSpec
+968,Masculine,Masculine,4,1,1,1,d,l,External,A,Native,Underived,,N,N,Clothing & Adornment,
+969,Masculine,Masculine,4,1,1,1,ʃ,m,External,A,Native,Agentives,5-POLY,Y,Y,Language & Music,NonSpec
+970,Masculine,Neutral,3,2,1,0,l,i,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Religion & Beliefs,NonSpec
+971,Masculine,Masculine,3,1,1,1,l,b,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Dwellings & Furniture,
+972,Masculine,Neutral,3,3,1,0,b,i,Mixed,A,French,Underived,,Y,Y,Social Relations,NonSpec
+973,Masculine,Masculine,5,1,1,1,l,ʕ,External,A,Native,Underived,5-UNIT,N,N,Food & Drink,
+974,Masculine,Neutral,4,0,1,1,l,ʃ,Mixed,A,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+975,Masculine,Neutral,4,1,1,1,l,ʒ,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Religion & Beliefs,NonSpec
+976,Masculine,Masculine,5,1,1,1,l,m,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Body Parts & Functions,
+977,Masculine,Masculine,3,1,1,1,l,s,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+978,Feminine,Feminine,6,2,1,0,l,a,Mixed,A,French,Underived,,N,N,Physical Acts & Materials,
+979,Masculine,Masculine,4,1,1,0,l,i,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Dwellings & Furniture,
+980,Masculine,Masculine,5,2,1,1,l,n,External,A,Unknown,Underived,5-UNIT,N,N,Food & Drink,
+981,Masculine,Neutral,5,3,1,1,l,r,Mixed,A,French,Underived,,Y,Y,Warfare & Hunting,NonSpec
+982,Masculine,Neutral,5,1,1,1,l,n,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+983,Masculine,Neutral,6,3,1,1,l,s,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+984,Masculine,Neutral,5,2,1,1,l,n,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+985,Masculine,Masculine,4,1,1,1,l,s,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Food & Drink,
+986,Masculine,Neutral,5,0,1,1,l,m,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Possession & Trade,NonSpec
+987,Masculine,Neutral,3,1,1,0,q,i,Mixed,A,Arabic-Assimilated,Agentives,,N,Y,Food & Drink,NonSpec
+988,Masculine,Neutral,2,2,1,0,ʃ,i,Mixed,A,Arabic-Assimilated,Underived,,N,Y,Physical World,NonSpec
+989,Masculine,Neutral,3,2,1,0,s,i,Mixed,A,Arabic-Assimilated,Underived,,N,Y,Physical World,NonSpec
+990,Masculine,Masculine,5,1,1,1,l,l,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+991,Masculine,Neutral,4,1,1,1,l,d,Mixed,A,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+992,Masculine,Neutral,4,2,1,0,q,i,Mixed,A,Arabic-Assimilated,Agentives,,Y,Y,Possession & Trade,NonSpec
+993,Masculine,Masculine,4,1,1,1,l,m,Mixed,A,Arabic-Assimilated,Underived,5-DIM,N,N,Clothing & Adornment,
+994,Masculine,Masculine,3,1,1,1,l,χ,External,A,Arabic-Assimilated,Underived,5-UNIT,N,N,Food & Drink,
+995,Masculine,Masculine,5,0,1,1,ʃ,ʒ,External,A,Unknown,Underived,5-UNIT,N,N,Food & Drink,
+996,Feminine,Feminine,3,1,1,1,b,t,External,A,Native,Underived,,N,N,Language & Music,
+997,Feminine,Feminine,3,2,1,0,b,i,No Plural,A,Native,Action Nouns,,N,N,Social Relations,
+998,Feminine,Feminine,3,1,1,0,d,a,No Plural,A,Native,Underived,,N,N,Time,
+999,Masculine,Neutral,4,2,1,1,k,r,External,A,Native,Underived,,Y,Y,Body Parts & Functions,NonSpec
+1000,Masculine,Masculine,4,1,1,1,l,z,External,A,French,Underived,5-UNIT,N,N,Possession & Trade,
+1001,Feminine,Feminine,3,1,1,1,q,l,External,A,Arabic-Assimilated,Underived,1-AUG,N,N,Social Relations,
+1002,Feminine,Feminine,4,1,1,0,q,i,Internal,A,Native,Underived,1-AUG,N,N,Food & Drink,
+1003,Feminine,Feminine,3,2,1,0,ʁ,i,No Plural,A,Native,Underived,,N,N,Emotion,
+1004,Masculine,Masculine,4,1,1,1,ʃ,d,External,A,Arabic-Assimilated,Underived,5-DIM,N,N,Clothing & Adornment,
+1005,Masculine,Masculine,4,0,1,1,ʃ,ʕ,External,A,Arabic-Assimilated,Underived,5-UNIT,N,N,Physical Acts & Materials,
+1006,Feminine,Feminine,5,1,1,1,s,r,External,A,Arabic-Assimilated,Underived,,N,N,Physical Acts & Materials,
+1007,Masculine,Masculine,5,1,1,1,t,ħ,External,A,Arabic-Assimilated,Underived,5-UNIT,N,N,Food & Drink,
+1008,Feminine,Feminine,2,2,1,0,w,a,No Plural,A,Native,Underived,,N,N,Motion & Transportation,
+1009,Feminine,Feminine,3,1,1,1,w,q,External,A,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1010,Feminine,Feminine,2,2,1,0,b,a,No Plural,A,Native,Underived,,N,N,Food & Drink,
+1011,Feminine,Feminine,3,1,1,0,g,a,No Plural,A,Native,Underived,,N,N,Food & Drink,
+1012,Feminine,Feminine,3,1,1,0,w,a,No Plural,A,Native,Underived,,N,Y,Animals,Female
+1013,Masculine,Masculine,5,1,1,1,z,q,Internal,A,Arabic-Assimilated,Underived,5-DIM,N,N,Motion & Transportation,
+1014,Masculine,Masculine,3,2,1,1,b,q,External,A,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1015,Masculine,Masculine,3,3,1,0,ʕ,i,Mixed,A,Arabic-Assimilated,Underived,5-POLY,Y,Y,Religion & Beliefs,NonSpec
+1016,Masculine,Masculine,4,2,1,1,z,n,External,A,Arabic-Assimilated,Underived,5-UNIT,N,N,Agriculture & Vegetation,
+1017,Feminine,Feminine,4,2,1,0,ʒ,i,Mixed,A,Native,Underived,,N,N,Food & Drink,
+1018,Masculine,Masculine,5,2,1,1,s,j,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+1019,Masculine,Masculine,5,1,1,0,z,a,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+1020,Masculine,Masculine,3,1,1,1,w,ħ,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+1021,Feminine,Feminine,4,2,1,1,s,l,External,A,Native,Underived,1-AUG,N,Y,Physical World,NonSpec
+1022,Masculine,Masculine,4,1,1,1,z,ʁ,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+1023,Feminine,Feminine,3,1,1,1,s,χ,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+1024,Masculine,Masculine,4,1,1,1,k,w,External,A,Native,Underived,,N,Y,Physical World,NonSpec
+1025,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Action Nouns,,N,N,Body Parts & Functions,
+1026,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Action Nouns,,N,N,Language & Music,
+1027,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+1028,Feminine,Feminine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Food & Drink,
+1029,Feminine,Feminine,0,0,0,0,,,Only Plural,A,Native,Action Nouns,,N,N,Emotion,
+1030,Feminine,Feminine,0,0,0,0,,,Only Plural,A,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1031,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Action Nouns,,N,N,Emotion,
+1032,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Action Nouns,,N,N,Religion & Beliefs,
+1033,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Adjective Of Origin,,N,N,Emotion,
+1034,Feminine,Feminine,0,0,0,0,,,Only Plural,A,Native,Agentives,,N,N,Body Parts & Functions,
+1035,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+1036,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Body Parts & Functions,
+1037,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Food & Drink,
+1038,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Food & Drink,
+1039,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+1040,Feminine,Feminine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Food & Drink,
+1041,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Agriculture & Vegetation,
+1042,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Food & Drink,
+1043,Masculine,Masculine,0,0,0,0,,,Only Plural,A,Native,Underived,,N,N,Food & Drink,
+1044,Masculine,Neutral,4,1,1,1,l,b,External,I,Arabic-Assimilated,Tirrugza,,N,N,Mind & Thought,
+1045,Masculine,Neutral,4,2,1,0,k,i,External,I,Arabic-Assimilated,Tirrugza,,N,N,Language & Music,
+1046,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Law & Judgement,
+1047,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Language & Music,
+1048,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Religion & Beliefs,
+1049,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Social Relations,
+1050,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Motion & Transportation,
+1051,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Native,Tirrugza,,N,N,Warfare & Hunting,
+1052,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Mind & Thought,
+1053,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Native,Tirrugza,,N,N,Sense Perception,
+1054,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Native,Tirrugza,,N,N,Physical World,
+1055,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Mind & Thought,
+1056,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Spatial Relations,
+1057,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Unknown,Tirrugza,,N,N,Emotion,
+1058,Feminine,Feminine,5,2,1,0,n,a,No Plural,I,Native,Tirrugza,,N,N,Sense Perception,
+1059,Feminine,Feminine,5,2,1,0,d,a,No Plural,I,Native,Tirrugza,,N,N,Mankind,
+1060,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Mind & Thought,
+1061,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Time,
+1062,Feminine,Feminine,5,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Possession & Trade,
+1063,Feminine,Feminine,4,2,1,0,ʃ,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Religion & Beliefs,
+1064,Feminine,Feminine,4,2,1,0,ʃ,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Social Relations,
+1065,Feminine,Feminine,4,2,1,0,d,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Social Relations,
+1066,Feminine,Feminine,4,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Mind & Thought,
+1067,Feminine,Feminine,4,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Mind & Thought,
+1068,Feminine,Feminine,4,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Possession & Trade,
+1069,Feminine,Feminine,4,2,1,0,m,a,No Plural,I,Native,Tirrugza,,N,N,Social Relations,
+1070,Feminine,Feminine,4,2,1,0,n,a,No Plural,I,Native,Tirrugza,,N,N,Social Relations,
+1071,Feminine,Feminine,4,2,1,0,r,a,No Plural,I,Native,Tirrugza,,N,N,Body Parts & Functions,
+1072,Feminine,Feminine,4,2,1,0,r,a,No Plural,I,Native,Tirrugza,,N,N,Spatial Relations,
+1073,Feminine,Feminine,4,2,1,0,t,a,No Plural,I,Arabic-Assimilated,Tirrugza,,N,N,Religion & Beliefs,
+1074,Feminine,Feminine,4,2,1,0,w,a,No Plural,I,Native,Tirrugza,,N,N,Mind & Thought,
+1075,Masculine,Masculine,3,1,1,0,m,i,No Plural,I,Native,Underived,,N,N,Food & Drink,
+1076,Masculine,Masculine,2,1,1,0,s,i,No Plural,I,Native,Underived,,N,N,Body Parts & Functions,
+1077,Masculine,Masculine,2,2,1,0,m,i,No Plural,I,Native,Underived,,N,N,Agriculture & Vegetation,
+1078,Feminine,Feminine,3,1,1,0,n,i,Internal,I,Native,Agentives,,N,N,Body Parts & Functions,
+1079,Feminine,Feminine,4,1,1,1,k,f,No Plural,I,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1080,Masculine,Masculine,3,1,1,1,b,s,Mixed,I,Native,Instrumental Nouns,5-DIM,N,N,Physical Acts & Materials,
+1081,Masculine,Masculine,2,1,1,1,z,d,External,I,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1082,Masculine,Masculine,3,1,1,1,g,r,No Plural,I,Native,Action Nouns,,N,N,Spatial Relations,
+1083,Masculine,Masculine,3,1,1,1,g,r,Internal,I,Native,Underived,,N,Y,Animals,NonSpec
+1084,Feminine,Feminine,4,1,1,0,s,i,Internal,I,Native,Instrumental Nouns,1-AUG,N,N,Physical Acts & Materials,
+1085,Feminine,Feminine,2,0,1,1,f,r,Mixed,I,Native,Underived,1-AUG,N,N,Body Parts & Functions,
+1086,Masculine,Masculine,2,0,1,1,f,r,Mixed,I,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+1087,Masculine,Masculine,4,2,1,1,m,g,No Plural,I,Native,Agentives,,N,N,Sense Perception,
+1088,Masculine,Masculine,4,1,1,1,z,r,Mixed,I,Native,Underived,,N,Y,Animals,Male
+1089,Feminine,Feminine,3,1,1,0,m,i,No Plural,I,Native,Tifrdi,,N,N,Body Parts & Functions,
+1090,Masculine,Masculine,3,1,1,1,b,r,No Plural,I,Native,Action Nouns,,N,N,Body Parts & Functions,
+1091,Masculine,Masculine,2,1,1,0,k,u,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1092,Masculine,Masculine,5,1,1,1,b,r,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1093,Masculine,Masculine,3,0,1,1,m,d,External,I,Native,Underived,5-DIM,N,N,Language & Music,
+1094,Feminine,Feminine,2,1,1,1,k,d,Mixed,I,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+1095,Masculine,Masculine,4,1,1,1,b,s,Mixed,I,Native,Instrumental Nouns,5-DIM,N,N,Clothing & Adornment,
+1096,Masculine,Neutral,5,2,1,0,m,i,Mixed,I,Native,Agentives,,Y,Y,Language & Music,NonSpec
+1097,Masculine,Neutral,4,2,1,0,m,i,Mixed,I,Native,Agentives,,Y,Y,Language & Music,NonSpec
+1098,Masculine,Masculine,3,1,1,0,m,i,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1099,Masculine,Masculine,3,0,1,1,ʁ,d,External,I,Native,Underived,,N,Y,Animals,NonSpec
+1100,Masculine,Masculine,3,1,1,1,k,n,External,I,Native,Underived,,N,Y,Animals,NonSpec
+1101,Masculine,Masculine,3,1,1,0,g,a,Mixed,I,Native,Underived,,N,N,Physical World,
+1102,Feminine,Feminine,2,1,1,0,l,i,Mixed,I,Native,Instrumental Nouns,,N,N,Agriculture & Vegetation,
+1103,Masculine,Masculine,3,1,1,1,z,r,Mixed,I,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1104,Feminine,Feminine,2,1,1,0,g,i,No Plural,I,Native,Action Nouns,,N,N,Clothing & Adornment,
+1105,Feminine,Feminine,5,0,1,1,m,s,No Plural,I,Native,Underived,,N,N,Time,
+1106,Masculine,Masculine,2,1,1,1,f,f,No Plural,I,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1107,Feminine,Feminine,2,1,1,0,n,i,No Plural,I,Native,Action Nouns,,N,N,Food & Drink,
+1108,Masculine,Masculine,3,1,1,0,m,i,Mixed,I,Native,Underived,,N,N,Food & Drink,
+1109,Masculine,Masculine,3,1,1,0,m,i,Mixed,I,Native,Underived,,N,N,Food & Drink,
+1110,Masculine,Masculine,3,1,1,1,f,g,Mixed,I,Native,Underived,,N,N,Agriculture & Vegetation,
+1111,Masculine,Masculine,4,1,1,1,f,g,External,I,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+1112,Masculine,Masculine,3,2,1,1,n,f,External,I,Native,Underived,5-DIM,N,N,Religion & Beliefs,
+1113,Masculine,Masculine,3,0,1,1,s,g,Mixed,I,Native,Underived,,Y,Y,Social Relations,Male
+1114,Masculine,Masculine,3,0,1,1,m,r,Mixed,I,Native,Instrumental Nouns,,N,N,Agriculture & Vegetation,
+1115,Masculine,Neutral,2,1,1,0,s,i,Mixed,I,Native,Underived,,Y,Y,Mankind,NonSpec
+1116,Masculine,Masculine,2,2,1,0,f,i,Mixed,I,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1117,Feminine,Feminine,2,1,1,0,g,i,No Plural,I,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+1118,Masculine,Neutral,3,1,1,0,m,i,Mixed,I,Native,Agentives,,Y,Y,Agriculture & Vegetation,NonSpec
+1119,Feminine,Feminine,3,2,1,0,f,a,No Plural,I,Native,Underived,,N,N,Food & Drink,
+1120,Feminine,Feminine,3,1,1,0,m,i,Internal,I,Native,Underived,1-AUG,N,N,Quantity & Number,
+1121,Masculine,Masculine,3,1,1,0,ʃ,i,Internal,I,Native,Underived,5-DIM,N,N,Physical World,
+1122,Feminine,Feminine,4,1,1,0,s,i,Internal,I,Native,Instrumental Nouns,1-AUG,N,N,Time,
+1123,Masculine,Masculine,5,1,1,0,b,i,Mixed,I,Native,Underived,,N,N,Dwellings & Furniture,
+1124,Masculine,Masculine,3,2,1,0,k,i,Mixed,I,Native,Underived,,N,N,Physical Acts & Materials,
+1125,Masculine,Masculine,3,1,1,0,f,i,Internal,I,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1126,Masculine,Masculine,2,1,1,0,f,i,Mixed,I,Native,Underived,5-DIM,N,N,Physical World,
+1127,Feminine,Feminine,3,1,1,0,m,i,No Plural,I,Native,Action Nouns,,N,N,Clothing & Adornment,
+1128,Masculine,Neutral,4,1,1,1,g,z,External,I,Native,Underived,,N,Y,Animals,NonSpec
+1129,Masculine,Masculine,2,1,1,0,z,i,No Plural,I,Native,Underived,,N,N,Agriculture & Vegetation,
+1130,Masculine,Neutral,4,2,1,0,m,i,Mixed,I,Native,Agentives,,Y,Y,Possession & Trade,NonSpec
+1131,Masculine,Masculine,2,1,1,1,f,s,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1132,Masculine,Masculine,2,2,1,0,l,i,Mixed,I,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1133,Masculine,Neutral,3,2,1,0,m,i,Mixed,I,Arabic-Assimilated,Agentives,,Y,Y,Possession & Trade,NonSpec
+1134,Masculine,Masculine,2,1,1,1,r,d,No Plural,I,Native,Underived,,N,N,Clothing & Adornment,
+1135,Feminine,Feminine,2,1,1,0,ʁ,i,No Plural,I,Native,Action Nouns,,N,N,Language & Music,
+1136,Feminine,Feminine,3,1,1,0,f,i,No Plural,I,Native,Underived,,N,N,Quantity & Number,
+1137,Masculine,Neutral,4,0,1,1,q,r,External,I,Native,Underived,,N,Y,Animals,NonSpec
+1138,Masculine,Masculine,3,1,1,0,b,i,Mixed,I,Native,Underived,,N,N,Physical Acts & Materials,
+1139,Masculine,Masculine,2,1,1,1,m,ʁ,Mixed,I,Native,Action Nouns,,N,N,Warfare & Hunting,
+1140,Feminine,Feminine,3,1,1,0,s,i,No Plural,I,Native,Tifrdi,,N,N,Spatial Relations,
+1141,Feminine,Feminine,3,1,1,0,g,i,Internal,I,Native,Underived,,N,N,Dwellings & Furniture,
+1142,Feminine,Feminine,2,1,1,1,k,n,External,I,Native,Underived,1-AUG,N,N,Food & Drink,
+1143,Feminine,Feminine,3,1,1,0,f,i,Internal,I,Native,Underived,1-AUG,N,N,Quantity & Number,
+1144,Feminine,Feminine,3,1,1,0,m,i,No Plural,I,Native,Underived,,N,N,Animals,
+1145,Masculine,Masculine,3,2,1,0,z,i,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1146,Feminine,Feminine,2,1,1,0,g,i,No Plural,I,Native,Action Nouns,,N,N,Clothing & Adornment,
+1147,Feminine,Feminine,2,1,1,0,g,i,No Plural,I,Native,Underived,,N,Y,Animals,NonSpec
+1148,Masculine,Masculine,2,2,1,0,d,i,No Plural,I,Native,Underived,,N,N,Sense Perception,
+1149,Masculine,Masculine,2,0,1,1,s,m,Mixed,I,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1150,Masculine,Masculine,3,1,1,0,m,i,Mixed,I,Native,Underived,,Y,Y,Social Relations,NonSpec
+1151,Masculine,Neutral,2,2,1,0,ħ,i,Mixed,I,Native,Adjective Of Origin,,Y,Y,Social Relations,NonSpec
+1152,Masculine,Neutral,3,2,1,1,g,l,External,I,Native,Underived,,Y,Y,Mankind,NonSpec
+1153,Feminine,Feminine,3,1,1,0,f,i,Mixed,I,Native,Underived,,N,N,Body Parts & Functions,
+1154,Masculine,Masculine,3,1,1,0,f,i,Internal,I,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1155,Masculine,Masculine,2,0,1,1,χ,s,Mixed,I,Native,Underived,,N,N,Body Parts & Functions,
+1156,Masculine,Masculine,3,2,1,0,b,u,Mixed,I,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+1157,Feminine,Feminine,3,1,1,0,f,i,No Plural,I,Native,Tifrdi,,N,N,Agriculture & Vegetation,
+1158,Feminine,Feminine,3,1,1,1,d,l,Internal,I,Native,Underived,,N,N,Body Parts & Functions,
+1159,Masculine,Neutral,4,1,1,1,g,n,External,I,Native,Underived,,Y,Y,Emotion,NonSpec
+1160,Masculine,Masculine,2,0,1,1,l,m,Mixed,I,Native,Underived,,N,N,Body Parts & Functions,
+1161,Feminine,Feminine,4,1,1,0,f,i,No Plural,I,Native,Underived,,N,N,Food & Drink,
+1162,Feminine,Feminine,4,1,1,1,m,ʒ,External,I,Native,Underived,,N,N,Physical World,
+1163,Masculine,Masculine,2,0,1,1,n,k,Mixed,I,Native,Underived,,N,N,Dwellings & Furniture,
+1164,Masculine,Masculine,3,1,1,1,f,l,External,I,Native,Underived,5-UNIT,N,N,Food & Drink,
+1165,Masculine,Masculine,2,1,1,0,f,i,No Plural,I,Native,Underived,,N,N,Agriculture & Vegetation,
+1166,Masculine,Masculine,2,2,1,0,n,i,Mixed,I,Native,Action Nouns,,N,N,Spatial Relations,
+1167,Masculine,Masculine,2,1,1,0,z,i,Mixed,I,Native,Underived,,N,N,Language & Music,
+1168,Feminine,Feminine,2,1,1,0,f,u,Mixed,I,Native,Underived,1-AUG,N,N,Dwellings & Furniture,
+1169,Masculine,Masculine,3,2,1,1,ʃ,m,External,I,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+1170,Masculine,Masculine,3,0,1,1,g,z,Mixed,I,Native,Underived,5-DIM,N,N,Quantity & Number,
+1171,Masculine,Masculine,3,1,1,0,g,i,Internal,I,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+1172,Feminine,Feminine,3,1,1,1,m,l,External,I,Native,Underived,1-AUG,N,N,Body Parts & Functions,
+1173,Masculine,Neutral,3,1,1,0,m,i,Internal,I,Native,Tifrdi,,Y,Y,Body Parts & Functions,NonSpec
+1174,Masculine,Masculine,2,1,1,1,s,d,No Plural,I,Native,Action Nouns,,N,N,Emotion,
+1175,Masculine,Masculine,4,0,1,1,n,d,Internal,I,Native,Underived,,N,N,Body Parts & Functions,
+1176,Masculine,Masculine,3,0,1,1,ʁ,r,Mixed,I,Native,Underived,,N,N,Physical World,
+1177,Feminine,Feminine,4,0,1,1,g,l,Internal,I,Native,Underived,,N,N,Body Parts & Functions,
+1178,Masculine,Masculine,3,2,1,1,m,g,No Plural,I,Native,Underived,,N,N,Language & Music,
+1179,Masculine,Masculine,6,0,1,1,f,r,Internal,I,Native,Underived,,N,N,Clothing & Adornment,
+1180,Masculine,Masculine,3,1,1,1,b,s,Mixed,I,Arabic-Assimilated,Underived,,N,Y,Religion & Beliefs,NonSpec
+1181,Masculine,Masculine,3,2,1,0,g,i,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1182,Masculine,Neutral,4,1,1,1,ʁ,m,Mixed,I,Native,Underived,,N,Y,Animals,NonSpec
+1183,Masculine,Masculine,2,2,1,0,r,i,Mixed,I,Native,Action Nouns,,N,N,Food & Drink,
+1184,Masculine,Masculine,4,0,1,1,ħ,l,Internal,I,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+1185,Masculine,Masculine,3,2,1,0,ʒ,i,Mixed,I,Native,Underived,,N,N,Physical World,
+1186,Masculine,Masculine,3,1,1,0,d,i,No Plural,I,Native,Underived,,N,N,Physical Acts & Materials,
+1187,Masculine,Masculine,4,1,1,0,f,i,Internal,I,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1188,Feminine,Feminine,3,0,1,1,m,l,Internal,I,Native,Instrumental Nouns,,N,N,Body Parts & Functions,
+1189,Masculine,Masculine,3,1,1,1,g,g,External,I,Native,Underived,,N,N,Physical World,
+1190,Masculine,Masculine,3,0,1,1,k,r,No Plural,I,Native,Underived,,N,N,Physical Acts & Materials,
+1191,Feminine,Feminine,3,1,1,0,ʃ,i,Internal,I,Native,Underived,1-AUG,N,N,Physical World,
+1192,Feminine,Feminine,3,1,1,0,n,i,Internal,I,Native,Underived,1-AUG,N,N,Physical World,
+1193,Masculine,Masculine,2,2,1,0,n,i,Mixed,I,Native,Agentives,,Y,Y,Warfare & Hunting,NonSpec
+1194,Masculine,Masculine,3,1,1,0,b,i,Mixed,I,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1195,Masculine,Masculine,3,1,1,1,r,g,Mixed,I,Native,Underived,,N,N,Physical World,
+1196,Masculine,Masculine,2,1,1,1,w,z,No Plural,I,Native,Action Nouns,,N,N,Quantity & Number,
+1197,Feminine,Feminine,2,2,1,0,w,i,No Plural,I,Native,Action Nouns,,N,N,Social Relations,
+1198,Masculine,Masculine,3,2,1,0,ʒ,i,Mixed,I,Native,Underived,,N,N,Physical World,
+1199,Masculine,Masculine,3,1,1,1,m,l,External,I,Native,Underived,,N,N,Body Parts & Functions,
+1200,Feminine,Feminine,3,1,1,0,ʁ,i,Mixed,I,Native,Action Nouns,,Y,Y,Emotion,NonSpec
+1201,Masculine,Masculine,3,0,1,1,d,r,No Plural,I,Native,Agentives,,Y,Y,Mankind,NonSpec
+1202,Masculine,Neutral,3,1,1,1,m,r,External,I,Native,Agentives,,Y,Y,Social Relations,NonSpec
+1203,Masculine,Masculine,2,1,1,0,z,i,No Plural,I,Native,Action Nouns,,N,N,Sense Perception,
+1204,Feminine,Feminine,3,1,1,1,m,l,External,I,Native,Underived,,N,N,Food & Drink,
+1205,Feminine,Feminine,2,1,1,1,ʃ,ʃ,External,I,Native,Underived,,N,N,Food & Drink,
+1206,Feminine,Feminine,3,2,1,0,z,a,No Plural,I,Native,Underived,,N,N,Body Parts & Functions,
+1207,Masculine,Masculine,3,1,1,1,d,m,No Plural,I,Native,Underived,,N,N,Time,
+1208,Masculine,Masculine,3,2,1,0,f,i,No Plural,I,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1209,Masculine,Neutral,3,1,1,0,g,i,Mixed,I,Native,Underived,,Y,Y,Social Relations,NonSpec
+1210,Masculine,Masculine,4,2,1,1,m,s,External,I,Native,Underived,,N,N,Time,
+1211,Feminine,Feminine,3,2,1,0,f,i,No Plural,I,Native,Underived,,N,N,Food & Drink,
+1212,Feminine,Feminine,4,2,1,0,m,a,Mixed,I,Arabic-Assimilated,Underived,,N,N,Religion & Beliefs,
+1213,Feminine,Feminine,3,2,1,0,z,i,Mixed,I,Native,Underived,,N,N,Food & Drink,
+1214,Feminine,Feminine,4,0,1,1,m,d,External,I,Native,Underived,,N,Y,Physical World,NonSpec
+1215,Masculine,Masculine,4,1,1,0,s,i,Internal,I,Native,Underived,,N,Y,Physical World,NonSpec
+1216,Feminine,Feminine,5,0,1,1,l,z,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1217,Feminine,Feminine,4,1,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Sense Perception,
+1218,Masculine,Masculine,5,1,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1219,Masculine,Masculine,3,1,1,1,l,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Motion & Transportation,
+1220,Masculine,Masculine,4,2,1,1,d,k,No Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1221,Feminine,Feminine,3,1,0,1,a,r,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1222,Masculine,Masculine,3,2,0,1,a,j,No Plural,Zero,Native,Action Nouns,5-UNIT,N,N,Agriculture & Vegetation,
+1223,Feminine,Feminine,1,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Language & Music,
+1224,Feminine,Feminine,2,2,0,1,a,w,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1225,Masculine,Masculine,4,3,1,1,m,n,id Plural,Zero,Native,Underived,,Y,Y,Agriculture & Vegetation,NonSpec
+1226,Masculine,Masculine,3,1,0,1,a,d,No Plural,Zero,Native,Underived,,N,N,Spatial Relations,
+1227,Masculine,Masculine,4,2,0,1,a,l,External,Zero,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+1228,Masculine,Masculine,3,2,0,1,u,f,External,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1229,Feminine,Feminine,3,2,0,1,u,m,External,Zero,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+1230,Masculine,Masculine,2,2,0,1,a,j,No Plural,Zero,Native,Underived,,N,N,Physical World,
+1231,Feminine,Feminine,6,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Agriculture & Vegetation,
+1232,Feminine,Feminine,3,2,0,1,u,m,External,Zero,Native,Ukris,1-AUG,N,N,Physical Acts & Materials,
+1233,Masculine,Masculine,3,2,0,1,a,g,External,Zero,Native,Action Nouns,5-UNIT,N,N,Physical Acts & Materials,
+1234,Masculine,Masculine,3,2,0,1,a,l,External,Zero,Native,Action Nouns,5-DIM,N,N,Physical Acts & Materials,
+1235,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1236,Feminine,Feminine,3,1,1,0,l,i,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1237,Masculine,Masculine,3,2,0,1,a,f,No Plural,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1238,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1239,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1240,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1241,Masculine,Masculine,3,2,0,1,a,j,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1242,Masculine,Masculine,3,2,0,1,a,s,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1243,Feminine,Feminine,4,2,0,0,i,i,No Plural,Zero,Native,Result of Verbal Action - WIP,,N,N,Sense Perception,
+1244,Masculine,Masculine,3,2,0,1,a,z,Internal,Zero,Arabic-Assimilated,Underived,5-UNIT,N,N,Food & Drink,
+1245,Feminine,Feminine,5,3,0,0,i,a,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1246,Feminine,Feminine,2,2,0,0,a,i,No Plural,Zero,Native,Result of Verbal Action - WIP,,N,N,Emotion,
+1247,Masculine,Masculine,4,2,1,1,ħ,n,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1248,Feminine,Feminine,4,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1249,Masculine,Masculine,2,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1250,Masculine,Masculine,4,1,1,1,l,ħ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1251,Masculine,Masculine,3,2,0,1,a,j,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1252,Masculine,Masculine,3,2,0,1,a,b,External,Zero,Arabic-Assimilated,Underived,5-POLY,Y,Y,Social Relations,NonSpec
+1253,Masculine,Masculine,3,2,0,1,a,g,No Plural,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1254,Feminine,Feminine,4,2,0,0,u,a,No Plural,Zero,Arabic-Assimilated,Action Nouns,,N,N,Social Relations,
+1255,Masculine,Masculine,4,0,1,1,l,f,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Motion & Transportation,
+1256,Feminine,Feminine,3,2,0,1,a,s,External,Zero,Native,Instrumental Nouns,,N,N,Physical Acts & Materials,
+1257,Feminine,Feminine,2,2,0,1,a,j,External,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1258,Masculine,Masculine,3,2,0,1,a,s,No Plural,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1259,Masculine,Masculine,3,2,0,1,u,s,External,Zero,Native,Ukris,5-DIM,N,N,Physical Acts & Materials,
+1260,Masculine,Masculine,2,2,0,1,a,r,Mixed,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1261,Masculine,Neutral,3,2,0,1,u,l,External,Zero,Native,Agentives,,Y,Y,Sense Perception,NonSpec
+1262,Masculine,Masculine,2,1,0,1,i,d,External,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1263,Feminine,Feminine,3,1,0,1,i,s,Internal,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1264,Masculine,Masculine,3,2,0,1,a,s,External,Zero,Native,Action Nouns,5-UNIT,N,N,Body Parts & Functions,
+1265,Feminine,Feminine,1,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Spatial Relations,
+1266,Masculine,Masculine,1,1,0,1,i,r,Mixed,Zero,Native,Underived,,N,N,Spatial Relations,
+1267,Masculine,Neutral,2,2,0,1,a,d,External,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1268,Masculine,Masculine,1,2,0,0,i,i,Mixed,Zero,Native,Underived,5-DIM ,N,N,Body Parts & Functions,
+1269,Feminine,Feminine,3,2,0,1,a,ʁ,External,Zero,Native,Underived,1-AUG,N,N,Physical World,
+1270,Masculine,Masculine,2,2,0,1,i,l,Mixed,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1271,Feminine,Feminine,3,2,0,1,a,r,No Plural,Zero,Native,Underived,,N,N,Sense Perception,
+1272,Feminine,Feminine,4,3,0,1,a,j,No Plural,Zero,Native,Underived,,N,N,Sense Perception,
+1273,Masculine,Masculine,2,2,0,1,u,n,Mixed,Zero,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+1274,Feminine,Feminine,3,1,0,1,a,s,Internal,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1275,Masculine,Masculine,2,1,0,1,i,d,No Plural,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1276,Masculine,Neutral,3,1,0,1,u,n,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1277,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Tifrdi,,N,N,Sense Perception,
+1278,Masculine,Masculine,2,1,0,1,i,r,Mixed,Zero,Native,Underived,,N,N,Physical World,
+1279,Masculine,Masculine,2,2,0,1,u,r,External,Zero,Native,Underived,,N,N,Language & Music,
+1280,Masculine,Masculine,2,2,0,1,a,z,No Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1281,Masculine,Masculine,3,2,0,0,a,a,Mixed,Zero,Native,Underived,5-DIM,N,N,Sense Perception,
+1282,Masculine,Masculine,4,2,1,1,m,s,No Plural,Zero,Native,Underived,,N,N,Animals,
+1283,Masculine,Masculine,3,2,0,1,a,s,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1284,Masculine,Masculine,3,2,0,1,a,r,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1285,Masculine,Masculine,3,1,1,0,b,i,Internal,Zero,Unknown,Underived,,N,N,Emotion,
+1286,Masculine,Neutral,2,2,0,0,a,i,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1287,Masculine,Neutral,3,2,0,1,u,j,External,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1288,Masculine,Masculine,5,1,1,1,b,ʒ,id Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1289,Masculine,Masculine,1,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,N,Spatial Relations,
+1290,Feminine,Feminine,3,2,0,1,a,j,External,Zero,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+1291,Masculine,Masculine,1,1,0,1,u,l,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1292,Feminine,Feminine,4,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Social Relations,
+1293,Feminine,Feminine,2,2,0,0,u,u,Mixed,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1294,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1295,Feminine,Feminine,6,2,1,0,t,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1296,Feminine,Feminine,1,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,N,Physical World,
+1297,Masculine,Masculine,3,2,0,1,a,r,External,Zero,Native,Underived,5-DIM,N,N,Physical World,
+1298,Feminine,Feminine,4,1,1,1,l,m,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1299,Masculine,Masculine,4,1,1,1,l,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1300,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Mind & Thought,
+1301,Masculine,Masculine,3,1,1,0,l,i,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1302,Masculine,Masculine,2,2,0,1,u,w,External,Zero,Native,Underived,,N,N,Quantity & Number,
+1303,Masculine,Masculine,2,1,0,1,i,k,Mixed,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1304,Feminine,Feminine,3,2,0,0,a,i,No Plural,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1305,Masculine,Masculine,3,2,0,1,a,j,External,Zero,Native,Action Nouns,5-DIM,N,N,Physical Acts & Materials,
+1306,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1307,Feminine,Feminine,2,3,0,0,i,a,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1308,Masculine,Neutral,3,2,0,1,a,w,External,Zero,Native,Underived,,Y,Y,Mankind,NonSpec
+1309,Feminine,Feminine,2,3,0,0,a,i,No Plural,Zero,Native,Action Nouns,,N,N,Dwellings & Furniture,
+1310,Masculine,Masculine,5,2,1,1,b,z,id Plural,Zero,Native,Underived,,Y,Y,Emotion,NonSpec
+1311,Masculine,Masculine,2,1,0,1,a,l,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1312,Masculine,Masculine,2,2,0,1,a,s,External,Zero,Native,Underived,5-DIM,N,N,Food & Drink,
+1313,Masculine,Masculine,3,2,1,0,ʁ,u,No Plural,Zero,Native,Action Nouns,,N,N,Emotion,
+1314,Masculine,Masculine,2,1,0,1,a,s,Mixed,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1315,Masculine,Masculine,3,1,1,0,r,a,No Plural,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1316,Masculine,Masculine,2,2,0,1,u,f,No Plural,Zero,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+1317,Masculine,Masculine,2,2,0,1,u,z,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1318,Masculine,Masculine,3,2,0,1,u,g,External,Zero,Native,Underived,5-DIM,N,N,Physical World,
+1319,Masculine,Masculine,2,2,1,0,b,i,No Plural,Zero,Unknown,Underived,,N,Y,Animals,NonSpec
+1320,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Action Nouns,,N,N,Language & Music,
+1321,Feminine,Feminine,1,2,0,0,a,i,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1322,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Action Nouns,,N,N,Possession & Trade,
+1323,Feminine,Feminine,5,2,1,0,t,a,No Plural,Zero,Unknown,Underived,,N,N,Food & Drink,
+1324,Masculine,Masculine,3,2,0,1,a,n,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1325,Feminine,Feminine,4,3,0,1,a,l,No Plural,Zero,Native,Underived,,N,N,Sense Perception,
+1326,Masculine,Neutral,2,2,0,0,a,a,External,Zero,Native,Result of Verbal Action - WIP,,N,N,Language & Music,
+1327,Masculine,Masculine,3,2,0,1,a,d,External,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1328,Feminine,Feminine,4,2,0,1,a,j,No Plural,Zero,Native,Underived,,N,N,Emotion,
+1329,Feminine,Feminine,3,2,0,0,i,i,No Plural,Zero,Native,Tifrdi,,N,N,Physical Acts & Materials,
+1330,Masculine,Masculine,2,2,0,1,u,m,No Plural,Zero,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+1331,Feminine,Feminine,4,1,1,1,l,b,No Plural,Zero,Arabic-Assimilated,Underived,,N,Y,Animals,NonSpec
+1332,Feminine,Feminine,3,2,0,1,u,g,No Plural,Zero,Native,Stative Noun - WIP,,N,N,Spatial Relations,
+1333,Feminine,Feminine,3,2,0,1,a,j,No Plural,Zero,Native,Stative Noun - WIP,,N,N,Body Parts & Functions,
+1334,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Clothing & Adornment,
+1335,Feminine,Feminine,3,2,0,1,a,z,External,Zero,Native,Underived,,N,N,Spatial Relations,
+1336,Feminine,Feminine,6,1,0,1,a,r,External,Zero,Arabic-Assimilated,Instrumental Nouns,,N,N,Religion & Beliefs,
+1337,Masculine,Neutral,3,2,0,1,a,n,External,Zero,Native,Underived,,Y,Y,Mankind,NonSpec
+1338,Feminine,Feminine,4,2,0,1,a,z,No Plural,Zero,Native,Stative Noun - WIP,,N,N,Food & Drink,
+1339,Masculine,Masculine,3,3,0,0,a,u,No Plural,Zero,Native,Stative Noun - WIP,,N,N,Body Parts & Functions,
+1340,Masculine,Neutral,3,2,0,1,u,j,External,Zero,Native,Stative Noun - WIP,,Y,Y,Quantity & Number,NonSpec
+1341,Masculine,Masculine,2,2,0,1,i,r,Mixed,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1342,Masculine,Masculine,4,0,1,1,r,g,Internal,Zero,Native,Underived,,N,N,Physical World,
+1343,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Motion & Transportation,
+1344,Masculine,Masculine,5,2,1,0,b,a,id Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1345,Feminine,Feminine,1,2,0,0,i,i,Mixed,Zero,Native,Underived,,N,N,Physical World,
+1346,Feminine,Feminine,3,3,0,0,i,i,No Plural,Zero,Native,Stative Noun - WIP,,N,N,Motion & Transportation,
+1347,Feminine,Feminine,4,1,0,1,u,m,No Plural,Zero,Native,Underived,,N,N,Dwellings & Furniture,
+1348,Masculine,Masculine,2,2,0,0,i,i,Mixed,Zero,Native,Underived,5-DIM,N,N,Physical World,
+1349,Feminine,Feminine,4,1,1,1,d,ʃ,No Plural,Zero,Arabic-Unassimilated,Action Nouns,,N,N,Emotion,
+1350,Masculine,Masculine,3,2,0,1,a,d,No Plural,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1351,Feminine,Feminine,4,1,1,1,r,j,No Plural,Zero,Native,Action Nouns,,N,N,Emotion,
+1352,Feminine,Feminine,4,0,1,1,l,m,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Physical World,
+1353,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Dwellings & Furniture,
+1354,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Dwellings & Furniture,
+1355,Feminine,Feminine,2,2,0,1,a,r,External,Zero,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+1356,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Action Nouns,,N,N,Clothing & Adornment,
+1357,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Occupational Nouns,,Y,Y,Motion & Transportation,Female
+1358,Masculine,Masculine,3,2,0,1,u,d,No Plural,Zero,Native,Ukris,,N,N,Time,
+1359,Feminine,Feminine,2,3,0,0,i,a,No Plural,Zero,Native,Underived,,N,N,Time,
+1360,Masculine,Masculine,2,2,0,1,a,f,Mixed,Zero,Native,Underived,,N,N,Physical World,
+1361,Feminine,Feminine,1,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1362,Masculine,Masculine,2,2,0,1,a,m,Mixed,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1363,Feminine,Feminine,2,2,0,1,a,n,External,Zero,Native,Underived,,N,N,Physical World,
+1364,Masculine,Masculine,2,2,0,1,a,d,Internal,Zero,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1365,Feminine,Feminine,2,1,0,1,a,r,Internal,Zero,Native,Underived,,N,N,Food & Drink,
+1366,Feminine,Feminine,2,2,0,0,u,i,Mixed,Zero,Native,Underived,1-AUG,N,Y,Animals,NonSpec
+1367,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Tifrdi,,N,N,Physical Acts & Materials,
+1368,Masculine,Masculine,2,2,0,0,i,i,Mixed,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1369,Masculine,Masculine,3,2,0,0,i,i,Mixed,Zero,Native,Underived,,N,N,Spatial Relations,
+1370,Masculine,Masculine,3,2,0,1,a,s,No Plural,Zero,Native,Action Nouns,,N,N,Food & Drink,
+1371,Masculine,Masculine,2,2,0,0,i,i,Internal,Zero,Native,Instrumental Nouns,5-DIM,N,N,Clothing & Adornment,
+1372,Feminine,Feminine,3,2,0,1,u,f,External,Zero,Native,Ukris,,N,N,Food & Drink,
+1373,Feminine,Feminine,2,2,0,1,i,f,No Plural,Zero,Native,Action Nouns,,N,N,Warfare & Hunting,
+1374,Masculine,Masculine,2,2,0,1,a,f,No Plural,Zero,Native,Action Nouns,,N,N,Warfare & Hunting,
+1375,Masculine,Masculine,2,2,0,1,a,r,No Plural,Zero,Native,Underived,,N,N,Physical World,
+1376,Feminine,Feminine,3,2,0,1,a,j,External,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1377,Feminine,Feminine,3,2,0,1,u,m,External,Zero,Native,Underived,1-AUG,N,N,Quantity & Number,
+1378,Masculine,Masculine,2,2,0,0,a,a,Mixed,Zero,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+1379,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1380,Feminine,Feminine,3,2,0,1,a,t,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1381,Masculine,Masculine,5,2,1,0,h,u,id Plural,Zero,Unknown,Underived,,Y,Y,Mankind,NonSpec
+1382,Feminine,Feminine,2,3,0,0,i,i,Mixed,Zero,Native,Underived,1-AUG,N,N,Quantity & Number,
+1383,Feminine,Feminine,2,2,1,0,f,a,Mixed,Zero,Native,Underived,1-AUG,N,N,Agriculture & Vegetation,
+1384,Feminine,Feminine,3,2,0,1,a,r,No Plural,Zero,Native,Underived,,N,N,Quantity & Number,
+1385,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Tifrdi,,N,N,Quantity & Number,
+1386,Masculine,Masculine,1,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1387,Feminine,Feminine,3,1,0,1,u,ʁ,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1388,Feminine,Feminine,3,2,0,1,a,r,No Plural,Zero,Native,Action Nouns,,N,N,Mind & Thought,
+1389,Feminine,Feminine,2,1,0,1,a,d,Internal,Zero,Native,Underived,1-AUG,N,N,Physical Acts & Materials,
+1390,Feminine,Feminine,3,2,0,1,a,j,External,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1391,Masculine,Masculine,5,1,1,1,b,d,id Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1392,Feminine,Feminine,2,3,0,0,a,i,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1393,Feminine,Feminine,3,1,0,1,a,s,No Plural,Zero,Native,Underived,,N,N,Time,
+1394,Masculine,Masculine,2,2,0,1,a,ʃ,Internal,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1395,Masculine,Masculine,4,1,1,0,h,a,id Plural,Zero,Native,Underived,,Y,Y,Religion & Beliefs,Male
+1396,Masculine,Masculine,6,2,1,1,b,n,id Plural,Zero,Native,Underived,,Y,Y,Religion & Beliefs,Male
+1397,Masculine,Masculine,9,2,1,1,m,t,id Plural,Zero,Native,Underived,,Y,Y,Social Relations,NonSpec
+1398,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Action Nouns,,N,N,Language & Music,
+1399,Masculine,Masculine,3,2,1,1,l,r,External,Zero,Arabic-Assimilated,Underived,5-DIM,N,N,Language & Music,
+1400,Feminine,Feminine,3,3,0,0,i,i,No Plural,Zero,Native,Action Nouns,,N,N,Quantity & Number,
+1401,Feminine,Feminine,4,1,1,1,ʃ,r,No Plural,Zero,Arabic-Unassimilated,Action Nouns,,N,N,Mind & Thought,
+1402,Masculine,Masculine,4,2,1,1,l,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1403,Feminine,Feminine,4,3,1,0,l,a,No Plural,Zero,Arabic-Assimilated,Action Nouns,,N,N,Emotion,
+1404,Masculine,Masculine,4,2,1,1,s,ʁ,No Plural,Zero,Native,Unknown,,N,N,Body Parts & Functions,
+1405,Feminine,Feminine,3,2,0,1,a,j,External,Zero,Native,Action Nouns,,N,N,Language & Music,
+1406,Masculine,Masculine,4,1,1,1,r,q,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1407,Masculine,Masculine,2,1,0,1,a,s,Mixed,Zero,Native,Underived,,N,N,Time,
+1408,Masculine,Neutral,2,2,0,1,u,j,External,Zero,Native,Underived,,Y,Y,Social Relations,NonSpec
+1409,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+1410,Feminine,Feminine,5,1,1,1,l,t,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1411,Masculine,Masculine,3,2,0,1,a,r,External,Zero,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1412,Masculine,Masculine,2,1,0,1,i,s,Mixed,Zero,Native,Underived,5-DIM,N,N,Language & Music,
+1413,Feminine,Feminine,2,2,0,0,u,u,No Plural,Zero,Native,Underived,,N,N,Quantity & Number,
+1414,Masculine,Masculine,3,2,0,1,a,d,No Plural,Zero,Native,Unknown,,N,Y,Animals,NonSpec
+1415,Masculine,Masculine,2,2,0,1,u,ʁ,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1416,Masculine,Masculine,1,2,0,0,u,u,No Plural,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1417,Masculine,Masculine,3,2,0,1,a,r,External,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1418,Masculine,Masculine,3,2,0,1,a,s,External,Zero,Native,Action Nouns,5-DIM,N,N,Physical Acts & Materials,
+1419,Masculine,Neutral,3,1,1,1,w,l,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1420,Masculine,Neutral,2,1,0,1,i,m,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1421,Masculine,Masculine,3,1,1,0,l,i,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1422,Feminine,Feminine,3,2,0,1,a,j,No Plural,Zero,Native,Action Nouns,,N,N,Quantity & Number,
+1423,Feminine,Feminine,2,2,0,1,u,w,External,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1424,Feminine,Feminine,2,2,0,1,i,w,External,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1425,Feminine,Feminine,2,2,0,1,a,ʁ,No Plural,Zero,Native,Action Nouns,,N,N,Warfare & Hunting,
+1426,Masculine,Masculine,2,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1427,Feminine,Feminine,3,2,0,0,i,i,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1428,Masculine,Neutral,3,1,1,1,w,ʃ,id Plural,Zero,Native,Underived,,Y,Y,Emotion,NonSpec
+1429,Masculine,Masculine,3,1,0,1,a,m,Mixed,Zero,Native,Underived,,Y,Y,Mankind,Male
+1430,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Emotion,
+1431,Feminine,Feminine,5,1,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Action Nouns,,N,N,Emotion,
+1432,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Animals,
+1433,Feminine,Feminine,2,2,0,0,i,a,No Plural,Zero,Native,Underived,,N,N,Language & Music,
+1434,Feminine,Feminine,3,2,0,0,i,i,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1435,Feminine,Feminine,3,1,0,1,a,n,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1436,Masculine,Masculine,2,1,0,1,i,d,Mixed,Zero,Native,Underived,,N,N,Quantity & Number,
+1437,Masculine,Masculine,3,2,0,1,a,r,Mixed,Zero,Native,Underived,,N,N,Time,
+1438,Masculine,Masculine,4,2,1,1,m,n,id Plural,Zero,Unknown,Underived,,Y,Y,Emotion,NonSpec
+1439,Masculine,Masculine,4,0,1,1,t,z,No Plural,Zero,Native,Underived,,N,N,Emotion,
+1440,Masculine,Masculine,3,2,0,1,u,ʃ,External,Zero,Native,Ukris,5-DIM,N,N,Food & Drink,
+1441,Masculine,Masculine,3,2,0,1,u,b,External,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1442,Masculine,Masculine,1,2,0,0,i,i,Mixed,Zero,Native,Underived,5-DIM,N,N,Animals,
+1443,Masculine,Masculine,2,2,0,1,u,d,External,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1444,Masculine,Masculine,3,1,1,1,w,l,No Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1445,Masculine,Masculine,3,3,1,0,w,a,id Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1446,Feminine,Feminine,1,2,0,0,u,u,No Plural,Zero,Native,Action Nouns,,N,N,Quantity & Number,
+1447,Feminine,Feminine,2,3,0,0,a,i,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1448,Feminine,Feminine,2,2,0,1,a,w,External,Zero,Native,Underived,1-AUG,N,N,Motion & Transportation,
+1449,Masculine,Masculine,4,2,1,1,χ,s,id Plural,Zero,Native,Underived,,Y,Y,Emotion,NonSpec
+1450,Feminine,Feminine,4,2,0,1,a,s,External,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1451,Masculine,Masculine,2,2,0,1,a,d,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1452,Masculine,Masculine,3,2,0,1,u,r,External,Zero,Native,Ukris,,Y,Y,Mankind,NonSpec
+1453,Masculine,Masculine,1,1,0,1,i,d,Mixed,Zero,Native,Underived,,N,N,Time,
+1454,Masculine,Masculine,2,2,0,1,a,w,External,Zero,Native,Instrumental Nouns,,N,N,Sense Perception,
+1455,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Sense Perception,
+1456,Masculine,Masculine,1,2,0,0,a,u,No Plural,Zero,Native,Underived,,N,N,Sense Perception,
+1457,Feminine,Feminine,1,1,0,1,i,t,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1458,Masculine,Masculine,3,1,0,1,i,r,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1459,Masculine,Masculine,2,1,0,1,u,ʁ,No Plural,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1460,Masculine,Masculine,2,1,0,1,i,d,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1461,Masculine,Masculine,4,1,1,1,l,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1462,Masculine,Masculine,3,1,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1463,Masculine,Masculine,3,2,0,1,a,m,No Plural,Zero,Native,Action Nouns,,N,N,Clothing & Adornment,
+1464,Masculine,Masculine,4,2,0,1,a,d,External,Zero,Native,Underived,5-DIM,N,N,Physical Acts & Materials,
+1465,Feminine,Feminine,4,2,0,0,a,u,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1466,Masculine,Masculine,2,2,0,0,a,a,External,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1467,Feminine,Feminine,3,2,0,1,a,l,External,Zero,Native,Underived,1-AUG,N,N,Possession & Trade,
+1468,Masculine,Masculine,3,2,0,1,a,w,External,Zero,Native,Underived,5-DIM,N,N,Possession & Trade,
+1469,Masculine,Masculine,5,2,1,0,f,u,id Plural,Zero,Native,Underived,,N,N,Animals,
+1470,Feminine,Feminine,2,2,0,0,u,u,No Plural,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1471,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1472,Masculine,Masculine,3,1,0,1,i,l,Mixed,Zero,Native,Instrumental Nouns,,N,N,Body Parts & Functions,
+1473,Feminine,Feminine,3,2,0,1,i,r,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1474,Masculine,Masculine,3,2,0,1,i,ʃ,Mixed,Zero,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+1475,Masculine,Masculine,3,1,0,1,i,ʃ,Mixed,Zero,Native,Underived,5-DIM,N,N,Food & Drink,
+1476,Feminine,Feminine,4,2,0,1,a,r,External,Zero,Native,Action Nouns,1-AUG,N,N,Physical World,
+1477,Masculine,Masculine,2,2,0,0,a,i,No Plural,Zero,Native,Underived,,N,N,Emotion,
+1478,Masculine,Masculine,5,2,1,1,b,n,id Plural,Zero,Native,Underived,,Y,Y,Social Relations,Male
+1479,Masculine,Neutral,3,2,0,1,u,χ,External,Zero,Native,Ukris,,Y,Y,Emotion,NonSpec
+1480,Masculine,Masculine,4,1,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Food & Drink,
+1481,Feminine,Feminine,2,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Emotion,
+1482,Masculine,Masculine,3,2,0,1,a,n,Internal,Zero,Native,Underived,5-DIM,N,N,Physical World,
+1483,Masculine,Masculine,2,2,0,1,u,k,No Plural,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1484,Masculine,Masculine,2,2,0,1,a,r,Mixed,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1485,Feminine,Feminine,2,2,0,1,a,s,Internal,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1486,Masculine,Masculine,6,2,1,1,b,n,id Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1487,Feminine,Feminine,4,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1488,Feminine,Feminine,1,2,0,0,u,u,No Plural,Zero,Native,Action Nouns,,N,N,Agriculture & Vegetation,
+1489,Masculine,Masculine,3,1,1,1,l,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Clothing & Adornment,
+1490,Feminine,Feminine,3,2,0,1,u,z,External,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1491,Masculine,Masculine,3,2,0,1,u,z,External,Zero,Native,Action Nouns,5-DIM,N,N,Physical Acts & Materials,
+1492,Masculine,Masculine,3,1,0,1,i,l,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1493,Feminine,Feminine,2,2,0,1,a,ʃ,Internal,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1494,Feminine,Feminine,3,2,0,1,a,r,Internal,Zero,Native,Underived,1-AUG,N,N,Dwellings & Furniture,
+1495,Feminine,Feminine,3,3,0,0,a,i,No Plural,Zero,Arabic-Assimilated,Action Nouns,,N,N,Religion & Beliefs,
+1496,Masculine,Masculine,4,2,0,1,a,z,Internal,Zero,Native,Action Nouns,5-DIM,N,N,Possession & Trade,
+1497,Masculine,Masculine,2,2,0,1,a,g,No Plural,Zero,Native,Underived,,N,N,Possession & Trade,
+1498,Feminine,Feminine,2,2,0,0,a,u,No Plural,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1499,Masculine,Masculine,3,2,0,1,a,w,Internal,Zero,Native,Unknown,,Y,Y,Mankind,NonSpec
+1500,Masculine,Masculine,2,2,0,1,u,s,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1501,Masculine,Masculine,3,2,1,0,ʒ,a,id Plural,Zero,Native,Underived,,Y,Y,Social Relations,NonSpec
+1502,Feminine,Feminine,2,2,0,0,u,u,No Plural,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1503,Masculine,Masculine,3,2,0,1,a,m,No Plural,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1504,Masculine,Masculine,1,2,0,0,a,u,Internal,Zero,Native,Underived,5-DIM,N,N,Dwellings & Furniture,
+1505,Feminine,Feminine,4,2,1,1,t,t,No Plural,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1506,Masculine,Masculine,4,2,1,1,m,s,id Plural,Zero,Native,Agentives,,Y,Y,Body Parts & Functions,NonSpec
+1507,Masculine,Masculine,4,0,1,1,z,d,No Plural,Zero,Unknown,Action Nouns,,N,N,Emotion,
+1508,Masculine,Masculine,2,2,0,1,a,l,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1509,Masculine,Masculine,1,2,0,0,i,i,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1510,Masculine,Neutral,2,2,0,1,a,s,External,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1511,Masculine,Masculine,3,2,0,1,a,s,No Plural,Zero,Native,Action Nouns,,N,N,Time,
+1512,Masculine,Masculine,3,2,0,1,a,d,No Plural,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1513,Feminine,Feminine,2,1,0,1,i,m,Internal,Zero,Native,Underived,,N,N,Food & Drink,
+1514,Masculine,Masculine,2,2,0,0,u,i,Mixed,Zero,Native,Action Nouns,,N,N,Food & Drink,
+1515,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1516,Feminine,Feminine,3,2,0,1,u,g,No Plural,Zero,Native,Action Nouns,,N,N,Food & Drink,
+1517,Feminine,Feminine,2,2,0,1,a,n,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1518,Feminine,Feminine,3,2,0,1,a,s,No Plural,Zero,Native,Action Nouns,,N,N,Emotion,
+1519,Feminine,Feminine,2,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Emotion,
+1520,Masculine,Masculine,3,1,1,0,ʃ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1521,Feminine,Feminine,2,2,0,1,a,g,No Plural,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1522,Feminine,Feminine,3,1,0,1,i,r,Internal,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1523,Masculine,Masculine,3,2,0,1,u,j,External,Zero,Native,Underived,5-DIM,N,N,Clothing & Adornment,
+1524,Masculine,Neutral,2,1,0,1,i,f,Mixed,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1525,Masculine,Neutral,3,3,0,1,a,n,No Plural,Zero,Arabic-Assimilated,Action Nouns,,N,N,Emotion,
+1526,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1527,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Mind & Thought,
+1528,Masculine,Masculine,5,2,1,1,ʃ,t,No Plural,Zero,Native,Underived,,N,N,Social Relations,
+1529,Masculine,Masculine,1,2,0,0,a,a,Mixed,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1530,Feminine,Feminine,1,2,0,0,u,u,No Plural,Zero,Native,Action Nouns,,N,N,Physical World,
+1531,Feminine,Feminine,2,2,0,1,a,r,No Plural,Zero,Native,Action Nouns,,N,N,Physical World,
+1532,Feminine,Feminine,2,1,0,1,i,n,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1533,Feminine,Feminine,2,2,0,1,a,k,No Plural,Zero,Native,Underived,,N,N,Animals,
+1534,Masculine,Masculine,2,2,0,1,a,d,External,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1535,Feminine,Feminine,2,2,0,1,a,k,No Plural,Zero,Native,Underived,,N,N,Physical World,
+1536,Masculine,Masculine,2,1,0,1,i,s,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1537,Feminine,Feminine,2,2,0,1,i,w,No Plural,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1538,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Language & Music,
+1539,Masculine,Masculine,5,2,1,1,w,n,id Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1540,Masculine,Masculine,2,2,0,1,u,ʁ,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1541,Masculine,Masculine,4,2,0,1,a,f,Mixed,Zero,Native,Underived,,N,N,Food & Drink,
+1542,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1543,Masculine,Neutral,4,2,0,1,a,s,id Plural,Zero,Native,Agentives,,Y,Y,Emotion,NonSpec
+1544,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Physical Acts & Materials,
+1545,Feminine,Feminine,4,2,0,1,i,n,No Plural,Zero,Native,Action Nouns,,N,N,Physical World,
+1546,Masculine,Masculine,3,2,0,1,a,l,No Plural,Zero,Native,Action Nouns,,N,N,Spatial Relations,
+1547,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Underived,,N,N,Spatial Relations,
+1548,Masculine,Masculine,4,0,1,1,r,m,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Clothing & Adornment,
+1549,Masculine,Masculine,3,2,0,1,a,d,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1550,Masculine,Masculine,3,1,1,1,l,f,No Plural,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1551,Masculine,Masculine,2,2,0,1,a,l,Mixed,Zero,Native,Underived,,N,N,Physical World,
+1552,Masculine,Masculine,2,1,0,1,i,f,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1553,Masculine,Masculine,2,2,0,1,a,j,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1554,Masculine,Masculine,2,2,0,0,u,u,No Plural,Zero,Native,Underived,,N,N,Sense Perception,
+1555,Masculine,Masculine,3,2,0,1,a,j,No Plural,Zero,Native,Action Nouns,,N,N,Language & Music,
+1556,Masculine,Masculine,4,2,1,1,t,t,No Plural,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1557,Masculine,Masculine,2,2,0,1,a,s,No Plural,Zero,Native,Action Nouns,,N,N,Animals,
+1558,Masculine,Neutral,5,2,1,0,b,a,id Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
+1559,Feminine,Feminine,3,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Sense Perception,
+1560,Feminine,Feminine,1,2,0,0,u,u,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1561,Feminine,Feminine,4,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Social Relations,
+1562,Masculine,Masculine,5,1,1,1,t,t,No Plural,Zero,Native,Action Nouns,,N,N,Animals,
+1563,Masculine,Masculine,3,2,0,1,a,j,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1564,Feminine,Feminine,4,0,1,1,l,m,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1565,Masculine,Masculine,4,0,1,1,ʃ,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1566,Feminine,Feminine,4,3,0,1,a,j,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1567,Masculine,Masculine,3,3,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1568,Masculine,Masculine,4,3,1,0,w,a,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1569,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Action Nouns,,N,N,Emotion,
+1570,Feminine,Feminine,4,1,1,1,d,r,No Plural,Zero,Native,Action Nouns,,N,N,Emotion,
+1571,Feminine,Feminine,4,2,0,1,i,n,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1572,Masculine,Masculine,2,2,0,0,u,i,Mixed,Zero,Native,Underived,5-DIM,N,N,Agriculture & Vegetation,
+1573,Masculine,Neutral,3,2,0,1,a,l,External,Zero,Native,Underived,,Y,Y,Mankind,NonSpec
+1574,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Action Nouns,,N,N,Food & Drink,
+1575,Masculine,Masculine,4,1,1,1,t,t,No Plural,Zero,Native,Action Nouns,,N,N,Body Parts & Functions,
+1576,Masculine,Masculine,2,1,0,1,u,m,Mixed,Zero,Native,Underived,5-DIM,N,N,Body Parts & Functions,
+1577,Masculine,Neutral,4,2,0,1,a,r,External,Zero,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+1578,Feminine,Feminine,4,2,0,0,u,a,No Plural,Zero,Native,Action Nouns,,N,N,Motion & Transportation,
+1579,Masculine,Masculine,3,2,0,1,a,l,External,Zero,Native,Agentives,,N,Y,Animals,NonSpec
+1580,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Physical World,
+1581,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1582,Feminine,Feminine,3,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1583,Feminine,Feminine,2,2,0,0,u,i,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1584,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1585,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1586,Masculine,Masculine,3,2,0,1,a,n,External,Zero,Native,Underived,5-UNIT,N,N,Food & Drink,
+1587,Feminine,Feminine,1,1,0,1,u,r,External,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1588,Masculine,Masculine,2,2,0,1,i,l,Mixed,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1589,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Law & Judgement,
+1590,Masculine,Masculine,4,3,1,0,b,i,id Plural,Zero,French,Underived,,N,N,Law & Judgement,
+1591,Masculine,Masculine,3,1,1,0,b,a,No Plural,Zero,Unknown,Underived,,N,N,Physical World,
+1592,Feminine,Feminine,3,3,1,0,d,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1593,Masculine,Masculine,4,1,1,1,d,n,No Plural,Zero,Arabic-Unassimilated,Underived,,Y,Y,Possession & Trade,NonSpec
+1594,Masculine,Masculine,4,0,1,1,d,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Body Parts & Functions,
+1595,Masculine,Neutral,3,2,0,1,a,f,Mixed,Zero,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+1596,Masculine,Masculine,3,1,1,1,d,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Motion & Transportation,
+1597,Feminine,Feminine,4,1,1,1,d,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1598,Masculine,Masculine,3,2,1,0,g,u,Internal,Zero,Unknown,Underived,,N,N,Food & Drink,
+1599,Feminine,Feminine,3,2,1,0,ħ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1600,Feminine,Feminine,3,2,1,1,l,f,No Plural,Zero,French,Underived,,N,N,Warfare & Hunting,
+1601,Masculine,Masculine,3,1,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1602,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Unknown,Underived,,N,N,Animals,
+1603,Masculine,Masculine,2,1,1,1,l,z,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1604,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1605,Masculine,Masculine,4,1,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1606,Feminine,Feminine,4,3,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1607,Feminine,Feminine,4,3,1,0,l,a,No Plural,Zero,Unknown,Underived,,N,N,Food & Drink,
+1608,Feminine,Feminine,4,1,1,1,l,s,Internal,Zero,French,Underived,,N,N,Physical World,
+1609,Masculine,Neutral,4,1,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,Y,Y,Sense Perception,NonSpec
+1610,Masculine,Masculine,5,1,1,1,l,m,External,Zero,Unknown,Underived,5-DIM,N,N,Clothing & Adornment,
+1611,Masculine,Masculine,4,0,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1612,Masculine,Masculine,4,0,1,1,l,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1613,Masculine,Masculine,5,0,1,1,l,t,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1614,Masculine,Masculine,5,1,1,1,l,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1615,Masculine,Masculine,4,0,1,1,l,b,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1616,Masculine,Masculine,3,2,1,1,l,r,Internal,Zero,Unknown,Underived,,N,N,Clothing & Adornment,
+1617,Masculine,Masculine,6,2,1,1,l,t,Mixed,Zero,French,Underived,5-DIM,N,N,Food & Drink,
+1618,Masculine,Masculine,4,1,1,1,l,d,Mixed,Zero,Native,Underived,5-DIM,N,N,Law & Judgement,
+1619,Feminine,Feminine,5,2,1,0,l,a,Internal,Zero,French,Underived,,N,N,Physical Acts & Materials,
+1620,Feminine,Feminine,4,2,1,0,l,a,Internal,Zero,French,Underived,,N,N,Emotion,
+1621,Masculine,Masculine,3,1,1,1,l,h,No Plural,Zero,Arabic-Unassimilated,Underived,,N,Y,Religion & Beliefs,Male
+1622,Masculine,Masculine,4,1,1,1,l,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1623,Feminine,Feminine,4,2,1,0,l,a,Internal,Zero,French,Underived,,N,N,Possession & Trade,
+1624,Masculine,Masculine,4,2,1,0,l,i,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Dwellings & Furniture,
+1625,Masculine,Neutral,5,1,1,1,l,ħ,Mixed,Zero,Arabic-Assimilated,Underived,,Y,Y,Social Relations,NonSpec
+1626,Feminine,Feminine,5,2,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Clothing & Adornment,
+1627,Feminine,Feminine,4,3,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1628,Masculine,Masculine,5,1,1,1,l,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1629,Feminine,Feminine,4,3,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1630,Feminine,Feminine,4,1,1,1,l,r,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1631,Masculine,Masculine,3,1,1,1,l,r,Mixed,Zero,Arabic-Unassimilated,Underived,,N,N,Physical World,
+1632,Masculine,Neutral,4,3,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1633,Feminine,Feminine,4,2,1,1,l,j,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1634,Feminine,Feminine,4,3,1,0,l,a,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1635,Feminine,Feminine,4,0,1,1,l,r,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Agriculture & Vegetation,
+1636,Masculine,Masculine,5,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Time,
+1637,Masculine,Masculine,5,1,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1638,Masculine,Masculine,4,0,1,1,l,g,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Body Parts & Functions,
+1639,Masculine,Masculine,4,1,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1640,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Unknown,Underived,,N,N,Body Parts & Functions,
+1641,Feminine,Feminine,4,1,1,1,l,j,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Law & Judgement,
+1642,Masculine,Masculine,4,2,1,1,n,t,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1643,Masculine,Masculine,4,0,1,1,n,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1644,Masculine,Masculine,3,1,1,1,n,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Physical World,
+1645,Masculine,Masculine,3,0,1,1,n,s,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Quantity & Number,
+1646,Masculine,Masculine,3,1,1,1,ʁ,s,No Plural,Zero,Native,Underived,,N,N,Time,
+1647,Masculine,Masculine,3,1,1,0,r,i,No Plural,Zero,Arabic-Unassimilated,Underived,,N,Y,Religion & Beliefs,Male
+1648,Feminine,Feminine,3,1,1,1,r,ħ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Body Parts & Functions,
+1649,Masculine,Masculine,3,2,1,0,r,i,id Plural,Zero,Native,Underived,,Y,Y,Mankind,Male
+1650,Feminine,Feminine,4,2,1,0,r,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1651,Masculine,Masculine,4,1,1,1,r,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Agriculture & Vegetation,
+1652,Masculine,Masculine,3,1,1,0,r,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1653,Masculine,Masculine,3,1,1,1,r,j,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1654,Masculine,Masculine,4,2,1,1,r,ʕ,id Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1655,Masculine,Neutral,4,1,1,1,r,s,No Plural,Zero,Arabic-Unassimilated,Underived,5-UNIT,N,N,Physical Acts & Materials,
+1656,Masculine,Masculine,3,1,1,1,r,ħ,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1657,Masculine,Masculine,4,0,1,1,r,q,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1658,Masculine,Masculine,4,1,1,1,s,b,No Plural,Zero,Arabic-Unassimilated,Underived,,Y,Y,Possession & Trade,Male
+1659,Masculine,Masculine,3,1,1,1,s,ħ,id Plural,Zero,Arabic-Assimilated,Underived,5-UNIT,N,N,Time,
+1660,Masculine,Masculine,3,2,1,0,s,i,id Plural,Zero,French,Underived,,N,N,Quantity & Number,
+1661,Masculine,Neutral,3,2,1,0,s,i,id Plural,Zero,Arabic-Assimilated,Underived,,Y,Y,Mankind,NonSpec
+1662,Feminine,Feminine,4,3,1,0,s,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1663,Feminine,Feminine,4,1,1,1,s,t,Internal,Zero,Unknown,Underived,,N,N,Food & Drink,
+1664,Masculine,Masculine,4,0,1,1,s,d,No Plural,Zero,Unknown,Underived,,N,N,Sense Perception,
+1665,Masculine,Masculine,6,1,1,1,s,r,External,Zero,Arabic-Assimilated,Underived,5-UNIT,N,N,Food & Drink,
+1666,Feminine,Feminine,4,1,1,1,s,ʕ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1667,Masculine,Masculine,4,1,1,1,ʃ,ʕ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Law & Judgement,
+1668,Masculine,Masculine,4,0,1,1,ʃ,d,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1669,Masculine,Masculine,4,0,1,1,s,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1670,Masculine,Masculine,3,1,1,1,s,q,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1671,Feminine,Feminine,4,2,0,1,a,n,No Plural,Zero,Native,Underived,,N,N,Time,
+1672,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1673,Feminine,Feminine,5,2,1,0,t,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1674,Masculine,Masculine,4,1,1,1,t,b,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Religion & Beliefs,Male
+1675,Feminine,Feminine,3,1,1,0,t,a,Internal,Zero,French,Underived,,N,N,Dwellings & Furniture,
+1676,Feminine,Feminine,3,3,1,0,t,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Motion & Transportation,
+1677,Masculine,Masculine,3,1,1,1,t,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,Y,Animals,NonSpec
+1678,Masculine,Masculine,4,0,1,1,t,s,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1679,Masculine,Masculine,4,0,1,1,t,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1680,Feminine,Feminine,5,1,1,1,t,j,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1681,Masculine,Masculine,3,1,1,1,t,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1682,Masculine,Masculine,3,1,1,1,t,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1683,Masculine,Masculine,4,0,1,1,z,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1684,Masculine,Masculine,2,2,0,1,a,s,External,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1685,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Physical World,
+1686,Masculine,Neutral,2,1,1,0,g,a,Internal,Zero,Native,Underived,,Y,Y,Mankind,NonSpec
+1687,Masculine,Masculine,2,2,0,1,a,d,No Plural,Zero,Native,Underived,,N,N,Agriculture & Vegetation,
+1688,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Action Nouns,,N,N,Physical World,
+1689,Masculine,Masculine,2,2,1,0,b,a,id Plural,Zero,Native,Underived,,Y,Y,Mankind,Male
+1690,Masculine,Masculine,2,1,1,0,b,a,id Plural,Zero,Native,Underived,,Y,Y,Mankind,Male
+1691,Masculine,Masculine,4,1,1,0,l,i,No Plural,Zero,Arabic-Assimilated,Underived,,N,Y,Animals,NonSpec
+1692,Masculine,Masculine,4,1,1,1,b,m,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Mankind,NonSpec
+1693,Masculine,Neutral,5,2,1,1,b,m,id Plural,Zero,Arabic-Assimilated,Underived,,Y,Y,Emotion,NonSpec
+1694,Masculine,Masculine,4,2,1,1,d,k,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1695,Masculine,Masculine,4,0,1,1,d,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1696,Masculine,Masculine,4,2,1,0,d,u,Internal,Zero,French,Underived,,N,N,Physical Acts & Materials,
+1697,Masculine,Masculine,4,1,1,1,d,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1698,Masculine,Masculine,3,0,1,1,d,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1699,Masculine,Masculine,4,0,1,1,d,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1700,Masculine,Masculine,3,1,1,0,d,i,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Mankind,NonSpec
+1701,Masculine,Masculine,4,0,1,1,d,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1702,Feminine,Feminine,3,2,1,0,d,i,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Time,
+1703,Masculine,Masculine,4,2,1,1,d,n,No Plural,Zero,Unknown,Underived,,N,N,Physical Acts & Materials,
+1704,Masculine,Masculine,3,1,1,0,d,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Body Parts & Functions,
+1705,Masculine,Masculine,4,1,1,1,f,k,Internal,Zero,French,Underived,,N,N,Possession & Trade,
+1706,Masculine,Masculine,3,1,1,0,ħ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,Y,Y,Emotion,NonSpec
+1707,Masculine,Neutral,1,2,0,0,i,i,Internal,Zero,Native,Underived,,Y,Y,Mankind,Female
+1708,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Underived,,Y,Y,Mankind,Female
+1709,Feminine,Feminine,2,2,0,0,i,a,No Plural,Zero,Native,Underived,,Y,Y,Mankind,Female
+1710,Masculine,Masculine,2,2,1,0,k,u,id Plural,Zero,French,Underived,,N,N,Quantity & Number,
+1711,Masculine,Masculine,4,2,1,1,l,n,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Physical World,
+1712,Masculine,Masculine,3,2,1,1,l,b,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1713,Masculine,Masculine,4,1,1,1,l,m,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Law & Judgement,
+1714,Masculine,Masculine,3,2,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1715,Masculine,Masculine,3,2,1,1,l,n,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Possession & Trade,Male
+1716,Feminine,Feminine,5,2,1,1,l,t,Internal,Zero,French,Underived,,N,N,Time,
+1717,Masculine,Masculine,3,1,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1718,Feminine,Feminine,3,2,1,0,l,i,Internal,Zero,French,Underived,,N,N,Physical Acts & Materials,
+1719,Masculine,Masculine,4,2,1,1,l,r,No Plural,Zero,Unknown,Underived,,N,N,Food & Drink,
+1720,Masculine,Masculine,3,2,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Social Relations,NonSpec
+1721,Feminine,Feminine,4,1,1,1,l,n,Internal,Zero,Unknown,Underived,,N,N,Body Parts & Functions,
+1722,Feminine,Feminine,4,1,1,1,l,m,Internal,Zero,Arabic-Assimilated,Underived,,N,Y,Animals,NonSpec
+1723,Masculine,Masculine,4,0,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Physical World,
+1724,Masculine,Masculine,3,2,1,0,l,u,Internal,Zero,French,Underived,,N,N,Social Relations,
+1725,Feminine,Feminine,3,1,1,1,l,t,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Dwellings & Furniture,
+1726,Masculine,Masculine,3,1,1,1,l,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1727,Masculine,Masculine,4,2,1,1,l,s,No Plural,Zero,French,Underived,,N,N,Warfare & Hunting,
+1728,Feminine,Feminine,4,2,1,0,l,a,Internal,Zero,French,Underived,,N,N,Body Parts & Functions,
+1729,Masculine,Masculine,3,1,1,1,l,l,No Plural,Zero,Unknown,Underived,,N,N,Religion & Beliefs,
+1730,Feminine,Feminine,4,2,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1731,Masculine,Masculine,4,1,1,1,l,s,No Plural,Zero,Native,Underived,,N,N,Possession & Trade,
+1732,Masculine,Masculine,5,1,1,1,l,h,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Religion & Beliefs,Male
+1733,Masculine,Masculine,4,0,1,1,l,ħ,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1734,Feminine,Feminine,4,2,1,0,l,a,No Plural,Zero,Unknown,Underived,,N,N,Time,
+1735,Masculine,Masculine,5,1,1,0,l,i,Internal,Zero,Native,Underived,,N,N,Language & Music,
+1736,Masculine,Neutral,3,1,1,1,l,l,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1737,Masculine,Masculine,4,2,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1738,Feminine,Feminine,4,3,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1739,Masculine,Masculine,4,1,1,1,l,q,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Law & Judgement,
+1740,Masculine,Masculine,4,1,1,1,l,l,No Plural,Zero,Native,Underived,,N,N,Mind & Thought,
+1741,Masculine,Masculine,4,0,1,1,l,s,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Law & Judgement,
+1742,Feminine,Feminine,4,1,1,1,l,j,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Social Relations,
+1743,Feminine,Feminine,3,1,1,1,l,l,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1744,Feminine,Feminine,3,1,1,1,l,ʃ,Internal,Zero,Native,Underived,,N,Y,Religion & Beliefs,NonSpec
+1745,Masculine,Masculine,3,1,1,1,l,ʒ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Religion & Beliefs,
+1746,Masculine,Masculine,3,1,1,0,l,a,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1747,Feminine,Feminine,4,1,1,0,l,a,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1748,Feminine,Feminine,4,1,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1749,Masculine,Neutral,5,1,1,1,l,f,Mixed,Zero,Arabic-Assimilated,Underived,,N,Y,Animals,NonSpec
+1750,Masculine,Masculine,4,0,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1751,Masculine,Masculine,3,1,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1752,Feminine,Feminine,4,1,1,1,l,n,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1753,Feminine,Feminine,4,2,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1754,Masculine,Masculine,4,0,1,1,l,f,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1755,Masculine,Masculine,3,1,1,0,l,i,Internal,Zero,Native,Underived,,N,N,Possession & Trade,
+1756,Masculine,Masculine,5,0,1,1,l,t,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Motion & Transportation,
+1757,Feminine,Feminine,3,1,1,1,l,ʒ,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Clothing & Adornment,
+1758,Feminine,Feminine,4,2,1,1,l,m,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Food & Drink,
+1759,Feminine,Feminine,3,2,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1760,Masculine,Masculine,4,1,1,1,l,t,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Religion & Beliefs,
+1761,Masculine,Masculine,4,2,1,1,l,m,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Emotion,Male
+1762,Feminine,Feminine,6,2,1,0,l,a,Internal,Zero,French,Underived,,N,N,Physical Acts & Materials,
+1763,Feminine,Feminine,4,1,1,1,l,f,No Plural,Zero,Native,Underived,,N,N,Emotion,
+1764,Feminine,Feminine,4,1,1,1,l,t,id Plural,Zero,Arabic-Assimilated,Underived,,N,N,Clothing & Adornment,
+1765,Masculine,Masculine,5,1,1,1,l,n,Internal,Zero,Unknown,Underived,,N,N,Clothing & Adornment,
+1766,Masculine,Masculine,3,1,1,1,l,r,No Plural,Zero,Unknown,Underived,,N,N,Agriculture & Vegetation,
+1767,Masculine,Masculine,5,0,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Dwellings & Furniture,
+1768,Feminine,Feminine,4,1,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1769,Masculine,Masculine,4,1,1,1,l,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Clothing & Adornment,
+1770,Masculine,Masculine,4,1,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1771,Masculine,Masculine,4,2,1,1,l,l,Internal,Zero,Arabic-Assimilated,Underived,5-DIM,N,N,Physical World,
+1772,Masculine,Masculine,3,1,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1773,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Arabic-Unassimilated,Underived,,N,Y,Religion & Beliefs,NonSpec
+1774,Masculine,Masculine,4,2,1,1,l,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1775,Feminine,Feminine,4,3,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1776,Masculine,Masculine,4,2,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1777,Feminine,Feminine,4,1,1,1,l,n,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Social Relations,
+1778,Feminine,Feminine,5,1,1,0,l,a,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Law & Judgement,
+1779,Feminine,Feminine,4,4,1,0,l,a,No Plural,Zero,French,Underived,,N,N,Social Relations,
+1780,Feminine,Feminine,0,0,0,0,,,Only Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1781,Masculine,Masculine,4,1,1,1,l,ħ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1782,Masculine,Masculine,5,1,1,1,l,ħ,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1783,Masculine,Masculine,4,1,1,1,m,n,Internal,Zero,French,Underived,,N,N,Quantity & Number,
+1784,Masculine,Masculine,6,0,1,1,l,m,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Social Relations,Male
+1785,Masculine,Masculine,7,0,1,1,l,ʕ,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Social Relations,NonSpec
+1786,Masculine,Masculine,5,1,1,1,l,ʃ,External,Zero,Unknown,Underived,5-UNIT,N,N,Food & Drink,
+1787,Feminine,Feminine,5,4,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1788,Masculine,Masculine,5,1,1,1,l,n,Mixed,Zero,Arabic-Unassimilated,Underived,,Y,Y,Religion & Beliefs,Male
+1789,Masculine,Masculine,4,1,1,1,l,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1790,Masculine,Masculine,5,1,1,1,l,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1791,Feminine,Feminine,5,4,1,0,l,a,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Social Relations,
+1792,Masculine,Masculine,6,0,1,1,l,l,Mixed,Zero,Native,Underived,,Y,Y,Social Relations,NonSpec
+1793,Masculine,Masculine,6,1,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1794,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Arabic-Unassimilated,Underived,,Y,Y,Warfare & Hunting,Male
+1795,Masculine,Masculine,5,0,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1796,Masculine,Masculine,4,2,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Law & Judgement,
+1797,Feminine,Feminine,4,3,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1798,Masculine,Masculine,4,0,1,1,l,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1799,Feminine,Feminine,4,0,1,1,l,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Dwellings & Furniture,
+1800,Masculine,Masculine,4,0,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Dwellings & Furniture,
+1801,Feminine,Feminine,3,2,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Physical World,
+1802,Masculine,Masculine,4,2,1,1,l,b,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1803,Masculine,Masculine,4,2,1,1,l,l,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Agriculture & Vegetation,
+1804,Feminine,Feminine,4,0,1,1,l,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Social Relations,
+1805,Masculine,Masculine,4,2,1,1,t,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1806,Masculine,Masculine,3,2,1,1,l,d,External,Zero,Arabic-Assimilated,Underived,5-DIM,N,N,Physical Acts & Materials,
+1807,Feminine,Feminine,2,1,1,1,l,q,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1808,Feminine,Feminine,3,2,1,1,l,q,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1809,Masculine,Masculine,3,2,1,1,l,n,Internal,Zero,French,Underived,,N,N,Possession & Trade,
+1810,Masculine,Masculine,3,2,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Social Relations,NonSpec
+1811,Masculine,Neutral,4,3,1,0,l,a,Mixed,Zero,Arabic-Unassimilated,Underived,,Y,Y,Mankind,NonSpec
+1812,Masculine,Masculine,3,1,1,1,l,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Animals,
+1813,Masculine,Masculine,4,1,1,1,l,d,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1814,Feminine,Feminine,4,1,1,1,l,t,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1815,Feminine,Feminine,4,1,1,1,l,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1816,Feminine,Feminine,3,0,1,1,l,n,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Religion & Beliefs,
+1817,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Arabic-Unassimilated,Underived,,Y,Y,Emotion,NonSpec
+1818,Masculine,Masculine,4,2,1,1,l,d,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1819,Masculine,Masculine,4,1,1,1,l,d,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1820,Masculine,Masculine,4,1,1,1,l,l,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Body Parts & Functions,
+1821,Masculine,Masculine,3,1,1,1,l,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1822,Masculine,Masculine,4,2,1,1,l,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Sense Perception,
+1823,Masculine,Masculine,4,1,1,1,l,l,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Social Relations,Male
+1824,Masculine,Masculine,5,1,1,1,l,t,Internal,Zero,Arabic-Unassimilated,Underived,,N,Y,Religion & Beliefs,NonSpec
+1825,Masculine,Masculine,3,1,1,1,l,b,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1826,Feminine,Feminine,4,3,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1827,Masculine,Masculine,3,1,1,1,l,d,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1828,Masculine,Masculine,4,0,1,1,l,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1829,Masculine,Masculine,5,2,1,1,l,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1830,Masculine,Masculine,4,1,1,1,l,n,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Food & Drink,
+1831,Masculine,Masculine,4,1,1,1,l,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Mind & Thought,
+1832,Masculine,Masculine,3,1,1,1,l,r,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Religion & Beliefs,
+1833,Masculine,Masculine,3,1,1,0,l,a,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Physical World,
+1834,Masculine,Masculine,4,0,1,1,l,q,Internal,Zero,Arabic-Unassimilated,Underived,,N,Y,Mankind,NonSpec
+1835,Feminine,Feminine,5,0,1,1,l,t,Internal,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1836,Masculine,Masculine,3,1,1,1,l,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1837,Masculine,Masculine,4,2,1,1,l,s,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1838,Masculine,Masculine,4,1,1,1,l,s,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1839,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,Y,Y,Social Relations,NonSpec
+1840,Feminine,Feminine,4,2,1,0,l,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1841,Masculine,Masculine,3,1,1,0,n,i,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Religion & Beliefs,Male
+1842,Feminine,Feminine,3,1,1,1,n,j,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Religion & Beliefs,
+1843,Masculine,Masculine,4,2,1,1,n,ħ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Mankind,
+1844,Masculine,Masculine,4,2,1,1,n,n,No Plural,Zero,Unknown,Underived,,N,N,Motion & Transportation,
+1845,Feminine,Feminine,4,1,1,0,n,a,Internal,Zero,French,Underived,,N,N,Quantity & Number,
+1846,Feminine,Feminine,5,0,1,1,n,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Physical Acts & Materials,
+1847,Masculine,Masculine,4,0,1,1,n,t,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Language & Music,
+1848,Feminine,Feminine,5,0,1,1,n,t,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Emotion,
+1849,Masculine,Masculine,4,2,1,1,ʁ,d,No Plural,Zero,Native,Underived,,N,N,Time,
+1850,Masculine,Masculine,4,1,1,1,r,d,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Dwellings & Furniture,
+1851,Feminine,Feminine,4,2,1,0,r,a,Internal,Zero,Arabic-Assimilated,Action Nouns,,N,N,Emotion,
+1852,Masculine,Masculine,3,1,1,0,r,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1853,Feminine,Feminine,4,1,1,1,s,ʁ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Physical Acts & Materials,
+1854,Masculine,Masculine,2,2,1,0,s,i,id Plural,Zero,Arabic-Unassimilated,Underived,,Y,Y,Social Relations,Male
+1855,Masculine,Masculine,3,1,1,0,s,u,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1856,Masculine,Masculine,4,2,1,1,s,d,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Religion & Beliefs,NonSpec
+1857,Masculine,Masculine,4,3,1,0,ʃ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1858,Masculine,Masculine,4,1,1,1,s,b,No Plural,Zero,Unknown,Underived,,N,N,Physical Acts & Materials,
+1859,Masculine,Masculine,4,1,1,0,s,i,Internal,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1860,Masculine,Masculine,4,0,1,1,ʃ,r,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1861,Masculine,Masculine,4,2,1,1,s,b,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Mind & Thought,
+1862,Masculine,Masculine,3,1,1,1,s,f,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1863,Masculine,Masculine,5,2,1,0,s,a,No Plural,Zero,Spanish,Underived,,N,N,Mind & Thought,
+1864,Masculine,Masculine,4,1,1,1,s,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Social Relations,
+1865,Feminine,Feminine,4,1,1,1,s,ʕ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1866,Masculine,Masculine,5,1,1,1,s,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Quantity & Number,
+1867,Masculine,Masculine,5,1,1,1,s,t,No Plural,Zero,Unknown,Underived,,N,N,Religion & Beliefs,
+1868,Masculine,Masculine,4,0,1,1,s,m,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Body Parts & Functions,
+1869,Masculine,Masculine,4,0,1,1,ʃ,f,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1870,Masculine,Masculine,3,1,1,0,ʃ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Physical Acts & Materials,
+1871,Masculine,Masculine,3,1,1,0,ʃ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1872,Masculine,Masculine,4,1,1,1,ʃ,b,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1873,Masculine,Masculine,5,1,1,1,s,s,No Plural,Zero,French,Underived,,N,N,Possession & Trade,
+1874,Feminine,Feminine,3,1,1,0,ʃ,i,No Plural,Zero,Native,Underived,,N,N,Physical Acts & Materials,
+1875,Masculine,Masculine,5,1,1,1,s,l,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Clothing & Adornment,
+1876,Feminine,Feminine,4,2,1,0,ʃ,i,Internal,Zero,French,Underived,,N,N,Motion & Transportation,
+1877,Masculine,Masculine,4,2,1,0,ʃ,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Warfare & Hunting,
+1878,Feminine,Feminine,2,2,0,0,a,a,No Plural,Zero,Native,Action Nouns,,N,N,Social Relations,
+1879,Feminine,Feminine,1,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Dwellings & Furniture,
+1880,Masculine,Masculine,3,2,0,1,a,z,External,Zero,Arabic-Assimilated,Underived,5-UNIT,N,N,Food & Drink,
+1881,Feminine,Feminine,2,2,0,1,a,g,External,Zero,Native,Underived,,N,N,Animals,
+1882,Feminine,Feminine,2,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1883,Feminine,Feminine,2,2,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Social Relations,
+1884,Feminine,Feminine,2,2,0,0,i,i,No Plural,Zero,Native,Underived,,N,N,Body Parts & Functions,
+1885,Feminine,Feminine,3,3,0,0,a,a,No Plural,Zero,Native,Underived,,N,N,Social Relations,
+1886,Feminine,Feminine,3,2,1,1,j,l,No Plural,Zero,Unknown,Underived,,N,N,Mind & Thought,
+1887,Masculine,Masculine,5,1,1,1,t,b,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Possession & Trade,
+1888,Feminine,Feminine,3,1,1,0,t,i,Internal,Zero,Arabic-Assimilated,Underived,,N,N,Language & Music,
+1889,Feminine,Feminine,5,2,1,0,t,a,No Plural,Zero,Native,Underived,,N,N,Warfare & Hunting,
+1890,Feminine,Feminine,5,2,1,1,t,r,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Possession & Trade,
+1891,Feminine,Feminine,3,2,1,0,t,i,Internal,Zero,French,Underived,,N,N,Motion & Transportation,
+1892,Feminine,Feminine,7,3,1,1,t,q,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1893,Masculine,Masculine,4,2,1,1,t,χ,Internal,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1894,Masculine,Masculine,4,2,1,1,t,ʕ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Physical World,
+1895,Masculine,Masculine,4,1,1,1,t,r,Internal,Zero,Arabic-Unassimilated,Underived,,Y,Y,Possession & Trade,NonSpec
+1896,Feminine,Feminine,4,2,1,0,t,a,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1897,Feminine,Feminine,3,2,0,1,u,m,No Plural,Zero,Native,Underived,,N,N,Spatial Relations,
+1898,Masculine,Masculine,0,0,0,0,,,Only Plural,Zero,Native,Underived,,N,N,Physical World,
+1899,Masculine,Masculine,2,2,0,1,a,j,No Plural,Zero,Native,Underived,,N,N,Food & Drink,
+1900,Masculine,Masculine,3,1,1,1,z,f,Internal,Zero,Native,Underived,,N,N,Clothing & Adornment,
+1901,Masculine,Masculine,3,1,1,1,z,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Emotion,
+1902,Feminine,Feminine,3,1,1,1,z,t,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Food & Drink,
+1903,Masculine,Masculine,4,1,1,1,z,n,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1904,Feminine,Feminine,4,1,1,0,z,a,Internal,Zero,Native,Underived,,N,N,Language & Music,
+1905,Feminine,Feminine,5,1,1,1,z,ʕ,No Plural,Zero,Arabic-Assimilated,Underived,,N,N,Agriculture & Vegetation,
+1906,Masculine,Masculine,3,1,1,1,ʒ,ʕ,No Plural,Zero,Arabic-Unassimilated,Underived,,N,N,Sense Perception,
+1907,Masculine,Masculine,3,1,1,1,l,m,Mixed,Zero,Arabic-Unassimilated,Underived,,N,N,Time,
+1908,Masculine,Neutral,3,1,1,0,ʕ,i,id Plural,Zero,Native,Underived,,Y,Y,Mankind,NonSpec
+1909,Masculine,Neutral,2,2,1,0,χ,i,id Plural,Zero,Native,Underived,,Y,Y,Mankind,NonSpec
+1910,Masculine,Masculine,4,2,1,0,b,i,id Plural,Zero,Native,Underived,,N,Y,Physical World,NonSpec
+1911,Masculine,Masculine,4,2,1,1,b,k,id Plural,Zero,Native,Underived,,N,Y,Physical World,NonSpec
+1912,Masculine,Masculine,5,3,1,1,ʕ,n,id Plural,Zero,Native,Underived,,N,Y,Physical World,NonSpec
+1913,Feminine,Feminine,0,0,0,0,,,No Plural,Zero,Native,Underived,,N,Y,Animals,NonSpec
