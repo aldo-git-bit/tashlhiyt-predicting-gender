@@ -5,7 +5,7 @@ models = ['rfc', 'abc', 'gbd', 'svc', 'evc']
 for model in models:
     rel_importances = pd.read_csv('Results/rel_importance_nonhp.csv', index_col=0)
     model_spec = rel_importances[rel_importances['Model']==model]
-    features_ = ['phonology', 'morphology', 'semantic']
+    features_ = ['morphology', 'phonology', 'semantic']
     features1_ = ['phon+morph', 'phon+sem', 'morph+sem']
     sub_selection = model_spec[model_spec['Features'].isin(features_)]
     sub_selection = pd.pivot_table(sub_selection, values='ROC-AUC decrease',
@@ -16,7 +16,7 @@ for model in models:
     sub_selection2 = model_spec[model_spec['Features']=='all']
     sub_selection2 = pd.pivot_table(sub_selection2, values='ROC-AUC decrease',
                                     index='Features', columns='Feature', sort=False)
-    fig = plt.figure(figsize=(12, 6))
+    fig = plt.figure(figsize=(14, 6))
     ax = fig.add_subplot(2, 2, 1)
     ax2 = fig.add_subplot(1, 2, 2)
     ax1 = fig.add_subplot(2, 2, 3)

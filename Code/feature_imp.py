@@ -33,7 +33,7 @@ target = data_['Gender2']
 phonology = [2, 3, 4, 5, 6, 7]
 morphology = [8, 9, 10, 11, 12]
 semantic = [13, 14, 15]
-features_list = [(phonology, 'phonology'), (morphology, 'morphology'), (semantic, 'semantic'),
+features_list = [(morphology, 'morphology'), (phonology, 'phonology'), (semantic, 'semantic'),
                  (phonology+morphology, 'phon+morph'), (phonology+semantic, 'phon+sem'),
                  (morphology+semantic, 'morph+sem'), (phonology+semantic+morphology, 'all')]
 features = np.array(data_[data_.columns[features_list[0][0]]])
