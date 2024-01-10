@@ -28,7 +28,7 @@ Plotting correlation between columns of the features. The image is saved under
 plots folder as correlation.png. The Pearson correlation coefficient is calculated.
 """
 
-plt.rcParams['figure.figsize'] = (12, 10)
+plt.rcParams['figure.figsize'] = (16, 14)
 corr_mat = data.corr()
 sns.heatmap(corr_mat, cmap='Set1')
 plt.title("Pearson Correlation between Pairs of Features")
@@ -38,5 +38,7 @@ plt.savefig('Plots/correlation.png')
 From the Correlation plot, it is evident that human and animate are highly correlated
 with sexgen. So we remove sexgen column from the data
 """
-data.drop(columns=['sexgen'], inplace=True)
+
+
+data.drop(columns=['s_SexGender'], inplace=True)
 data.to_csv('Data/final_data.csv')

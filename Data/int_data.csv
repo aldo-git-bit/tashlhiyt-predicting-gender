@@ -1,4 +1,4 @@
-,Gender2,Gender3,CountC,CountV,Start,End,start_letter,end_letter,plu_pattern,aug_vowel,source,derived_cat,semantic_cat,human,animate,semantic,sexgen
+,Gender2,Gender3,p_lengthC,p_lengthV,p_startCorV,p_endCorV,p_startPhoneme,p_endPhoneme,m_pluralPattern,m_rAugVowel,m_loanwordSource,m_derivaionalCat,m_secondaryMorph,s_humanYN,s_animateYN,s_semanticField,s_SexGender
 0,Feminine,Feminine,4,1,1,1,g,r,Internal,A,Native,Underived,,N,N,Physical Acts & Materials,
 1,Feminine,Feminine,4,1,1,1,χ,r,External,A,Native,Underived,,N,N,Body Parts & Functions,
 2,Masculine,Masculine,5,2,1,1,s,j,External,A,Native,Instrumental Nouns,5-DIM,N,N,Emotion,

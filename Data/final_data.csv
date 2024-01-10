@@ -1,4 +1,4 @@
-,Gender2,Gender3,CountC,CountV,Start,End,start_letter,end_letter,plu_pattern,aug_vowel,source,derived_cat,semantic_cat,human,animate,semantic
+,Gender2,Gender3,p_lengthC,p_lengthV,p_startCorV,p_endCorV,p_startPhoneme,p_endPhoneme,m_pluralPattern,m_rAugVowel,m_loanwordSource,m_derivaionalCat,m_secondaryMorph,s_humanYN,s_animateYN,s_semanticField
 0,0,0,4,1,1,1,4,13,1,0,3,12,5,0,0,12
 1,0,0,4,1,1,1,24,13,0,0,3,12,5,0,0,2
 2,1,1,5,2,1,1,14,7,0,0,3,5,1,0,0,5
