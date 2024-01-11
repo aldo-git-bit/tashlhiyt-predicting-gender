@@ -2,7 +2,7 @@
 0,rfc,morphology,m_pluralPattern,0.09930865023506097
 1,rfc,morphology,m_rAugVowel,0.09583478441008164
 2,rfc,morphology,m_loanwordSource,0.027497912453002236
-3,rfc,morphology,m_derivaionalCat,0.04863639661796482
+3,rfc,morphology,m_derivationalCat,0.04863639661796482
 4,rfc,morphology,m_secondaryMorph,0.1387458229122032
 5,rfc,phonology,p_lengthC,0.00889244989763187
 6,rfc,phonology,p_lengthV,0.015923164654757467
@@ -22,7 +22,7 @@
 20,rfc,phon+morph,m_pluralPattern,0.034581172781269445
 21,rfc,phon+morph,m_rAugVowel,0.037635597264891
 22,rfc,phon+morph,m_loanwordSource,0.03040374254841538
-23,rfc,phon+morph,m_derivaionalCat,0.024853045796436213
+23,rfc,phon+morph,m_derivationalCat,0.024853045796436213
 24,rfc,phon+morph,m_secondaryMorph,0.0936103578595045
 25,rfc,phon+sem,p_lengthC,-0.002503543383981921
 26,rfc,phon+sem,p_lengthV,0.00813567237176544
@@ -36,7 +36,7 @@
 34,rfc,morph+sem,m_pluralPattern,0.058530404439823776
 35,rfc,morph+sem,m_rAugVowel,0.05880514710049418
 36,rfc,morph+sem,m_loanwordSource,0.016480177959924135
-37,rfc,morph+sem,m_derivaionalCat,0.03251407513886975
+37,rfc,morph+sem,m_derivationalCat,0.03251407513886975
 38,rfc,morph+sem,m_secondaryMorph,0.1254134710549807
 39,rfc,morph+sem,s_humanYN,0.012914213563300447
 40,rfc,morph+sem,s_animateYN,0.04000709880704182
@@ -53,12 +53,12 @@
 51,rfc,all,m_pluralPattern,0.02024925498586082
 52,rfc,all,m_rAugVowel,0.024579901617487472
 53,rfc,all,m_loanwordSource,0.028745196316467575
-54,rfc,all,m_derivaionalCat,0.015069261907562905
+54,rfc,all,m_derivationalCat,0.015069261907562905
 55,rfc,all,m_secondaryMorph,0.09643937676249925
 56,abc,morphology,m_pluralPattern,0.031725764950567316
 57,abc,morphology,m_rAugVowel,0.062214895290258095
 58,abc,morphology,m_loanwordSource,0.021698703424295383
-59,abc,morphology,m_derivaionalCat,0.03376023180519899
+59,abc,morphology,m_derivationalCat,0.03376023180519899
 60,abc,morphology,m_secondaryMorph,0.18147254048218522
 61,abc,phonology,p_lengthC,-0.002431679063125261
 62,abc,phonology,p_lengthV,0.0003695857375520012
@@ -78,7 +78,7 @@
 76,abc,phon+morph,m_pluralPattern,0.026837730404634354
 77,abc,phon+morph,m_rAugVowel,0.020079466026278688
 78,abc,phon+morph,m_loanwordSource,0.019307688209640204
-79,abc,phon+morph,m_derivaionalCat,0.019126974195143472
+79,abc,phon+morph,m_derivationalCat,0.019126974195143472
 80,abc,phon+morph,m_secondaryMorph,0.190684248718307
 81,abc,phon+sem,p_lengthC,-0.0005189651214594918
 82,abc,phon+sem,p_lengthV,0.00072322873327719
@@ -92,7 +92,7 @@
 90,abc,morph+sem,m_pluralPattern,0.009512520310709604
 91,abc,morph+sem,m_rAugVowel,0.04686963730912905
 92,abc,morph+sem,m_loanwordSource,0.025981692299386405
-93,abc,morph+sem,m_derivaionalCat,0.005416335045513099
+93,abc,morph+sem,m_derivationalCat,0.005416335045513099
 94,abc,morph+sem,m_secondaryMorph,0.1914842591521892
 95,abc,morph+sem,s_humanYN,0.0035404394130941997
 96,abc,morph+sem,s_animateYN,0.05700368535596193
@@ -109,12 +109,12 @@
 107,abc,all,m_pluralPattern,0.016535936349279256
 108,abc,all,m_rAugVowel,0.010012787561307857
 109,abc,all,m_loanwordSource,0.018072142412620194
-110,abc,all,m_derivaionalCat,-0.00011382475655192179
+110,abc,all,m_derivationalCat,-0.00011382475655192179
 111,abc,all,m_secondaryMorph,0.19513359620452944
 112,gbd,morphology,m_pluralPattern,0.03731743648295289
 113,gbd,morphology,m_rAugVowel,0.07029693911278342
 114,gbd,morphology,m_loanwordSource,0.019658581858894793
-115,gbd,morphology,m_derivaionalCat,0.03269270257109663
+115,gbd,morphology,m_derivationalCat,0.03269270257109663
 116,gbd,morphology,m_secondaryMorph,0.16698551836801587
 117,gbd,phonology,p_lengthC,0.00554770652549397
 118,gbd,phonology,p_lengthV,0.0030735128092998533
@@ -134,7 +134,7 @@
 132,gbd,phon+morph,m_pluralPattern,0.034106882044956405
 133,gbd,phon+morph,m_rAugVowel,0.02205863820851736
 134,gbd,phon+morph,m_loanwordSource,0.024353258661834687
-135,gbd,phon+morph,m_derivaionalCat,0.02016671378260893
+135,gbd,phon+morph,m_derivationalCat,0.02016671378260893
 136,gbd,phon+morph,m_secondaryMorph,0.14684111435671346
 137,gbd,phon+sem,p_lengthC,0.001792289454410622
 138,gbd,phon+sem,p_lengthV,0.0006081076508246076
@@ -148,7 +148,7 @@
 146,gbd,morph+sem,m_pluralPattern,0.011575292034463128
 147,gbd,morph+sem,m_rAugVowel,0.04829549852009466
 148,gbd,morph+sem,m_loanwordSource,0.025223065796645776
-149,gbd,morph+sem,m_derivaionalCat,0.0205011860475873
+149,gbd,morph+sem,m_derivationalCat,0.0205011860475873
 150,gbd,morph+sem,m_secondaryMorph,0.18142316029177297
 151,gbd,morph+sem,s_humanYN,0.003944885030210008
 152,gbd,morph+sem,s_animateYN,0.046129969200248054
@@ -165,12 +165,12 @@
 163,gbd,all,m_pluralPattern,0.01749124930364062
 164,gbd,all,m_rAugVowel,0.006078600497673707
 165,gbd,all,m_loanwordSource,0.023655255312730876
-166,gbd,all,m_derivaionalCat,0.004433179402566779
+166,gbd,all,m_derivationalCat,0.004433179402566779
 167,gbd,all,m_secondaryMorph,0.154437481449339
 168,svc,morphology,m_pluralPattern,0.008830681463773646
 169,svc,morphology,m_rAugVowel,0.09305634217527235
 170,svc,morphology,m_loanwordSource,0.008665030996827918
-171,svc,morphology,m_derivaionalCat,0.07426493815145802
+171,svc,morphology,m_derivationalCat,0.07426493815145802
 172,svc,morphology,m_secondaryMorph,0.07164642300191738
 173,svc,phonology,p_lengthC,-0.01343535630556493
 174,svc,phonology,p_lengthV,0.012922639253852505
@@ -190,7 +190,7 @@
 188,svc,phon+morph,m_pluralPattern,0.007534041938038074
 189,svc,phon+morph,m_rAugVowel,0.039502945537079275
 190,svc,phon+morph,m_loanwordSource,0.005594755247946696
-191,svc,phon+morph,m_derivaionalCat,0.011013717377838387
+191,svc,phon+morph,m_derivationalCat,0.011013717377838387
 192,svc,phon+morph,m_secondaryMorph,0.01210555806148042
 193,svc,phon+sem,p_lengthC,-0.0043206742063696965
 194,svc,phon+sem,p_lengthV,0.01701479917710594
@@ -204,7 +204,7 @@
 202,svc,morph+sem,m_pluralPattern,0.016224026099484125
 203,svc,morph+sem,m_rAugVowel,0.10463859501877358
 204,svc,morph+sem,m_loanwordSource,0.01617949637799955
-205,svc,morph+sem,m_derivaionalCat,0.07210795689486395
+205,svc,morph+sem,m_derivationalCat,0.07210795689486395
 206,svc,morph+sem,m_secondaryMorph,0.07923172292829332
 207,svc,morph+sem,s_humanYN,0.04349046399533519
 208,svc,morph+sem,s_animateYN,0.03899179366943765
@@ -221,12 +221,12 @@
 219,svc,all,m_pluralPattern,0.0016896106407699072
 220,svc,all,m_rAugVowel,0.03147584321818114
 221,svc,all,m_loanwordSource,0.0013525473119890663
-222,svc,all,m_derivaionalCat,0.005466921556735854
+222,svc,all,m_derivationalCat,0.005466921556735854
 223,svc,all,m_secondaryMorph,0.005103592802475898
 224,evc,morphology,m_pluralPattern,0.057888223105593925
 225,evc,morphology,m_rAugVowel,0.0796270956702638
 226,evc,morphology,m_loanwordSource,0.02357588631757602
-227,evc,morphology,m_derivaionalCat,0.038871309286353226
+227,evc,morphology,m_derivationalCat,0.038871309286353226
 228,evc,morphology,m_secondaryMorph,0.1616218319675613
 229,evc,phonology,p_lengthC,0.009181839663103144
 230,evc,phonology,p_lengthV,0.010349889115813735
@@ -246,7 +246,7 @@
 244,evc,phon+morph,m_pluralPattern,0.030483830523027732
 245,evc,phon+morph,m_rAugVowel,0.030558427636223698
 246,evc,phon+morph,m_loanwordSource,0.02756594909748394
-247,evc,phon+morph,m_derivaionalCat,0.023222044423211453
+247,evc,phon+morph,m_derivationalCat,0.023222044423211453
 248,evc,phon+morph,m_secondaryMorph,0.12758754616585163
 249,evc,phon+sem,p_lengthC,0.0010201213921807613
 250,evc,phon+sem,p_lengthV,0.0039817461803019726
@@ -260,7 +260,7 @@
 258,evc,morph+sem,m_pluralPattern,0.02990378091896618
 259,evc,morph+sem,m_rAugVowel,0.05031772979247173
 260,evc,morph+sem,m_loanwordSource,0.021851485141506023
-261,evc,morph+sem,m_derivaionalCat,0.025608210288338765
+261,evc,morph+sem,m_derivationalCat,0.025608210288338765
 262,evc,morph+sem,m_secondaryMorph,0.16584875527247742
 263,evc,morph+sem,s_humanYN,0.005420470143018713
 264,evc,morph+sem,s_animateYN,0.03968335153696858
@@ -277,5 +277,5 @@
 275,evc,all,m_pluralPattern,0.018083199848921074
 276,evc,all,m_rAugVowel,0.014190010025146275
 277,evc,all,m_loanwordSource,0.026462349057071958
-278,evc,all,m_derivaionalCat,0.009270615394192569
+278,evc,all,m_derivationalCat,0.009270615394192569
 279,evc,all,m_secondaryMorph,0.1316371600830732
