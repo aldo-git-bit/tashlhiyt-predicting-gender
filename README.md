@@ -6,6 +6,8 @@ Brief overview of the project, its purpose, and its key features.![image](https:
 ## Usage
 Clear steps on how to install, run, or use the project.![image](https://github.com/user-attachments/assets/7a5133fa-1776-4f25-a958-92930274cd95)
 
+make sure piyush gives package requirements and a sense of what each program can do
+
 ## Examples
 Provide sample usage or screenshots to illustrate functionality.![image](https://github.com/user-attachments/assets/3c6e1a02-1d15-4d90-9063-037d5acf6bd3)
 
