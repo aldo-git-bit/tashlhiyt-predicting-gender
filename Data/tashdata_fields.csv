@@ -1,0 +1,23 @@
+﻿field,type,explanation
+analysisHasSecondaryMorphYN,analysis,"Yes if noun has secondary morphology (as in diminutive or augmentative), else blank"
+analysisMutability,analysis,"specified paradigm structure by classifying noun into one of five classes: Fixed-Masc, Fixed-Fem, Variable-Masc, Variable-Fem, Neutral; see article for what these mean"
+analysisSemanticCoreYN,analysis,"used with 3 category gender system: Y if this gender system can be predicted from semantic information and mutability, else N"
+analysisSingularTheme,analysis,the phonetic structure of the singular theme
+lexiconGlossEnglish,lexicon,"English gloss given by native speaker 90% of the time, else Google Translate"
+lexiconGlossFrench,lexicon,French gloss given by native speaker
+m_analysisPluralPattern,morphological,"classifies nouns by how they form plurals from following patterns: internal, external, mixed, id plural, No plural, Only plural; see article for explanations"
+m_analysisRAugVowel,morphological,"classifies nouns by the result of the R-Aug rule (see article): A, I, or Zero (=no R-Aug vowel augment)"
+m_lexiconLoanwordSource,morphological,source language for loanword or 'native' if not a loanword; distinguishes degrees of assimilation for Arabic
+m_wordDerivedCategory,morphological,"specifies the derivational category for derived nouns (see article), else Underived"
+m_wordNumSemanticCategory,morphological,"specifies the secondary morphological category (e.g., DIM, AUG, POLY) as a suffix and the wordform it is specified on with the first number (see wordLexBitVector for slots)"
+p_analysisThemeCV,phonological,CV structure of the theme
+p_analysisThemeFinalSegment,phonological,final segment of the theme
+p_analysisThemeInitialSegment,phonological,initial segment of the theme
+recordID,bookkeeping,unique number for referencing  individual noun paradigms
+s_lexiconAnimateYN,semantic,"Y if animate (includes animals and insects, not plants), else N"
+s_lexiconHumanYN,semantic,"Y if human, else N; humanness given to individuals, not groups, so 'crowd' is N"
+s_lexiconSemanticField,semantic,semantic field of noun in Buck's system of semantic categories from: https://lrc.la.utexas.edu/lex/semantic
+s_lexiconSexGender,semantic,"specifies Male or Female for nouns with sex differentiation, else 'NonSpec' for animate nouns with no specification"
+wordLexBitVector,analysis,"specified paradigm structure by indicating if a word exists (1) or not (0) in the 8-slot paradigm structure: 1-MSF, 2-MSB, 3-MPF, 4-MPB, 5-FSF, 6-FSB, 7-FPF, 8-FPB; masculine and feminine slots separated by hyphen: NNNN-NNNN; this is very helpful for filtering nouns with certain paradigm structures"
+y_analysisGender2Category,gender,"gender category with binary distinction: masculine, feminine"
+y_analysisGender3Category,gender,"gender category with binary distinction: masculine, feminine, neutral"
