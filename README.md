@@ -6,23 +6,23 @@ This repository gives the supplementary materials for our 2025 Linguistic Analys
 ## Usage - repository contents
 The supplementary materials are organized into the folders below. File names contain certain strings with the following meanings: cv(cross-validation), nonhp(non hyper-parameterized model), rel_impX(relative importance of model X using importance methods). PIYUSH: you can drop this if you rename the files.
 
-### Data
+### data
 Gives the data used by the model to predict gender, including data frames derived from feature engineering. Original data set, tashdata, has all the core data, and tashdata_fields gives detailed field explanations.
 
-### Code
-Gives all the code for our analyses, including feature engineering, training with cross-validation using different gender systems (including the three category system we don't report in the article), correlation analysis, feature importance, hyper-paramterizing, and visualization.
+### code
+Gives all the code for our analyses, including feature engineering, training with cross-validation using different gender systems (including the three category system we don't report in the article), correlation analysis, feature importance, hyper-paramterizing, and visualization. Each of the files describe what they are performing in the first comment.
 
-### Plots
+### plots
 Repository of all plots used to visualize the results, including the results of many models not discussed in the article.
 
-### Results
+### results
 Data tables for all results, including the results for some models not reported in the article, like models using one-hot encoding.
 
 ### notebook
 Some useful notebooks for exploring the data and establishing conclusions for feature engineering. 
 
 ### Package requirements
-PIYUSH: can you give these, and maybe move the subsection to a better place - maybe a separate section?
+All packages used are listed in the requirements.txt file. `pip install -r requirements.txt` can be used to install all packages.
 
 ## Citation
 If the data or models are used for another project or publication, please cite the research article below.
