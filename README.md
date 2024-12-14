@@ -4,7 +4,7 @@
 This repository gives the supplementary materials for our 2025 Linguistic Analysis article (see citation below) on gender assignment in Tashlhiyt. Tashlhiyt is an Amazigh language of Morocco in which nouns are assigned to one of two gender categories: masculine or feminine. Gender assignment is the system drawing on the form and meaning of a noun to assign these categories. In this project, we treat gender assignment in Tashlhiyt as an supervised learning problem where we try to predict gender from a set of 14 linguistic features. The principal finding reported in our article is that Tashlhiyt is a mixed system that uses both morphological (word structure) and phonological (sound structure) to assign gender. The data and models in this repository can be used to validate our assumptions and also extend it to new investigations. 
 
 ## Usage - repository contents
-The supplementary materials are organized into the folders below. File names contain certain strings with the following meanings: cv(cross-validation), nonhp(non hyper-parameterized model), rel_impX(relative importance of model X using importance methods). PIYUSH: you can drop this if you rename the files.
+The supplementary materials are organized into the folders below. File names contain certain strings with the following meanings: cv(cross-validation), nonhp(non hyper-parameterized model), rel_impX(relative importance of model X using importance methods).
 
 ### Data
 Gives the data used by the model to predict gender, including data frames derived from feature engineering. Original data set, tashdata, has all the core data, and tashdata_fields gives detailed field explanations.
